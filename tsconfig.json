@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "target": "es2020",
+    "strict": true,
+    "lib": ["dom", "esnext"],
+    "types": ["./src/global.d.ts"],
+
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  }
+}
