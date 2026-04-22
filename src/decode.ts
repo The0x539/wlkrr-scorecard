@@ -7,7 +7,14 @@ export class BinaryReader<T extends ArrayBufferLike = ArrayBuffer>
     super(buffer);
   }
 
+  pos(): number {
+    return this.i;
+  }
+
   seek(pos: number): void {
+    if (pos < 0) {
+      pos = this.byteLength + pos;
+    }
     this.i = pos;
   }
 
@@ -158,11 +165,10 @@ export abstract class Decodable {
     return readers.get(this)!;
   }
 
-  constructor(data: ArrayBuffer | BinaryReader, littleEndian: boolean = false) {
+  constructor(data: ArrayBuffer | BinaryReader) {
     if (!(data instanceof BinaryReader)) {
       data = new BinaryReader(data);
     }
-    data.littleEndian = littleEndian;
     readers.set(this, data);
   }
 }

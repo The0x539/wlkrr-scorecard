@@ -7,10 +7,33 @@ import type { JSX } from "preact";
 import { Album } from "./album.tsx";
 
 export function Scorecard(): JSX.Element {
-  if (!fileState.save.value) return <></>;
+  const save = fileState.save.value;
+  if (!save) return <></>;
+
+  const slot = save.users[0];
+  const game = slot.game;
 
   return (
     <>
+      <ol>
+        {game.star.map((m) => (
+          <li>
+            <dl>
+              <dt>Clear</dt>
+              <dd>{m.clear}</dd>
+
+              <dt>Record</dt>
+              <dd>
+                <ol>{m.record.map((n) => <li>{n}</li>)}</ol>
+              </dd>
+
+              <dt>Rank</dt>
+              <dd>{m.rank}</dd>
+            </dl>
+          </li>
+        ))}
+      </ol>
+
       <Album />
     </>
   );

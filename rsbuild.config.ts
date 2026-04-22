@@ -25,6 +25,20 @@ export default defineConfig({
   plugins: [
     // prefresh just seems to throw a weird error. not my problem.
     pluginPreact({ prefreshEnabled: false }),
-    pluginTypeCheck(),
+    pluginTypeCheck({
+      tsCheckerOptions: {
+        typescript: {
+          configOverwrite: {
+            exclude: [
+              // TODO: Figure out a good way to just properly isolate these so they're not type-checked with the web stuff
+              "./src/dump-locale.ts",
+              "./src/asset-bundle.ts",
+              "./src/unity-asset/mono-behaviour.ts",
+              "./src/unity-asset/index.ts",
+            ],
+          },
+        },
+      },
+    }),
   ],
 });

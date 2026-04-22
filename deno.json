@@ -3,10 +3,13 @@
   "tasks": {
     "build": "deno run -A npm:@rsbuild/core build",
     "run": "deno run -A npm:@rsbuild/core dev",
+    "dump-locale": "deno -R src/dump-locale.ts > src/game-data/locale.json",
+    "dump": "deno task dump-locale",
 
     "deploy": "deno task build --base /~the0x539/wlkrr && rsync -r dist/ lcolonq:public_html/wlkrr"
   },
   "imports": {
+    "@denosaurs/lz4": "jsr:@denosaurs/lz4@^0.1.4",
     "@preact/signals": "npm:@preact/signals@^2.9.0",
     "@rsbuild/core": "npm:@rsbuild/core@^1.7.5",
     "@rsbuild/plugin-preact": "npm:@rsbuild/plugin-preact@^1.7.2",

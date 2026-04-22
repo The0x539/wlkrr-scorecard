@@ -1,6 +1,7 @@
 {
   "version": "5",
   "specifiers": {
+    "jsr:@denosaurs/lz4@~0.1.4": "0.1.4",
     "jsr:@std/fs@^1.0.23": "1.0.23",
     "jsr:@std/internal@^1.0.12": "1.0.12",
     "jsr:@std/path@^1.1.4": "1.1.4",
@@ -15,6 +16,9 @@
     "npm:typescript@^6.0.3": "6.0.3"
   },
   "jsr": {
+    "@denosaurs/lz4@0.1.4": {
+      "integrity": "ad5d556c02eb01fe1e0f2e953d7be066a14870afe149b1aed1ced019460f6aa1"
+    },
     "@std/fs@1.0.23": {
       "integrity": "3ecbae4ce4fee03b180fa710caff36bb5adb66631c46a6460aaad49515565a37",
       "dependencies": [
@@ -611,6 +615,7 @@
   },
   "workspace": {
     "dependencies": [
+      "jsr:@denosaurs/lz4@~0.1.4",
       "jsr:@std/fs@^1.0.23",
       "npm:@preact/signals@^2.9.0",
       "npm:@rsbuild/core@^1.7.5",
