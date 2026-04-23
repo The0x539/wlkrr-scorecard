@@ -1,0 +1,3501 @@
+
+Spatel
+Kaki
+Ziegelstein
+Megafon
+Kassette
+Schäler
+Wassereis-Stand
+Grillmais-Stand
+Liebesapfel-Stand
+Rote Socke
+Blaue Socke
+Mädchen-Handy
+Radiergummi
+Sandradiergummi
+Kendama
+Frittierte Garnele
+Löffel
+Gabel
+Baseball
+Kehrschaufel
+Dosenpfirsiche
+Glühbirne
+Taschenrechner
+Telefonbuch
+Mausefalle
+Neujahrskarten
+Türmatte
+Porenbetonblock 
+Holzbank
+Barbierpfosten
+Bambusbesen
+Laden-Kehrschaufel
+Hausbriefkasten
+Bügeleisen
+Lotteriemaschine
+Alte Zeitung
+Müllsack
+Hundefutternapf
+Blumentöpfe
+Ping-Pong-Ball
+Schildkrötenei
+Film
+Mückenstecker
+Stecker-Nachfüllpackung
+Champion-Burger
+Katzenabwehrflasche
+Kompass
+Großer Milchkarton
+Brille
+Diamant
+Onyx
+Rubin
+Smaragd
+Filmklappe
+Kelle
+Oden
+Toast
+Brotlaib
+Rote Jumboman-Maske
+Streichholzschachtel
+Fuchsmaske
+Noh-Maske
+Hyottoko-Maske
+Rote Oni-Maske
+Blaue Jumboman-Maske
+Gelbe Jumboman-Maske
+Polizeiausweis
+Tafelwischer
+Holzhammer
+Hammer
+Schraubenschlüssel
+Kreuzschraubendreher
+Schlitzschraubendreher
+Shuriken
+Thunfisch-Sushi
+Tintenfisch-Sushi
+Thunfisch-Sushi
+Eier-Sushi
+Oktopus-Sushi
+Garnelen-Sushi
+Kalligrafie
+Briefbeschwerer
+Tusche
+Reibstein
+Schachtelhalm
+Mikrofon
+Wachtelei
+Hühnerei
+Straußenei
+Dampfklößchen
+Polizeischlagstock
+Hamburger
+Getränk
+Gebratenes Hähnchen
+Flüstertüte
+Antenne
+Wasserfarbe
+Einkaufskorb
+Einkaufswagen
+Aktentasche
+Aktenmappe
+Getrockneter Tintenfisch
+Vogelscheuche
+Papiertheater
+Kendo-Maske
+Bambusschwert
+Fass
+Orgel
+Weihnachtsbaum
+Stiefel
+Haus
+Nikolaus
+Stern
+Verkehrsdummy
+Blauer Schmuck
+Roter Schmuck
+Goldener Schmuck
+Schneeflocke
+Bock
+2. Stufe
+3. Stufe
+4. Stufe
+5. Stufe
+6. Stufe
+7. Stufe
+8. Stufe
+9. Stufe
+10. Stufe
+Waage
+Kraftmesser
+Größenmesser
+Dosenthunfisch
+Wetterstation
+Rotes Ölfass
+Grünes Ölfass
+Blaues Ölfass
+Dummy-Hit 12
+Schulstuhl
+Schultisch
+Ahornblatt
+Taube
+Ginkgo
+Reisballen
+Warnschild
+Sedan
+Schrägheck
+Transporter 
+Kompaktwagen
+Kleinlaster
+Kleinbus
+Pflüger
+Mähdrescher
+Traktor
+Bootshaus
+Takoyaki-Pfanne
+Kürbisflasche
+Lagerschuppen
+Segelbootvermietung
+Kanonenofen
+Daikon-Rettich
+Fahranfänger-Schild
+Vierblattklee-Symbol
+Wassertank
+Angel
+Angelköder
+Funkturm
+Betonabdeckung
+Eisenabdeckung
+Stahlabdeckung
+Boot
+Propantank
+Mörser
+Stößel
+Fernglas
+Röhre
+Schwanenboot
+Rotweißer Schwimmring
+Hanko
+Stempelkissen
+Münztelefon
+Mülleimer
+Recyclingtonne
+Metallmülltonne
+Mülltonne
+Daikon-Rettiche
+Chinakohl
+Kai
+Fahrrad
+Zeitschriftenständer
+Regenschirm
+Gepunkteter Regenschirm
+Sonnenschirm
+Verkaufsautomat
+Zahlenzähler
+Rucksack
+Kerosintank
+Milchkasten
+Windmühle
+Holz
+Kohl
+Friseurladen
+Stall
+Grüner Kürbis
+Kürbis
+Plastikgewächshaus
+Matsuri-Bühne
+Matsuri-Festzelt
+Matsuri-Tisch
+Bücherladen
+Picknicktisch
+Blaue Oni-Maske
+Grüne Oni-Maske
+Fermentierfass
+Schubkarre
+Panda-Maskottchen
+Gartenlaterne
+Hacke
+Schaufel
+Axt
+Matrjoschkapuppe (XL)
+Stroh
+Feuerholz
+Kurzer Zaun
+Zaun
+Geländer
+Holzzaun
+Ziegelmauer
+Langer Holzzaun
+Mauer
+Spitzhacke
+Barriere
+Erdbeermarmelade
+Gartenpflanze (M)
+Blumenbeet
+Eckiger Busch
+Bündel
+Spross
+Briefkasten
+Stiefmütterchen
+„Parken verboten"-Schild
+Laternenpfahl
+Fertighaus
+Carport
+Holzkiste
+Musikladen
+Ladenschild
+Schreibwarenladen
+Ladenschild
+Telefonzelle
+Apartment
+Dekorativer Baum
+Konishi-Residenz
+Kurzer Strommast
+Miyamoto-Residenz
+Langer Strommast
+Stromleitung
+Stromleitung
+Dummy-Hit 04
+Kleiner Laden
+Ladenschild
+Palme
+Bauernhof
+Chinesische Schale
+Lottoladen
+Lotterieschild
+Kinomarkise
+Wachtelfluss-Schild
+Schwert
+Bushaltestelle
+AAA-Batterie 
+Kakerlakenfalle
+Campingzelt
+Fallender Stein
+Feuerwerk 
+Kieferndekoration
+Baum
+Großer Baum
+Gartenzaun
+Parkplatzschild
+Puzzle-Arcadespiel
+Unfallzählerschild
+Kalender
+Zeitplan
+Gedicht
+Lotusblatt
+Riesiges Lotusblatt
+Lotusblüte
+Gestreifter Fisch
+Polizist
+Münzspind
+Bonsai
+Festival
+Takoyaki-Stand
+Sie sind hier
+Kassettenradio
+Werbeballon
+Brunnenpumpe
+Omikoshi
+Meerjungfrau
+Mückenspirale
+Mücke
+Einzelsofa
+Arcade-Automat
+Geta
+Gummistiefel
+Kinderstiefel
+Mülllaster
+Bauzaun
+Laster
+Bus
+Karpfen-Windfahne
+Magoi
+Higoi
+Kogoi
+Fukinagashi
+Geist der Freude
+Bankwärmer
+Globus-Klettergerüst
+Wippe
+Klettergerüst
+Rutsche
+Kotatsu
+Müll
+Surfbrett
+Sitzkissen
+Tonofen
+Dreirad
+Kinderdreirad 
+Papiereinkaufstüte
+Kerosinofen
+Monument
+Steuer
+Wasserhahn
+Daruma
+Globus
+Papierlaterne
+Teleskop
+Tipi
+Trophäe
+Pfanne
+Shabu-Shabu-Topf
+Pizzalieferanten-Fahrrad
+Essenslieferanten-Fahrrad
+Pachinko-Automat
+Weißer Bauklotz
+Getränkekiste
+Picknickkorb
+Gong
+Wrestling-Ring
+Bowling-Pin
+Löwenstatue
+Ringschatulle
+Schneemann
+Laterne
+Taiko-Trommel
+Toilettenhäuschen
+Roller
+Feuerwerk 
+Feuerwerkbatterie 
+Hotelschild
+Souvenirteller
+Jumboman-Figur
+Balancespielzeug
+Friseurladenschild
+Lebensmittel-Lieferbox
+Mikroskop
+Pampasgras
+Reagenzglas-Set
+Kassettenradio
+Buchladenschild
+Drogerieschild
+Stereo
+Bürgersteigmarkierung
+Rakete
+Kreuzfahrtschiff
+Turm
+Flugzeug
+Riesenrad
+Öltank (voll)
+Wolken
+Blauer Bauklotz
+Goldfischgebäude
+Aalgebäude
+Bagger
+Satellit
+Plastikfolie
+Waschpulver
+Taschentücher
+Taschentuchschachtel
+Toilettenpapier
+Toilettenpapierrolle
+Holzwand
+Schulwand
+„All You Can Eat"
+„Rabatte"-Banner
+„Schwimmen verboten"-Schild
+Beinloser Stuhl
+Offene Taschentuchschachtel
+Regenfänger-Glücksbringer
+Ölheizkörper
+Flughafenterminal
+Fluglotsenturm
+Reisbehälter
+Süßigkeitenbehälter
+Gießkanne
+Fröhliches Tor
+Hochzeitstor
+Vase
+Safe
+Schranke
+Pandapantoffel
+Lederschuh
+Sandale
+Kinderschuh
+Pantoffel
+Pumps
+Sneaker
+Monstertruck
+Schraube
+Kreuzschraube
+Kran
+Klimaanlagen-Kondensator
+Astro-Weltraumzentrum
+Bulldozer
+Shop-Schild
+Große Wassermelone
+Dampfwalze
+Japanische Streichholzschachtel
+Zahnarzt-Schild
+Mayonnaise
+Riesige Wassermelone
+Bohrer
+Segelboot
+Sternstaub-Chopper
+Donner-Chopper
+Shogi-Tisch
+Ousho
+Gyokusho
+Hisha
+Kakugyo
+Kinsho
+Ginsho
+Keima
+Kyousha
+Fu
+Roter Rucksack
+Schwarzer Rucksack
+Badwaage
+Firmenschild
+Mauer
+Stahlzaun
+Fußballtor
+Pappkarton
+Farbfernseher
+Mobiltelefon
+Wecker
+Bank-Schild
+Telefon
+Toaster
+Walkie-Talkie
+Bratpfanne
+Kuhstall
+Baumstammzaun
+Reiskocher
+Herrenkleidung-Schild
+Springendes Kaninchen
+Strandball
+Teddybär
+Bärenjunges
+Eisbär
+Großer Bär
+Kintaro-Bär
+Karpfen
+Schnapper
+Thunfisch
+Lachs
+Bonito
+Kugelfisch
+Rochen
+Kleine Winkerkrabbe
+Winkerkrabbe
+Palmendieb
+Pfeilschwanzkrebs
+Spinnenkrabbe
+Blaue Krabbe
+Kalb
+Milchkuh
+Niedliche Kuh
+Ochse
+Heilige Kuh
+Weißes Schaf
+Schwarzes Schaf
+Giraffe
+Krokodil
+Affenfahrzeug
+Mann 
+Krähe
+Spatz
+Dummy-Hit 02
+Blaues Mädchen
+Gelbes Mädchen
+Rosa Mädchen
+Hündchen
+Hund mit Flöhen
+Bulldogge
+Schildpattkatze
+Tabby-Katze
+Siamesische Katze
+Schwarze Katze
+Maus
+Ratte
+Elefant
+Großer Elefant
+Seeotter
+Mistkäfer
+Großer Mistkäfer
+Riesiger Mistkäfer
+Käferkampf
+Taube
+Huhn
+Einkäuferin
+Große Einkäuferin
+Adler
+Krähe
+Spatz
+Spielzeughund
+Zimbelaffe
+Fröhliche Blume
+Jumbo-Mammut
+Opa
+Uropa
+Schulmädchen
+Großes Schulmädchen
+Großer Schuljunge
+Schuljunge
+Bärenstarker Junge
+Kleiner Schuljunge
+Firmenangestellter
+Langzeitangestellter
+Launischer Typ
+Großer Typ
+Beschäftigte Mama
+Hausfrau
+Ferngesteuertes Modellauto
+Schnecke
+Junge
+Junior
+Nesthäkchen
+Mädchen
+Skateboardjunge
+Rollschuhjunge
+Dünner Typ
+Großer Mann im Ausland
+Händler
+Oma
+Bauer
+Fischer
+Bärenstarker Fischer
+Outfielder
+Catcher
+Batter
+Bankwärmer
+Mutsuo Hoshino
+Handtuchtyp
+Huckepacker
+Dreier-Huckepacker
+Menschenpyramide
+Bikini-Mädchen
+Badeanzug-Mädchen
+Schwimmreifen-Kind
+Kickboard-Junge
+Surfer
+Ringkampf
+Sumokampf
+Judo-Wettbewerb
+Punk
+Verspielter Punk
+Doppelpunks
+Muskelpaket
+Michiru Hoshino
+Papierfächermann
+Matsuri-Junge
+Matsuri-Liebhaberin
+Matsuri-Mädchen
+Stromtechniker
+Straßenmusikant
+Heimwerker-Vater
+Taucher
+Clown
+Tomio Hoshino
+Chef-Bohrer
+Mizue Hoshino
+Bauarbeiter-Typ
+Orakel
+Einbrecher
+Ballonmann
+Alpinist
+Bergmensch
+Lieferant
+Krankenschwester
+Mama-San
+Riesiger Baum
+Gigantischer Baum
+Nikaido-Residenz
+Onishi-Residenz
+Niwata-Residenz
+Umemoto-Residenz
+Matsuo-Residenz
+Shimizu-Residenz
+Blauer Heißluftballon
+Pinker Heißluftballon
+Bunter Heißluftballon
+Europäischer Heißluftballon
+Kelpfabrik
+Schornstein
+Tierbuch
+Pflanzenbuch
+Rotes Mietshaus
+Dummy-Hit 03
+Speerfisch-Gebäude
+Rochen-Gebäude
+Sardinen-Gebäude
+Lachs-Gebäude
+Brassen-Gebäude
+Korallengebäude
+Frachtschiff 
+Baseballschläger
+Landebahn
+Roter Regenschirm
+Langer Sitz
+Dummy-Hit 01
+Große Rübe
+Laternenpfahl
+Vanillewaffel
+Gemischte Eiswaffel
+Erdbeerwaffel
+Eiskühlschrank
+Große Bank
+Verkaufswagen
+Warenstand
+Busfahrplan
+Kirschblüte
+Wahlplakat
+Roter Verkaufsautomat
+Blauer Verkaufsautomat
+Muh-Kuh-Verkaufsautomat
+Verkehrsspiegel
+Kleines Fischerboot
+Fischerboot
+Schlepper
+Großer-Fang-Flagge Nr. 1
+Großer-Fang-Flagge Nr. 2
+Hafendammblock
+Fußballstadion
+Stadionbeleuchtung
+Stadionbildschirm
+Florist
+Floristik-Schild
+Festival-Laterne
+Schuhladen-Schild
+Tonfigur
+Gemüsekiste
+Fruchtkiste
+Große Eröffnung
+Dairi-Puppe
+Hina-Puppe
+Zofen-Puppe
+Hofmusikant mit Flöte
+Hofmusikant mit Trommel
+Rechter Berater
+Linker Berater
+Japanische Laterne
+Hishi-Mochi
+Ochsenkarren
+Getränkeschild
+Horizontale Stange
+Hängestange
+Schaukelpferd
+Rektorenstatue
+Kebab
+Ballwurf-Korb
+Dampfschiff
+Festival-Laterne
+Grünweißer Strandschirm
+Kaninchenballon
+Braten mit Knochen
+Lutscher
+Zitronenkuss-Chopper
+Dock-Stapel
+Gaszähler
+Wassermelonenscheibe
+Halbe Wassermelone
+Wassermelone
+Stahlturm
+Kiefer
+Superriesiger Regenbogen
+Insektenkäfig
+Präparierte Schmetterlinge
+Gastank
+Lager
+Krangerüst
+Parkhaus
+Trauben
+Muskateller
+High School
+College
+Kimono
+Stadionballon
+Sonnenblume
+Riesiges Windrad
+Stadion
+Bowlingbahn
+Riesiger Bowling-Pin 
+Startrampe
+Kran (S)
+Warnung
+Einbahnstraße
+Sole-Gebäude
+U-Boot
+Isoliertopf
+Ruine einer großen Stadt
+Burg
+Pilz (L)
+Pilz (XXXL)
+Satellitenschüssel
+Tornado
+Mahlstrom
+Wassermelonenmädchen
+Häschenkostüm
+Bärenkostüm
+Kuhkostüm
+Schere
+Fön
+Shogi-Brett
+Geländer (5 m)
+Geländer (rechts)
+Geländer (links)
+Geländer (3 m)
+Große Meeresschildkröte
+Riesige Meeresschildkröte
+Baumfrosch
+Giftiger Frosch
+Kröte
+Robbe
+5-Yen-Münze
+10-Yen-Münze
+500-Yen-Münze
+Japanisch-Englisch-Wörterbuch
+Heim-Gesundheitsratgeber
+Wetterhahn
+Orangensaft
+Goldmedaille
+Kinderauto
+Froschauto
+Parklaternenpfahl
+Alte Münze
+Schokolade
+Schokolade
+Hirschscheuche
+Gartenstein
+Polizeifahrrad
+Windbeutel
+Baumstumpf
+Baum
+Roter Ballon
+Blauer Ballon
+Gelber Ballon
+Kinderschaufel
+Kinderharke
+Kindereimer
+Sandburg
+Kleines Takoyaki
+Ein-Bissen-Takoyaki
+Takoyaki
+Kreide
+Rote Kreide
+Kinderzeichnung (Flugzeug)
+Kinderzeichnung (Blume)
+Handschellen
+Truthahn
+Schlauchrolle
+Neujahrskarte
+Postkarte
+Umschlag
+Wasserpumpen-Werbung
+Feuergefahr-Schild
+Geräte-Werbeplakat
+Takoyaki-Schild
+Silbermedaille
+Bronzemedaille
+Wassertank-Schild
+Parken verboten!
+Papierkorb
+Schwimmring
+Ananas
+Schaukel
+Gullydeckel
+Floristenzaun
+Lufterfrischer
+Spielzeugautomat
+Rote Spielzeugkapsel
+Gelbe Spielzeugkapsel
+Blaue Spielzeugkapsel
+Gelbe Kreide
+Grüne Kreide
+Blaue Kreide
+Reißnagel
+Gelbe Reißzwecke
+Blaue Reißzwecke
+Herausgeberschild
+Weißer Wachsstift
+Schwarzer Wachsstift
+Roter Wachsstift
+Pinker Wachsstift
+Grüner Wachsstift
+Lindgrüner Wachsstift
+Blauer Wachsstift
+Türkiser Wachsstift
+Lila Wachsstift
+Brauner Wachsstift
+Hellorangener Wachsstift
+Ockerfarbener Wachsstift
+Goldener Wachsstift
+Wachsstiftschachtel
+Grüner Würfel
+Finanzwerbung
+Geräte-Werbeplakat
+Neon-Hotelschild
+Gestreiftes T-Shirt
+Boxershorts
+Staffelei
+
+
+Gigantischer Oktopus
+Mittlere Reisschüssel
+Große Reisschüssel
+Grüne Reisschüssel
+Kochschinken
+Banane
+Bananenstaude
+Blaue Farbe
+Pinker Pinsel
+Tasse
+Würstchen
+Fernsteuerung
+Pinke Reisschüssel
+Autowerbung
+Savannenbaum
+Grüntee (Dose)
+Kaffee (Dose)
+Limo
+Panda-Ballon
+Biker-Flagge
+Hirschkopf
+Teekanne
+Milchkarton
+Milchflasche
+Kaffeemilch
+Abgerundetes Geländer
+Kran (L)
+Butter
+Morimoto-Residenz
+Werkzeugkasten
+Küchenmesser
+Schlachtermesser
+Marmelade
+Quadratischer Teller
+Weiße Eigentumswohnung
+Sojasaucentütchen
+Thermometer
+Wasserpistole
+Dummy-Hit 06
+Kirschbaum
+Gurkenpflanze
+Aubergine
+Reiskuchen
+Bärenschnitzerei
+Briefmarke
+Karaoke-Gebäude „O"
+Karaoke-Gebäude „Ke"
+Roter Kerosintank
+Kuh-Regenschirm
+Spülmittel
+Hasegawa-Residenz
+Kurosaki-Residenz
+Sojasaucenflasche
+Noguchi-Residenz
+Heißluftballon
+Dummy-Hit 05
+Deluxe-Kühlschrank
+Alte Zeitschriften
+Taschenbuch
+Vogelillustrationen
+Japanisch-Wörterbuch
+Mathe-Übungsheft
+Kanji-Übungsheft
+Comic
+Roter Helikopter
+Propellerflugzeug
+Tagebuch
+Spüle
+Zeitung
+Flugblatt
+Wochenzeitschrift
+Karamellbonbonschachtel
+Karamellbonbon
+Blauweißer Strandschirm
+Bunter Strandschirm
+Bleistiftanspitzer
+B-Bleistift
+H-Bleistift
+Wasserkessel
+Großer-Fang-Flagge Nr. 3
+Großer-Fang-Flagge Nr. 4
+Öltanker
+Holzbank
+Fotokabine
+D-Batterie
+9-Volt-Batterie
+Sturmwolke
+Oni-Insel
+Abalone-Insel
+Herzmuschel-Insel
+Seestern-Insel
+Tsunami-Insel
+Kreiselschnecken-Insel
+Ankerinsel
+Künstliche Insel
+Ampel
+Fußgängerampel
+Goldfisch
+Teehaus
+Teehaus-Banner
+Fossil
+Ammonit
+Vermessungspunkt
+Stein
+Schwarzer Stein
+Großer Stein
+Kleiner Eisberg
+Spitzer Eisberg
+Großer Eisberg
+Der Oni-Stein
+Gebratener Reis
+Schweinebraten
+Ramen
+Aubergine
+Tomate
+Gurke
+Schneidebrett
+„Spielende Kinder"-Schild
+Reifen
+Siegertreppchen
+Pizza
+980-Yen-Preisschild
+198-Yen-Preisschild
+Mauer (niedrig)
+Kuhkegel
+Möhre
+Anzeigemenü
+Ramen-Schild
+Wok
+Geburtstagskuchen
+Hochgeschwindigkeitszug-Vorderteil
+Hochgeschwindigkeitszug-Hinterteil
+Teegebäck
+Hochzeitstorte
+Kühlbox
+Café
+Probierportion
+Schirmladen
+Schirmladen-Schild
+Tulpenstrauß
+Blumenstrauß
+Hortensie
+Blumen
+Brauner Blumentopf
+Blauer Blumentopf
+Brauner Blumenkorb
+Weißer Blumenkorb
+Mikrofonständer
+Scheinwerfer
+Bodenscheinwerfer
+Fernsehkamera
+Flohmarkt
+Pfirsich
+Onigiri
+Großer Pfirsich
+Birne
+Große Birne
+Melone
+Monstermelone
+Apfel
+Monsterapfel
+Kirschen
+Monsterkirschen
+Erdbeere
+Riesige Erdbeere
+Apfelkorb
+Pfirsichkorb
+Orangenkorb
+Bärenjunges-Statue
+Nageltrimmer
+Anschlagbrett
+Keks
+Keks-Sandwich
+Baby-Schildkröte
+Wachtelküken
+Küken
+Straußenküken
+Momotaro
+Regenschirm
+Gepunkteter Regenschirm
+Sonnenschirm
+Jumbo-Regenschirm
+Matrjoschkapuppe (L)
+Matrjoschkapuppe (M)
+Matrjoschkapuppe (S)
+Tram
+Geschlossene Schachtel
+Leere Schachtel
+Pottwal
+Riesenkalmar
+Jumbo-Oktopus
+Schwalbenschwänzchen
+Weißer Schmetterling
+Gelbes Schwalbenschwänzchen
+Lila Schmetterling
+Gangster-Auto
+Pinguin
+Sandhügel
+Irrsinnsangriff
+Ballrennen
+Netter Typ
+Gymnastik-Mädchen
+Flieg, Jumboman!
+Kämpfe, Jumboman!
+Donnergott
+Pogo-Junge
+Fußballspieler
+Gechillter Typ
+Abalone-Taucherin
+Alter Seebär
+Kindergartenhut
+Ton
+Schulheft
+Hausschuhe
+Kindergartentasche
+Superkleber
+Croissant
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein
+NOT USED
+Gigantischer Wal
+Geschlossenes Fenster
+Entenküken
+Ei
+Krone
+Große Münze
+Dosensardinen
+Besen
+Haarnadel
+Rotgelber Strandschirm
+Kaleidoskop
+Sicherheitshelm
+Baseballkappe
+Strohhut
+Pastellfarbener Strandschirm
+Kugelschreiber
+Kalligrafiestift
+Teetasse
+Kasse
+Knopf
+Geist der Wut
+Geist der Trauer
+Geist des Spaßes
+Tankstelle
+Zapfsäule
+Auto-Waschanlage 
+Tankstellenschild
+Spielstand
+Base
+Home Plate
+Pitcher's Mound
+Baseballfeld-Schild
+Lautsprecher
+Linienmarkierer
+Rasenwalze
+Sportjunge
+Mysteriöse Kreatur
+Klappstuhl
+Champion-Gürtel
+Langhantel
+Flaggenboje
+Schatztruhe
+Angelstellen-Schild
+Müllhalde
+Baustelleneingang
+Im Bau
+„Bülbül"-Schild
+Telefonmastwerbung
+Telefonmast-Traverse
+Tempolimitschild
+Stoppschild
+Edles Geländer
+„Betreten verboten"
+Currywerbung
+Bildständer
+Baumstamm
+Holzhütte
+Bungalow
+Schwimmbrett
+Absperrseil
+Haltestellenhäuschen
+Schwimmbaduhr
+Dosensüßigkeiten
+Verstreute Wolken
+Schulflagge
+Schul-Verbrennungsanlage
+Minutenzeiger
+Stundenzeiger
+Gitarre
+Cello
+Harfe
+Konzertpiano
+Anker
+Fernsehsender
+Holztisch
+Golfball
+Fußball
+Football
+Silo
+Roter Klotz
+Gelber Klotz
+Grüner Klotz
+Balancierbalken 
+Kinoschild
+Kinoschild
+Schuhschachtel
+Sprayer
+Papiertüte
+Gartenpflanze
+Bambuszaun
+Magnet
+Lippenstift
+Kaffeebonbon
+Traubenbonbon
+Monument
+Scherzhammer
+Eiswürfelform
+Mini-Taschenlampe
+Pfannenheber
+Pfeil
+Seife
+Spielzeugkiste
+Basketballkorb
+Schwamm
+Haarbürste
+Waschtisch
+Insektenspray
+Ketchup
+Streichholz
+Brot in Scheiben
+Schuhständer 
+Pinker Heißluftballon
+Hafendammblock
+Sich öffnende Pappschachtel
+Glocke
+Kastagnette
+Elektrische Qualle
+Seeanemone
+Algenball
+Strandwächterstuhl
+Boje
+Fitnessstudio-Regal
+Langer Transportcontainer
+Roter Transportcontainer
+Blauer Transportcontainer
+Markt
+Zug
+Passagierwaggon
+Tender
+Expresszug-Vorderteil
+Expresszug-Hinterteil
+Frachtwaggon
+Bentobox mit japanischer Flagge
+Omelettereis
+HF-Strahlungs-Schild
+Kokeshi-Puppe
+Große Kokeshi
+Waschmaschine
+Stereolautsprecher
+Werbung 
+Wäschefläche
+Wäschestange
+Wäschehänger
+Curry
+Eintopf
+Videospiel
+Speicherkarte
+Bügelbrett
+Anschlagtafel
+Müllbehälter
+Parkname
+Stromstecker
+Mehrfachsteckdose
+Panda-Schild
+Zeitschrift
+Teller
+Fruchtkorb
+Ventilator
+Kuckucksuhr
+Kuckuck
+Hundehütte
+Elefanten-Gießkanne
+Kelle
+Pflanzenzaun
+Rote Tulpe
+Weiße Tulpe
+Gelbe Tulpe
+Pinke Tulpe
+Ständer
+Telefontischchen
+Katana
+Stromleitung
+Vogelnest
+Erdbeerpflanze
+Kalender
+Erdbeerpaket
+Sportuniform
+Bonsairegal
+Regen
+Schweinefleischschüssel
+Schiebetür
+Schiebetür
+Kleine Schiebetür
+Shoji
+Soda Float
+Fähnchenstange
+Kaninchen
+Leiter
+Löwenzahn
+Rohrkolben
+Schokosnack
+„Katamari"
+„Erfahrung"
+„Im"
+„Gange"
+Bonbon
+Milchbonbon
+Prunkwinde
+Rote Prunkwinde
+Blaue Prunkwinde
+Käse
+Apfelkiste
+Bleistifthalter
+Ameise
+Schokolade
+Großhandelsmarkt
+Oberleitung
+Hoher Leuchtturm
+Leuchtturm
+Badehaus
+Badehausschornstein
+Weiße Wand
+Kesselraum
+Badehausvorhang
+Totempfahl
+Großer Totempfahl
+Zahnarzt-Werbung
+Bahnhofswerbung
+Friseurladenwerbung
+Bahnhofswerbung
+Daruma
+Schulschild (Chu)
+Schulschild (Gakko)
+Podium
+Turnhalle
+Roter Ball
+Handleser-Tisch
+Polstersessel
+Handleser-Schild
+Abrissbirne
+Bambusrollo
+Feuerwerk
+Feuerwerk-Hortensie
+Trittleiter
+Shachihoko
+Schrank
+Waschzuber
+Schublade
+Anwesen
+Deckenlicht
+Erdöltank
+Buchständer
+Lineal
+Schreibtischlampe
+Spinne
+Windspiel
+Haken
+Feuerlöscher
+Glückskatze 
+Fahrrad
+Apfelsaft
+Sprudel-Cider
+Sportgetränk
+Rote Farbe
+Pinsel
+Kinderregenschirm
+Kinderregenschirm
+Petersilie
+Portemonnaie
+Zahnbürste
+Zahnpasta
+Saftflasche
+Riesiger fallender Stein
+Vogelkäfig
+Klebeband
+Kleine Jacht
+Hängende Schriftrolle
+Essstäbchen
+Sparschwein
+Scheckheft
+Bilderrahmen
+Kopierer
+Gegrillter Fisch
+Casino-Gebäude
+Shumai-Teigtasche
+Mandarinenstück
+Mandarinenschale
+Mandarine
+Torpfosten
+Torlaterne
+Kühlschrank
+Lachs
+Casino-Schild
+Schuhregal
+Pfirsichbaum
+Schaukel
+Poller
+Blaues Knallbonbon
+Benutztes blaues Knallbonbon
+Stereoanlagen-Regal
+Rennstreckenbogen
+Spätkaufschild
+Möwe & Kelp
+Getrockneter Kelp 
+Schultor
+Lagerfeuer
+Großes Lagerfeuer
+Riesiges Lagerfeuer
+Offene Garage
+Geschlossene Garage
+Grüne Reifenbarriere
+Weiße Reifenbarriere
+Podium
+Podiumskulisse
+Lagerfeuer
+Langer Stamm
+Pachinko-Laden
+Pachinko-Schild
+Spätkauf
+Lilienkoralle
+Große Koralle
+Korallenriff
+Pinke Koralle
+Blaue Koralle
+Riesenradbasis
+Wissenschaftliche Fabrik
+Ölfabrik
+Fahrzeug-Drehscheibe
+Blauer Skier
+Gelber Skier
+Grüner Skier
+Skistock
+Snowboard
+Gurkenröllchen
+Thunfischröllchen
+Lachskaviarröllchen
+
+
+Dokudami-Insel
+Sauerkleeinsel
+Lilieninsel
+Distelinsel
+Springkrautinsel
+Begonieninsel
+Insel Udo
+Großer Blumenteller
+Kleiner B-Bleistift
+Bleistift mit Radiergummi
+Edler Bleistift
+Majima-Residenz
+Tamagawa-Residenz
+Hara-Residenz
+Großes Krangerüst
+Netzgehege
+Junge mit Fernsteuerung
+Ururopa
+Urururopa
+Sommer-Schulmädchen
+Sommer-Bohnenstange
+Vertriebsmitarbeiter
+Chefetagenmitarbeiter
+Schüchterner Typ
+Vernünftiger Typ
+Laute Frau
+Madame
+Teilzeitkraft
+Musikladenbesitzer
+Elektronikladenbesitzer
+Makrelen-Sushi
+Ringer
+Berühmter Ringer
+Sumo-Ringer
+Judo-Ringer
+Menschliches Rad
+Marine-Jumboman
+Mecha-Mogran
+Langzeitangestellter
+Löwentanz
+Stelzen
+Oktopus
+Meeresschildkröte
+Schicker Typ
+Unsichtbarer
+Schwertfisch
+Riesenkalmar
+Gigantischer Mini-Oktopus
+Meermann
+Schmales, hohes Gras
+Hohes Gras
+Schmales Gras
+Unkraut
+Niedriger Zaun
+Trojanisches Pferd
+Flugzeugkondensstreifen
+Großer Flugzeugkondensstreifen
+Regenfront
+Edler Zaun
+Zaunpfahl
+Fertigbüro
+Öffentliche Toilette
+Haltestellenhäuschen
+Kleiner Totempfahl
+Hamburger
+Kaugummi
+Makrelen-Gebäude
+Barsch-Gebäude
+Guppy-Gebäude
+Halbschnäbler-Gebäude
+Karpfen-Gebäude
+Grüner Ballon
+Pinker Ballon
+Kaugummistreifen
+Geheimnis
+Neuschnee
+Grober Schnee
+Dichter Schnee
+Nasser Schnee
+Trockener Schnee
+Schneehaus
+Karpfen-Windfahne
+Weihnachtsbaum
+Gymnastikbock
+Geschütztes Warenzeichen
+Frisch-Schild
+Bauernhof
+Blaue Plastikkiste
+Grüne Plastikkiste
+na
+m
+co
+Prinz
+Lalala
+Nik
+Ass
+Johnson
+Samt
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honey
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Dschungel
+Miso
+Vereinigte Staaten von Amerika
+Antigua und Barbuda
+El Salvador
+Kanada
+Kuba
+Guatemala
+Grenada
+Costa Rica
+Jamaika
+St. Kitts und Nevis
+St. Vincent und die Grenadinen
+St. Lucia
+Dominica
+Dominikanische Republik
+Trinidad und Tobago
+Nicaragua
+Haiti
+Panama
+Bahamas
+Barbados
+Belize
+Honduras
+Mexiko
+Argentinien
+Uruguay
+Ecuador
+Guyana
+Kolumbien
+Suriname
+Chile
+Paraguay
+Brasilien
+Venezuela
+Peru
+Bolivien
+Australien
+Kiribati
+Samoa
+Salomonen
+Tuvalu
+Tonga
+Nauru
+Neuseeland
+Vanuatu
+Papua-Neuguinea
+Palau
+Fidschi
+Marshallinseln
+Föderierte Staaten von Mikronesien
+Afghanistan
+Vereinigte Arabische Emirate
+Jemen
+Israel
+Irak
+Iran
+Indien
+Indonesien
+Oman
+Katar
+Kambodscha
+Zypern
+Kuwait
+Saudi-Arabien
+Syrien
+Singapur
+Sri Lanka
+Thailand
+Türkei
+Nepal
+Bahrain
+Pakistan
+Bangladesch
+Philippinen
+Bhutan
+Brunei
+Vietnam
+Malaysia
+Myanmar
+Malediven
+Mongolei
+Jordanien
+Laos
+Libanon
+Südkorea
+China
+Japan
+Nordkorea
+Osttimor
+Algerien
+Angola
+Uganda
+Ägypten
+Äthiopien
+Eritrea
+Ghana
+Kap Verde
+Gabun
+Kamerun
+Gambia
+Guinea
+Guinea-Bissau
+Kenia
+Elfenbeinküste
+Komoren
+Republik Kongo
+Demokratische Republik Kongo
+São Tomé und Príncipe
+Sambia
+Sierra Leone
+Dschibuti
+Simbabwe
+Sudan
+Eswatini
+Seychellen
+Äquatorialguinea
+Senegal
+Somalia
+Tansania
+Tschad
+Zentralafrikanische Republik
+Tunesien
+Togo
+Nigeria
+Namibia
+Niger
+Burkina Faso
+Burundi
+Benin
+Botsuana
+Madagaskar
+Malawi
+Mali
+Südafrika
+Mosambik
+Mauritius
+Mauretanien
+Marokko
+Libyen
+Liberia
+Ruanda
+Lesotho
+Island
+Irland
+Albanien
+Andorra
+Vereinigtes Königreich
+Italien
+Estland
+Österreich
+Niederlande
+Griechenland
+Kroatien
+San Marino
+Schweiz
+Schweden
+Spanien
+Slowakei
+Slowenien
+Tschechische Republik
+Dänemark
+Deutschland
+Norwegen
+Vatikanstadt
+Ungarn
+Finnland
+Frankreich
+Bulgarien
+Belgien
+Polen
+Portugal
+Malta
+Monaco
+Lettland
+Litauen
+Liechtenstein
+Luxemburg
+Rumänien
+Nordmazedonien
+Serbien und Montenegro
+Bosnien und Herzegowina
+Aserbaidschan
+Armenien
+Ukraine
+Usbekistan
+Kasachstan
+Kirgisistan
+Georgien
+Tadschikistan
+Turkmenistan
+Belarus
+Moldau
+Russland
+Grönland
+Antarktika
+Taiwan
+Der König des gesamten Kosmos
+Die Königin
+Glitzer
+Huey
+Nutsuo
+Jenseits
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Flutsch
+Drooby
+Signolo
+Wäschekorb
+Tablett
+Nähkästchen
+Origamikette
+Regale
+Seetang
+Essensbude
+Essenswagen
+Mini-Fernseher
+Werkzeugkasten
+Arbeitsstuhl
+Arbeitstisch
+Bett
+Schneeball (S)
+Schneeball (M)
+Schneeball (L)
+Großer Regenbogen
+Schäfchenwolke
+Cumulonimbus
+Cumulonimbus (L)
+Donnerwolke (S)
+Donnerwolke (M)
+Donnerwolke (L)
+Regenwolke (S)
+Regenwolke (M)
+Regenwolke (L)
+Weiße Wolke (S)
+Weiße Wolke (M)
+Jumbowolke
+Bananenwolke
+Fleischkeulenwolke
+Blumenwolke
+Autowolke
+Trompetenwolke
+Hängebrücke
+Hängebrückenpfeiler
+Rote Rose
+Rote Tulpe
+Weiße Tulpe
+Gelbe Tulpe
+Pinke Tulpe
+Sonnenblume
+Chrysantheme
+Chrysantheme
+Cosmea
+Orangefarbene Cosmea
+Blütenknospe
+Blütenknospe
+Blütenknospe
+Blütenknospe
+Blütenknospe
+Campingtopf
+Steine
+Aquarium
+Diplom-Aufbewahrungsröhre
+Malkasten
+Blaue Farbe
+Grüne Farbe
+Schwarze Farbe
+Rote Farbe
+Gelbe Farbe
+Farbeimer
+Palette
+Butterbrotbeutel
+Mathe-Schulbuch
+Märchenbuch
+Trockenbügel
+Staubtuch
+Tafel
+Tafel mit Datum
+Tafel mit Einführung
+Tafel mit Mathematik
+Tafel mit Biologie
+Bücherregal
+Lehrertisch
+Vorhang
+Klassenzimmerpost
+Tafelwischerreiniger
+Klassenzimmeruhr
+Klassenzimmer-Kalligrafie: „Ei"
+Klassenzimmer-Kalligrafie: „Ballon"
+Klassenzimmer-Kalligrafie: „Mutter"
+Teurer Schreibtisch
+Trennwand
+Teurer Stuhl
+Spindwand
+Bücherregal
+Teurer Teller
+Kleiner Teller
+Quadratischer Teller
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein
+Mah-Jongg-Spielstein Osten
+Mah-Jongg-Spielstein Süden
+Mah-Jongg-Spielstein Westen
+Mah-Jongg-Spielstein Norden
+Mah-Jongg-Spielstein Haku
+Fernseher
+Großer Winkelmesser
+Großes Geodreieck
+Großer Zirkel
+Putzeimer
+Hammer
+Bento-Mahlzeit
+Große Bento-Mahlzeit
+Sandwich
+Strohmatte
+Wasserflasche
+Pfannkuchen
+Baumkuchen
+Curry-Roux
+Okonomiyaki
+Mais
+Melonenbrot
+Schokoladenbrot
+Erdbeerparfait
+Schokoladenparfait
+Joghurteiswaffel
+Doppel-Eislolli
+Eiswaffel
+Süßes Bohnengebäck
+Gyoza-Teigtaschen
+Plastik-Eisenbahn
+Plastik-Eisenbahnkurve
+Modelllok
+Modellwaggon
+Roter-Kreis-Spielzeugklotz
+Blauer-Kreis-Spielzeugklotz
+Gelbes-Quadrat-Spielzeugklotz
+Rotes-Quadrat-Spielzeugklotz
+Blaues-Dreieck-Spielzeugklotz
+Gelbes-Dreieck-Spielzeugklotz
+Spielzeugroboter
+Holzpferd
+Leim
+Rote Stiftdose
+Geodreieck
+Winkelmesser
+Rote Stecknadel
+Grüne Stecknadel
+Nadelkissen
+Feuerzeug
+Grüne Kerze
+Orangefarbene Kerze
+Grüne Klammer
+Rote Klammer
+Kochtopf
+Mandel
+Eichel
+Kleeblatt
+Puzzlestück
+Sonnenblumensamen
+Kronkorken
+Kaffeebohne
+Schlüssel
+Fahrradschloss
+Schloss
+Zahlenschloss
+Sumo-Ring
+Segelboot
+Piratenschiff
+Souvenirregal
+Souvenirständer
+Imbissbereich
+Souvenirladen
+Informationsstand
+Lautsprecher
+Großer Bärenbus
+Safaribus-Haltestelle
+Observatorium
+Geländer
+Affenberg
+Zookarte
+Zoo-Richtungsweiser
+Safaribus
+Schilf
+Zooflagge
+Bauernhofzaun
+Kinderzone
+Amazonaszone
+Bauernhofzone
+Arktiszone
+Bauernhofzone
+Zoo-Straßenlaterne
+Klassenzimmer-Kalligrafie
+Anschlagtafel-Zettel
+Anschlagtafel-Zettel
+Anschlagtafel-Zettel
+Anschlagtafel-Zettel
+Anschlagtafel-Zettel
+Anschlagtafel-Zettel
+Pfosten
+Kinderzaun
+Geländer
+Sonniges Savannentor
+Streichelzootor
+Tropendschungeltor
+„Mutter"-Schild
+„Natur"-Schild
+„Denkmal"-Schild
+„Z"-Schild
+„O"-Schild
+„O"-Schild
+Pinker Origamikranich
+Gelber Origamikranich
+Grüner Origamikranich
+Blauer Origamikranich
+Roter Origamikranich
+Lila Origamikranich
+Weißer Origamikranich
+50 Origamikraniche
+Origami-Samurai
+Origami-Samuraihelm
+Papierflieger
+Rose
+Großer Origamikranich
+Fernseher-Regal
+Kitsune-Udonnudeln
+Fernbedienung
+Tisch
+HB-Bleistift
+Faden (Rot & Weiß)
+Faden (Marineblau)
+Faden (Grün)
+Faden (Weiß)
+Kleiner Ball
+Kegel
+Projektion
+Lang & Dünn
+Großer Ball
+Großer Kegel
+Große Projektion
+Groß & Lang
+Taxi
+Londoner Bus
+Rennauto (Rot)
+Rennauto (Grün)
+Rennauto (Bunt)
+Geländewagen mit Allradantrieb
+Containerlaster
+Kutsche
+Kürbiskutsche
+Rikscha
+Rennabsperrung
+Roter Helm
+Grüner Helm
+Eisenbahnwaggon
+Polizeiauto
+Feuerwehrauto
+Luftschiff
+Übertragungswagen
+Wahlkampfwagen
+Blockflöte
+Große Trommel
+Kleine Trommel
+Becken
+Trompete
+Mundharmonika
+Gong 
+Hängende Glocke
+Honigtube
+Reiskräcker
+Kissen
+Reisetasche
+Samurairüstung
+Kürbisbild
+Pendeluhr
+Armbanduhr
+Pinkes Knallbonbon
+Mixer
+Hürde
+Drachen
+Drachen
+Planetariumsprojektor
+Kurzhantel
+Stahlrahmen
+Greifkranspiel
+Plastikkamm
+PC-Monitor
+PC-Tastatur
+Computer
+Dango
+Gratin
+Daruma-Kopf
+Daruma-Körper
+Daruma-Körper
+Daruma-Körper
+Daruma-Körper
+Salz
+Pfeffer
+Zucker
+Sojasaucenbehälter
+Pinke Wäscheklammer
+Mikrowelle
+Bambussprosse
+Bambus
+Tischtennisschläger
+Tennisschläger
+Tennisball
+Krummsäbel 
+Skizzenbuch
+Kaktus
+Zimmerpflanze
+Tetrapak-Milch
+Eintopf
+Elektrischer Ventilator
+Seestern
+Videoband
+Grüner Cafétisch
+Roter Cafétisch
+Caféstuhl
+Zitronentee
+Gemischter Saft
+Weiße Birke
+Papierschneider
+Permanentmarker
+Haniwa
+Glasflasche
+Glühwürmchen
+Rosenstrauß
+Eiscreme-Banner
+Souvenirladen-Banner
+Eisenbahnwaggon
+Fernglas
+Quizshow-Sitz
+Seilbahnstation
+Gondel
+Mückenabwehr
+Reis
+Fertignudeln
+Kanone
+Wahrsageautomat
+Blaue Stiftdose
+Süßkartoffel
+Zwiebel
+Töpfchen
+Balancierspielzeug
+Waschbär
+Papiertiger
+Sobanudeln
+Winter-Nadelbaum (S)
+Sarg
+Unterwasserschloss
+Panzer
+Urinal
+Angelhaken
+Staubsauger
+Kinder-Klebestift
+Tablett
+Zange
+Sushi-Boot
+Würfel
+Schubladenschrank
+Neonlampe
+Angelschnur
+Sofa
+Videokassettenspieler
+Winter-Nadelbaum (L)
+Shampoo
+Alte Bücher
+Kanu
+Baguette
+Handschuh
+Königliche Nase
+Leiter
+Kissen
+Benutztes pinkes Knallbonbon
+Toilettenschüssel
+Feuergrube
+Runde Wasserflasche
+Wohnmobil
+Mountainbike
+Rotes Zelt
+Blaues Zelt
+Gelbes Zelt
+Grünes Zelt
+Hängematte 
+Flacher Pilz
+Gartenwaschbecken
+Feenpilz
+Campingplatz-Karte
+Baumstammbank
+Roter Würfel
+Stirnlampe
+Taschenlampe
+Karte
+Holzbrücke
+Holzstufen
+Königs-Origamikranich
+Picknickdecke
+Vase
+Seeigel
+Gastropodenschale
+Treibholz
+Schwimmende Insel
+Stein
+Orangefarbene flache Koralle
+Limettengrüne flache Koralle
+Große runde Koralle
+Runde Koralle
+Lilienkoralle
+Riesiger Reiskuchen
+Großes Stück Fleisch
+Kiesel
+Jakobsmuschelschale
+Spitze Muschelschale
+Meeresschneckenschale
+Große Muschel
+Dreiecksmuschel
+Modemagazin
+Schulregale
+Podium
+Lautsprecher
+Vorhang
+Neonlampe
+Tatami-Matte
+Sportkleidung
+100 Punkte!
+0 Punkte ...
+Melodica
+Gerahmte Urkunde
+Champion-Trophäe
+Blaue Kalligrafietasche
+Rote Kalligrafietasche
+Abakus
+Testpapiere
+Anwesenheitsbuch
+Aktenschrank
+Bürostuhl
+Kantinentablett
+Toilettentrennwand
+Toilettentür
+Klassenziel: Grundschule
+Klassenziel: Mittelstufe
+Japanisch-Schulbuch
+Schul-Jahrbuch
+Englisch-Schulbuch
+Kalligrafiepinsel
+Völkerball
+Schul-Mülltonne
+Spind
+Notizbuch
+Zeichenheft
+Notausgang
+Notausgang
+Rotweiße Mütze
+Heldenkappe
+Krankenhausbett
+Schultasche
+Sporttasche
+Tigerfell
+Geschichte-Schulbuch
+Mittagsmenü
+Schulseife
+Toilettenpömpel
+Wasserhahn
+Hütte
+Schneeblock
+Toilettenpapier
+Sirene
+Mobile Tafel
+Akten
+Klebeband
+Große Betonmauer
+Kleine Betonmauer
+Klassenzimmer-Schild „3-2"
+Lehrerzimmer-Schild
+Luxussofa
+Rektorentisch
+Aschenbecher
+Rektorenbild (SW)
+Rektorenbild (Farbe)
+Schulsafe
+Tür
+Fenster
+Kleines Fenster
+Flur-Anschlagtafel
+Anschlagtafel
+Fenster
+Hängeregal
+Großer Weihnachtsbaum
+Motorschlitten
+Schlitten
+Iglu
+Berghütte
+Skiverleih
+Sessellift
+Traditionelles Schneehaus
+Schneehase
+Trennwand
+Trennwand
+Balken
+Pilzhaus
+Formschnitt-Kaninchen
+Formschnitt-Reh
+Formschnitt-Ente
+Formschnitt-Schildkröte
+Weiße Rose
+Gelbe Rose
+Steindenkmal
+Eselstatue
+Hundestatue
+Katzenstatue
+Hahnenstatue
+Rafflesie
+Goldaxt
+Silberaxt
+Rennsignal
+Rote Reifenbarriere
+Fenster
+Fenster
+Geschlossenes Fenster
+NOT USED
+Sponsorentorbogen
+Kaufhauswerbung
+Milchwerbung
+Pilz
+Gigantischer Pilz
+Rennleitungsturm
+Blauer Helikopter
+Herzwolke
+Eiscremewolke
+Kätzchenwolke
+Melonenwolke
+Teegebäckwolke
+Kintaro-Bonbon
+Stecknadel
+Blauer & Roter Buntstift
+Klammer
+Keksdose
+Augentropfen
+Briefmarke
+Kompakter Tisch
+Skateboard
+Blaue Wäscheklammer
+Eiersandwich
+Großer Schokokeks
+Früchtekuchen
+Zuckerstange
+Brotstange
+Karamellbonbon
+Karamellbonbon
+Vanillewaffel
+Erdbeerwaffel
+Rote Kirsche
+Grüne Kirsche
+Rosa Bonbon
+Großer Sternkeks
+Riesiger Keks
+Honig-Madeleine
+Madeleine
+Schokoladenstäbchen
+Bitterschokolade
+Gummibonbon
+Blaues Bonbon
+Schlagsahne 
+Kleiner Keksbaum
+Keksbaum
+Großer Keksbaum
+Großer Baumkuchen
+Erdbeerblüte
+Baumstamm-Tisch
+Hühnerkeks
+Schweinekeks
+Eselskeks
+Schafskeks
+Großer Schokoladenkuchen
+Karamellbonbon
+Großes Schokoladendonut
+Keks
+Milchschokolade
+Traubenblüte
+Mandarinenblüte
+Großer Marmorkuchen
+Große Tarte
+Märchengabel
+Großer Erdbeerdonut
+Kekskachel
+Erdbeerkekskachel
+Rote Waffel
+Schokowaffel
+Grüne Waffel
+Blaue Waffel
+Mietshausblock
+Mietshauskarte
+Roter Reifen
+Blauer Reifen
+Uhrenturm
+Überführung
+Nakayama-Residenz
+Kamota-Residenz
+Nakamura-Residenz
+Todoroki-Residenz
+Yamada-Residenz
+Kido-Residenz
+Yakitori-Restaurant
+Rote Lampe
+Polizeihäuschen
+Café
+Elektronikladen
+Elektronikladenschild
+Lila Waffel
+Karamellklotz
+Kratzeisschild
+Fischladen
+Fischladenschild
+Hiyodori-Bahnhof
+Bahnhofsschild
+Fahrscheinkontrolltor
+Schule
+Brunnen
+Schrein
+Schreintor
+Schreinhund
+Pizzaladen
+Pizzaladenschild
+Familienrestaurant
+Familienrestaurant-Schild
+Netz
+Karaoke-Box „Ka"
+Karaoke-Box „Ra"
+Holz-Strandhaus
+Strandhaus
+Schuldgebäude Nr. 2
+Hochzeits-Aussichtspunkt
+Feuerwehrstation
+Lange Barriere
+Schreinhütte
+Tennishaus
+Spätkauf
+Spätkaufschild
+Riesenrad
+Gondel
+Menübanner
+Observatorium 
+Observatoriumsobjekt
+Kino
+Sci-Fi-Filmwerbung
+Sonnenbarschturm
+Lachsturm
+Kaufhaus
+Korallenturm
+Flunderturm
+Zahnkarpfenturm
+Gelbschwanzturm
+Seriolaturm
+Im Bau 
+Feuerausbruch
+Kaffeewerbung
+Lebensversicherungswerbung
+Mieterwerbung
+Autobahn
+Vierspurige Autobahn
+Autobahn-Mautstelle
+Autobahnschild
+Großes Feuer-Kanjizeichen
+Mund der Wahrheit
+Verwundeter Leuchtturm
+Parthenon
+Parthenonsäule
+Windmühle
+Cinderella-Schloss
+Arc de Triomphe
+Eiffelturm
+Big Ben
+Stonehenge
+Tower Bridge
+Kolosseum
+Schiefer Turm von Pisa
+Pierres Residenz
+Williams Residenz
+Josephs Residenz
+Europäischer Bauernhof 
+
+Charles' Residenz
+Rudolphs Residenz
+Waffelgebäude
+Croissantgebäude
+Foie-Gras-Gebäude
+Castella-Gebäude
+Champagnergebäude
+Oliven-Gebäude
+Menschen
+Weinkeller
+Springbrunnen
+Boulevard-Baum
+Dunkler Nadelbaum
+Nadelbaum
+Kanalbrücke
+Europäischer Bahnhof 
+Schokoladenfabrik
+Weingut
+Autofabrik
+Schornstein
+Autos
+Ölfeld-Schornstein
+Ölfeld
+Taj Mahal
+Taj-Mahal-Säule
+Angkor Wat
+Angkor-Statue
+Alle
+Japaner
+Fuji-Wolke
+Parlamentsgebäude
+Roter Verkaufsautomat
+Blauer Verkaufsautomat
+Muh-Kuh-Verkaufsautomat
+Regenbogen
+Eisen-Fachwerkbrücke
+Walbrücke
+Bogenbrücke
+Rote Brücke
+Süßigkeitenteller
+
+
+
+Chinesisches Tor
+Chinesischer Glockenturm
+Hoher Glockenturm
+Gebratener-Reis-Berg
+Sunganberg
+Zwillingsfelsen
+Chinesische Mauer: Anfang
+Chinesische Mauer: Ende
+Chinesische Mauer: Eingang
+Südtor
+Chinesische Mauer: Ausgang
+Gyoza-Teigtaschen
+Großer Buddha
+Fünfstöckige Pagode
+Kokkai-gijido
+Burg
+Uguisu-Stadt
+Hototogisu-Stadt
+Moai
+Stilvoller Moai
+Jumbo-Moai
+Jurassischer Baum
+Hamburger-Gebäude
+Jennifers Gebäude
+Kartoffelgebäude
+Danielles Gebäude
+Michaels Gebäude
+Johns Gebäude
+
+„H"-Schild
+„O"-Schild
+„L"-Schild
+„Y"-Schild
+„W"-Schild
+„D"-Schild
+Freiheitsstatue
+Einkaufszentrum
+Einkaufszentrum-Schild
+George
+Thomas
+Theodore
+Abraham
+Bär
+Golden Gate Bridge
+Kontrollturm
+Flughafen
+Blaues Flugzeug
+Weißes Flugzeug
+Laster
+Wilder Kaktus
+Death Valley
+Wilson-Anwesen
+Carter-Anwesen
+Monroe-Anwesen
+Ford-Anwesen
+Jackson-Anwesen
+Wilde Stadt
+Gute Stadt
+Überraschungsstadt
+Hundestadt
+Das Weiße Haus
+Springbrunnen
+Golden Gate
+Schnorchel & Schwimmbrille
+Sauerstofftank
+
+
+
+Marienkäfer
+Tsuchinoko
+Nipponibis
+Nipponibis
+Teleskopaugen-Goldfisch
+Shogun
+Prinz
+Baumelnder Junge
+Baumelnder Mann
+Baumelndes Mädchen
+Sich entspannender netter Typ
+Sich entspannender cooler Typ
+Sich entspannende Dame
+Sich entspannender Junge
+Sich entspannendes Mädchen
+Amerikanischer Ureinwohner
+Chinesischer Mann
+Gentleman
+Parisienne
+Indischer Mann
+Inuit-Mann
+Matador
+Dschungelmann
+Alter Meister
+Dirigent
+Feuerwehrmann
+Kapitän
+Crewmitglied
+Marathonläufer
+Nikolaus
+Astronaut
+Bedienung
+Polizistin
+Mumie
+Bräutigam
+Braut
+Junger Mönch
+Kandidat
+Fallschirmspringer
+Fallschirm
+Gleitschirm
+Komusubi (Sumo-Ringer)
+Ozeki (Sumo-Ringer)
+Yokozuna (Sumo-Ringer)
+Sumo-Schiedsrichter
+Sportlehrer
+Lehrerin
+Lehrerveteran
+Entspannter Lehrer
+Rektor
+Streber 
+Schülersprecher
+Vertrauensschülerin
+Schülerin
+Sitzender Typ
+Verwöhntes Gör
+Sitzendes Mädchen
+Mädchen
+Fauler Schüler
+Wartungsmitarbeiter
+Zoowärter
+„Mutter" Natur
+Rennrichter
+Grün
+Gelb
+Lila
+Rot
+Blau
+Orange
+Grüngelb
+Fee
+Grüner Snowboarder
+Roter Snowboarder
+Gelber Snowboarder
+Roter Skifahrer
+Lila Skifahrer
+Grüner Skifahrer 
+Camperjunge
+Pfadfinder
+Laufender Junge
+Kaninchen
+Riesenschildkröte
+Schildkröte
+Maulwurf
+Eichhörnchen
+Pferd
+Weißes Pferd
+Schwein
+Aufziehschwein
+Tiger
+Nashorn
+Flusspferd
+Kamel
+Ameisenbär
+Reh
+Okapi
+Gorilla
+Affe
+Faultier
+Panda
+Roter Panda
+Koala
+Känguru
+Strauß
+Kobra
+Kragenechse
+Flamingo
+Flamingo
+Kranich
+Kranich
+Papagei
+Papagei
+Hai
+Delfin
+Fischgräten
+Aal
+Seepferdchen
+Piranha
+Wels
+Goldfisch
+Skalar
+Zahnkarpfen
+Flusskrebs
+Kaulquappe
+Entwickelte Kaulquappe
+Ente
+Tintenfisch
+Perlboot
+Quastenflosser
+Tyrannosaurus Rex
+Stegosaurus 
+Brontosaurus
+Pteranodon
+Kuhbär
+Android
+Kappa
+Ninja
+Wasserninja
+Gummimann-Boss
+Gummimann
+Gummimädchen
+Hula-Hoop-Mädchen
+Ballerina
+Langbeiniger Mann
+Langarmiger Mann
+Langgesichtiger Mann
+Kistenmann
+Schwimmkleidungsjunge
+Rückenschwimmerjunge
+Holzfäller
+Gottheit
+Drachenjunge
+Käfersammler
+Hüpfendes Mädchen
+Großer Gorilla
+Kantinen-Helferin
+Hausmeister
+Homunkulus
+Rennkönigin
+Brüder
+Rennfahrer
+Handhebeldraisine
+Hänsel
+Gretel
+Bigfoot
+Schneekind
+Rollender Skifahrer
+Skispringer
+Skifahrer
+Prinzessin
+Schlafsack
+Boxer
+Fliegender arabischer Mann
+Geist
+Azubi
+Fleißiger Azubi
+Bauarbeiter
+Filmender Reporter
+Niedliches Pärchen
+Niedliches Pärchen
+Amerikanisches Pärchen
+Elefantenkostüm
+Fischkostüm
+Schweinekostüm
+Cumulonimbus
+Jumbo-Papa
+Fr. Asaka
+Fr. Kabata
+Hr. Tanaka
+Hr. Kosei
+Hr. Niinuma
+Hr. Matsuzaki
+Fr. Matsubara
+Hr. Sakamoto
+Fr. Mizumoto
+Kanufahrer
+Roter Rennfahrer
+Rikschafahrer
+Bahnhofsmitarbeiter
+Entenküken
+Clownfisch
+Gelber Clownfisch
+Grüner Clownfisch
+Einsiedlerkrebs
+Mammut
+Husky
+Dobermann 
+Sich entspannender Nikolaus
+Hexe
+Stellvertretender Rektor
+Kauernder Schüler
+Tomio Hoshino
+Crème Caramel
+Japanischer Bär
+Zebra
+Löwe
+Pfau
+Gelber Skifahrer
+Roter Skifahrer
+Grüner Skifahrer
+Drache
+Phönix
+Pferdekostüm
+Kentaur
+Schubkarre
+Hulatänzerin
+Sphinx
+Chefkoch
+Ungezogener Junge
+Tennisspieler
+Tankstellenmitarbeiter
+Priesterin
+Badeanzug-Junge
+Badeanzug-Mädchen
+Schwimmender Junge
+Schwimmendes Mädchen
+Regengott
+Windgott
+Flügel
+Vogelkostüm
+Übermenschliches Rad
+Motorschlittenfahrer
+Tommy Hoshino
+Pegasus
+Tommy Hoshino
+Katzenschwanz
+Hauchdünner König
+Schlittschuhjunge
+Schlittschuhopa
+Schlittschuhläuferin
+Höhlenmensch
+Schlafender Schüler
+Halsmonster
+Sportjunge
+Sportjunge
+Sportmädchen
+Sportmädchen
+Indischer Elefant
+Großer Schüler
+Schlauer Schüler
+Bandenführer
+Kleiner Schüler
+Sommertyp
+Schülerin
+Sitzender Junge
+Sitzendes Mädchen
+Sitzender Schüler
+Sitzende Schülerin
+Tierwärterin
+Sich entspannender Tierwärter
+Engel
+Fliegender König
+Königlicher Regenbogen
+Sonnenbarsch
+Basketballspieler
+Großer Mann
+Oma
+Eisschnellläufer
+Giftiger Frosch
+Tsutomu
+Lila Rennfahrer
+Blauer Rennfahrer
+Haus den Prinzen
+Königin im Ballon
+Burg
+Junge
+Mädchen
+Loch
+Große Crème Caramel
+Katamari
+Wildschwein
+
+
+
+
+
+
+
+
+
+Regenbogenmädchen
+Faulpelz
+Opa
+Oma
+Vogel und Elefant
+Hund
+Fußballkind
+Ikebana-Lehrerin
+Aushilfslehrerin
+F1-Fahrer
+Regenmantelmädchen
+Dr. Katamari 
+Kranichhutjunge
+Genau richtiges Mädchen
+Kuhbär-Bauer
+Aufgeregtes Baby
+Reinliche Mutter
+Spendensammler
+Hänsel & Gretel
+Schwimmhilfenjunge
+Campermann
+Mini-Sumo
+Schneekind
+Bücherwurm
+Rose
+Kampfonkel
+Tomio Hoshino
+Mutsuo Hoshino
+Erde
+Michiru Hoshino
+Würfel
+Kristall
+Pyramide
+Ninjastachel
+Ball
+Ring
+Sonne
+Planet
+Uranus
+Uranus-Satellit
+Neptun
+Neptun-Satellit
+Pluto
+Pluto-Satellit
+Jupiter
+Jupiter-Satellit
+Urknall
+Kleiner Urknall
+Blumengalaxie
+Blumensatellit
+Schulplanet
+Schulsatellit
+Autoplanet
+Autosatellit
+Donnergalaxie
+
+Tierplanet
+Tiersatellit
+Kranichplanet
+Saturn-Satellit
+Saturn-Satellit
+Saturn
+Kuhbär-Galaxie
+Planet
+Putzplanet
+Venus
+Bonbonplanet
+Bonbonsatellit
+Merkur
+Merkur-Satellit
+Mars-Satellit
+Mars-Satellit
+Mars
+Sumo-Satellit
+Sumo-Satellit
+Yokozuna-Satellit
+Schneemann-Planet
+Sirius
+Neu-Erde
+Cousin-Planet
+Cousin-zweiten-Grades-Planet
+Rosengalaxie
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Planet Prinz
+Weltraumpilz
+L'Ace
+Ichigo-Can
+Misonson
+Honuey
+Foopeo
+Odeisy
+Jukao
+Odevana
+Lalanja
+Der Mond
+Flik
+Macholucha
+Sampeso
+Signickel
+Dipcy
+Shyngel
+Fujarny
+Mitzer
+Jentsuo
+Kurock
+Kinokko
+Drooooby
+Kosmischer Staub
+Leuchtende Sterne
+Hell leuchtende Sterne
+Schwarzes Loch
+Weißes Loch
+Vega
+Altair
+Großer Bär
+Kassiopeia
+Orion
+UFO
+Raumstation
+Meteorit
+Pilzmeteor
+Stacheliger Meteor
+Große Kugel
+Großes Quadrat
+Großes Dreieck
+Großer Ball
+Großer Ring
+Die Sonne
+Die Sonne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gigantischer Dango
+Gigantische Ananas
+Gigantischer Kürbis
+Gigantische frittierte Garnele
+Gigantische Reisschüssel
+Riesenportion Ramen
+Jumbo-Eisbecher
+Gigantische Pizza
+Gigantisches Onigiri
+Riesiges süßes Bohnengebäck
+Gigantische Schweinefleischschüssel
+Riesenfrikadelle
+Rübe
+Schokokeks
+Sternkeks
+Schokolade
+Schokoladenkuchen
+Tarte
+Marmorkuchen
+Schokoladendonut
+Erdbeerdonut
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Königliches Geschenk
+Minikegel
+Über 20 cm
+Kleiner Kegel
+Über 50 cm
+Großer Kegel
+Über 3 m
+Überraschungskegel
+Über 12 m
+Amerikanischer Kegel
+Über 60 m
+Dreieckskegel
+Über 1,5 m
+Petit-Kegel
+Über 10 cm
+Jumbokegel
+Über 5 m
+Oase
+Pyramide
+Große Pyramide
+Nazca-Linie
+Nazca-Linie
+Nazca-Linie
+Mysteriöser Schlüssel
+Mysteriöses UFO
+Mysteriöse Sonne
+UFO
+Machu Picchu
+Glaubdran-Stadt
+Kommschon-Stadt
+Hallo-Stadt
+
+
+Hain
+Wald
+Mysteriöse Sonneninsel
+Mysteriöse UFO-Insel
+Mysteriöse Schlüsselinsel
+Machu-Picchu-Standort
+Margerite
+Löwenzähne
+Stiefmütterchen (gelb)
+Stiefmütterchen (weiß)
+Stiefmütterchen (rot)
+Stiefmütterchen (blau)
+Zierkohl (lila)
+Zierkohl
+Minibaum
+Busch
+Venus-Fliegenfalle
+Schlauchpflanze
+Riesenhibiskus
+Azalee (pink)
+Azalee (lila)
+Iris (blau)
+Iris (rot)
+Narzisse
+Hortensie (rot)
+Hortensie
+Hibiskus
+Hibiskus (gelb)
+Glockenlilie
+Große Glockenlilie
+Pfingstrose (rot)
+Pfingstrose (pink)
+Pfingstrosenknospe (weiß)
+Pfingstrosenknospe (weiß)
+Lotusknospe
+Überraschungsblume
+Kaktusblüte
+Amerika
+Ozeanien
+Eurasien
+Afrika
+Länder
+Kirschblütenbaum
+Veilchenbaum
+Pfirsichbaum
+Liebevoller Baum
+Lila Baum
+Breiter Baum
+Schmetterlingsbaum
+Blätterbogen
+Chrysanthemengruppe
+Chrysanthemen
+Cosmeen
+Lila Baum
+Pinkfarbener Baum
+Liebevoller Baum
+Seebrisen-Stadt
+Aal-Stadt
+Jakobsmuschel-Stadt
+Plankton-Stadt
+Fisch-Stadt
+Spritzer-Stadt
+Pinguin-Stadt
+Dschungel
+Nadelbaumwald
+Winter-Nadelbaumwald
+Rotlaubwald
+Gelblaubwald
+Kirschbaumwald
+Weltraumzentrum
+Astro-Jet
+Grabhügel 
+Monas
+Aktiver Vulkan
+Geheimversteck
+Kathedrale
+Sellerieinsel
+Azaleeninsel
+Tsukushi-Insel
+Tsukushi-Insel
+Rettichinsel
+Glockenlilieninsel
+Petersilieninsel
+Spinatinsel
+Erbseninsel
+Weideninsel
+Pilzinsel
+Baumwollinsel
+Lärcheninsel
+Kleiner-Finger-Insel
+Chrysanthemeninsel
+Bohnensprosseninsel
+Bundesstraßenstandort
+Sanddüne
+Wüste
+Riesige Wüste
+Megadünen
+Wüste
+Knospeninsel
+Löwenzahninsel
+Zypresseninsel
+Cosmea-Insel
+Stinkige Insel
+Dorneninsel
+Pappelinsel
+Südberg
+Akane-Berg
+Wasabiberg 
+Borstenhirseninsel
+Robinson-Insel
+Pohole-Insel
+Anemoneninsel
+Sonnenblumeninsel
+Senfinsel
+Wasserlilieninsel
+Anil-Insel
+Pavilloninsel
+Rainfarn-Insel
+Schwertlilien-Insel
+Flohsamen-Insel
+Kamelien-Insel
+Sprosseninsel
+Pflaumeninsel
+Pfingstroseninsel
+Hyazintheninsel
+Eukalyptusinsel
+Amaryllisinsel
+Canna-Insel
+Blümcheninsel
+Krater
+Eisscholle
+Eisberg
+Palmenküste
+Tulpenküste
+Efeuinsel
+Kirschinsel
+Überraschungspfingstrose
+Großer Strudel
+Zukunftsstadt
+Cyber-Stadt
+Techno-Stadt
+Zukunftsturm
+Zukunftsstraße
+Geheimversteck
+Riesiger Strudel
+Riesiger Tornado
+Hain
+Großer Vulkan
+Superroboter
+Jumbowolke
+Wal-Stadt
+Möwen-Stadt
+Surfstrand
+Bülbül-Dock
+Stück von England
+Die Alpen
+Europäische Stadt
+Fjord
+Stück von Europa
+Stück von Indien
+
+
+
+Stück von Westasien
+Stück von Ostasien
+Uluru
+Uluru-Loch
+Liberty Island
+Stück von New York
+Mount Rushmore
+Der Wilde Westen
+Niagarafälle
+Der Grand Canyon
+Die Rockies
+Westküste der USA
+Insel-Landebahn
+Fuji
+
+
+
+Fenster
+Fenster
+NOT USED
+NOT USED
+Riesiger Nikolausstiefel
+Riesiges Nikolaus-Haus
+Riesiger Nikolaus
+NOT USED
+
+Schneemann (Minikreis)
+Schneemann (Minidreieck)
+Schneemann (Mini-Projektion)
+Kurz & Grün
+
+
+
+Kleinlaster
+
+Toaster
+Kapselspielzeugautomat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grüne Insel
+Sojabohnen-Insel
+Pflaumeninsel
+Tanneninsel
+Käsige Insel
+Riesige Eisscholle
+Schildkrötenstrand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baum
+Riesiger Baum
+Baum
+Dekorativer Baum
+Zelt
+Feuerausbruch
+
+
+
+
+
+
+
+
+Londoner Bus
+Containerlaster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Havana
+Honey
+Marny
+Foomin
+Ichigo
+Dipp
+Miso
+Glitzer
+Flutsch
+Fujio
+June
+Drooby
+Prinz
+Lalala
+Nik
+Ass
+Johnson
+Samt
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honig
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Dschungel
+Miso
+Glitzer
+Huey
+Nutsuo
+Jenseits
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Flutsch
+Drooby
+Signolo
+Prinz
+Lalala
+Nik
+Ass
+Johnson
+Samt
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honig
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Dschungel
+Miso
+Glitzer
+Huey
+Nutsuo
+Jenseits
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Flutsch
+Drooby
+Signolo
+Prinz
+Lalala
+Nik
+Ass
+Johnson
+Samt
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honey
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Dschungel
+Miso
+Glitzer
+Huey
+Nutsuo
+Jenseits
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Flutsch
+Drooby
+Signolo

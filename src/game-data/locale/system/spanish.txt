@@ -1,0 +1,775 @@
+
+Sí
+No
+
+Versión de prueba
+Comprobando los datos del juego.No apagues el juego.
+No hay datos de juego de "We Love Katamari REROLL+ Royal Reverie".
+¿Empezamos a rodar?
+Cargando.
+No apagues el juego.
+Comprobando los datos del juego.
+No apagues el juego.
+No se ha podido cargar.
+¿Cancelar la carga?
+Carga completa.
+Los datos de guardado están corruptos.
+
+Elimina los datos.
+No hay espacio libre suficiente.
+
+Se necesitan {data} MB o más para guardar
+
+"We Love Katamari REROLL+ Royal Reverie".
+
+¿Aún quieres rodar?
+Diámetro más grande
+no hay datos
+partida nueva
+na
+m
+co
+¿Continuar partida {0}?
+¿Empezar una partida nueva?
+Guardar/Cargar
+Regalos
+Colección
+Clasificación versus
+Salir del juego
+SONIDO Y VIBRACIÓN
+Katamari Memorial
+Álbum de fotos
+{Upward} Hacia el Cosmos
+<sprite name="X"> Enviar
+<sprite name="X"> Ese Sol...
+<sprite name="X"> Es todo por hoy.
+↑<color=#9acd32>R</color><color=#00fa9a>A</color><color=#f4a460>R</color><color=#00bfff>O</color><color=#db7093></color>
+Vibración
+1J
+2J
+Activado
+Apagado
+SONIDO
+Música de fondo
+Efectos sonoros
+Predeterminado
+Jugar con 2 jugadores
+Accediendo a los recuerdos de todos.
+No apagues el juego.
+Colocar fotos nuevas en el álbum te permitirá guardarlas por primera vez.
+Hay fotos nuevas sin colocar en el álbum.
+Colocar fotos nuevas en el álbum te permitirá
+guardarlas por primera vez.
+Guardando las fotos del álbum.
+
+¿Continuar?
+No hay datos del álbum de fotos.
+
+¿Crear un nuevo álbum de fotos?
+¿Cancelar el guardado?
+Sobrescribiendo los datos de guardado del álbum.
+
+¿Continuar?
+Guardando los datos de memoria de todos.
+No apagues el juego.
+Guardado completo.
+Los datos del álbum de fotos están corruptos.
+
+Elimina los datos.
+A esta cabra le encantan las fotos.
+
+Cuando se las coma, no
+volverás a verlas.
+
+¿Darle la foto a la cabra?
+Datos del álbum de fotos
+El álbum de fotos se guarda en tres archivos compartidos: [na], [m] y [co].
+Puedes ver los álbumes de fotos de otras personas, lo que te garantiza
+momentos de diversión compartiendo fotos con familia y amigos.
+¡Pero asegúrate de no meterte en problemas borrando las fotos de alguien sin permiso!
+Nuevo
+Cabra
+¿Quieres salir del juego?
+Dispara con este botón.
+GUARDAR
+CARGAR
+¿Dónde quieres guardar?
+Creando un nuevo guardado en {0}.
+
+¿Continuar?
+¿Cancelar el guardado?
+Guardando.
+No apagues el juego.
+No se ha podido guardar.
+Guardado completo.
+¿Salir del juego?
+Sobrescribir el archivo {0}.
+
+¿Continuar?
+Vídeo introductorio
+Resumen
+Capítulo 1
+Capítulo 2
+Capítulo 3
+Capítulo 4
+Capítulo 5
+Capítulo 6
+Capítulo 7
+Capítulo 8
+Capítulo 9
+Capítulo 10
+★Bonificación★
+♥Bonificación♥
+<color=#195379>Clasifi</color><color=#146b90>cación</color> <color=#4c658e>prima</color><color=#6b5b8c>veral</color>
+<color=#7a7f52>Clasifi</color><color=#667645>cación</color> <color=#406136>de</color> <color=#44693c>cosecha</color>
+{cookie}
+・El Príncipe・
+・Lalala・
+・Nik・
+・Ace・
+・Johnson・
+・Velvet・
+・Fujio・
+・Havana・
+・Peso・
+・Shikao・
+・Odeko・
+・Honey・
+・Marny・
+・Kuro・
+・Foomin・
+・June・
+・Ichigo・
+・Marcy・
+・Njamo・
+・Dipp・
+・Opeo・
+・Nickel・
+・Jungle・
+・Miso・
+・Twinkle・
+・Huey・
+・Nutsuo・
+・Beyond・
+・Kinoko・
+・Gomas・
+・L'Amour・
+・Daisy・
+・Lucha・
+・Miki・
+・Odeon・
+・Can-Can・
+・Shy・
+・Slip・
+・Drooby・
+・Signolo・
+Rodar hacia delante
+Vista principesca
+Vista katamari
+Mirar a la izquierda
+Carrera principesca
+Giro rápido
+Girar
+Mantener
+hacia el muro.
+Trepar
+Rodar hacia atrás
+Cambiar panel
+Mirar a la derecha
+Rodar hacia los lados
+Giro principesco
+Seleccionar personaje
+Empezar partida
+Cantidad recogida:
+Tiempo que has rodado:
+Salir
+Una vez más
+Fijar
+Cargar y rodar
+1J ESCAPA
+2J ESCAPA
+Continuar
+Control meteórico
+A la Tierra
+Abajo
+La estrella origen del Príncipe
+La seta gigante del Príncipe y los primos
+¿Volver al Prado de selección?
+Derecha
+Izquierda
+Arriba
+No adherido
+Adherido
+Hasta el sol
+We Love Katamari REROLL+ Royal Reverie
+Diámetro más grande:
+Total de objetos conseguidos:
+{total} tipos
+Gozábamos rodando...
+
+¿Por qué se ha acabado ya?
+
+¡Quítate del medio! ¡Que no te veamos el pelo!
+
+                                             -El Rey
+Ay, por los pelos.
+
+Ha faltado poco. Poquito. Poquititísimo.
+
+Estas cosas pasan.
+
+                                             -El Rey
+Por fin no queda borde.
+
+Cuánta belleza.
+
+                                             -El Rey
+Parece que a todos les gusta adherir,
+
+pero ¡aún quedarán fans del Katamari Damacy!
+
+¡No confíes solo en lo que ves!
+
+                                             -La Reina
+¡Adhiere a más fans!
+
+No queremos ver el nombre de los empleados.
+
+¡Es un juego, hazlo divertido!
+
+                                             -La Reina
+La Reina está algo decepcionada.
+
+¡¿Por qué no los has adherido a todos?!
+
+¡Ver rodar los créditos es aburridísimo!
+
+                                             -La Reina
+Parece que a todos les gusta estar adheridos♥.
+
+Hasta mi maridito.
+
+Qué guapo es mi Rey♥.
+
+                                             -La Reina
+Los fans lo están gozando♥.
+
+Es lo que tiene formar parte del katamari.
+
+Fue idea nuestra. Maravillosa, ¿verdad?
+
+                                             -La Reina
+Maravilloso♥. Fantástico.
+
+Has adherido a todos los fans.
+
+Gracias a nuestras directrices.
+
+                                             -La Reina
+No hay espacio libre suficiente para los datos de guardado.
+
+Se necesitan {data} KB o más para guardar
+
+el álbum de fotos de "We Love Katamari REROLL+ Royal Reverie".
+Se necesitan {data} KB o más para guardar datos
+
+del álbum de fotos de "We Love Katamari REROLL+ Royal Reverie".
+Volviendo al Prado de selección.
+
+Solo se guardarán las fotos del álbum.
+
+¿Continuar?
+Guardando las fotos del álbum.
+
+¿Continuar?
+Hay nuevas fotos en sombras sin colocar en el álbum.
+
+Colocar fotos nuevas en el álbum te permitirá guardarlas por primera vez.
+Colocar fotos nuevas en el álbum te permitirá guardarlas por primera vez.
+Katamari Nah-Nah
+Overture II
+DAN DON FUGA
+Beautiful Star
+Meadowtron
+One Chip March
+Do Re Mi Katamari Do
+Starlight Jamboree
+Big Cosmos Salon
+Katamari On the Rocks
+Katamari On the Swing
+Bluffing Spirit
+Scorching Savanna
+Baby Universe
+Angel Rain
+Kuru Kuru Rock
+Everlasting Love
+Katamari Holiday
+Houston
+DISCO★PRINCE
+blue orb
+The Royal Academy of Katamari
+A Song for the King of Kings
+LOVE & PEACE & Katamari Damacy
+Así de grande.
+¿Así está bien?
+Resplandeciente
+Muy claro
+Claro
+Clarito
+Más claro
+Poco claro
+En penumbra
+En sombras
+Oscuro
+Muy oscuro
+Rodar
+Forzar la salida
+Echar a patadas
+Adherido
+¿Quieres parar aquí?
+Ese sol...
+Eso es todo por hoy.
+Echar a empujones
+Ranura
+m
+cm
+mm
+kg
+:
+restante
+\
+0,000
+Rosas
+Primos
+Nubes
+Amigos
+Pájaros
+Pajaritas de papel
+Comidas
+Cosa(s)
+min.
+Estrellas
+Países
+Premios
+Flores
+Aplastar al frente
+Forzar la salida frontal
+¡Algo se acerca!
+Empujar hacia abajo
+Al Prado de selección
+¿Volver al Prado de selección?
+*Perderás las rosas conseguidas.
+Reintentar
+Clasificación de rodar
+Objetos conseguidos
+En el mundo
+En la ciudad
+En la casa
+Lo más rápido posible 5
+Lo más rápido posible 4
+Lo más rápido posible 3
+Lo más rápido posible 2
+Lo más rápido posible 1
+Lo más grande posible 5
+Lo más grande posible 4
+Lo más grande posible 3
+Lo más grande posible 2
+Lo más grande posible 1
+Haz solo esto
+Hazlo hasta el final
+Vs. Yokozuna
+Vs. Ozeki
+Vs. Komusubi
+Fuego (G)
+Fuego (M)
+Fuego (P)
+Campo de dulces
+Perfecto (G)
+Perfecto (M)
+Perfecto (P)
+Corre, los amigos
+Muchos amigos
+Casa de dulces
+Lo más grande posible
+Corre, los alumnos
+Corre, las flores
+Muchas flores
+Corre, hazlo más grande
+Lo más grande posible
+Final
+¿Reintentar desde el principio?
+Visión 2J
+Visión 1J
+Aleatorio
+Música de fondo ◁{music}▷
+SELECCIONAR MÚSICA DE FONDO
+Total de rosas conseguidas
+Tiempo de rodado de amigos
+Número de amigos conseguidos
+Oponente de sumo
+Brillo de Katamari
+Tiempo que has rodado
+Número de flores conseguidas
+Número de comidas conseguidos
+1.º
+Fuego (P)
+Fuego (M)
+Fuego (G)
+Cantidad recogida
+Yokozuna
+Ozeki
+Komusubi
+Objetos del mundo conseguidos:
+Número de nubes conseguidas
+Número de nubes
+Tamaño del bloque
+Tiempo de donación
+Donaciones conseguidas
+Objetos limpiados
+Tiempo de limpieza
+Tiempo de tamaño
+Tiempo de rodado de primos
+Número de primos conseguidos
+Peso
+Número de dulces conseguidos
+Estrella nueva
+Tiempo de rodado de nubes
+Tiempo de rodado de alumnos
+Estudiantes conseguidos
+2.º
+Tiempo que has rodado
+Tamaño de la cabeza
+Tamaño del cuerpo
+Tamaño
+Nebulosa
+Polvo
+Pajaritas de papel conseguidas
+3.º
+Número de perfectos
+Tamaño capturado
+Capturado
+Planeta
+Satélite
+Lista de reproducción
+Filtro
+Marco
+IU
+Posición
+Pose
+Expresión
+Normal
+Olas
+Flores
+Árboles
+Cinemascope
+Claro
+Suave
+Sepia
+Monocromático
+Desenfocado
+Eterno
+We Love Katamari REROLL+ Royal Reverie
+
+Créditos
+Nos vemos mañana.
+CONFIGURACIÓN DE CONTROLES
+Jugador
+Tipo A
+Tipo B
+Tipo de control
+Controles habituales
+Controles sencillos
+Controles Joy-Con (A)
+Controles Joy-Con (B)
+Dispositivo
+Teclado
+Mando
+Asignación de teclas
+Cambiar
+No se puede cambiar
+Pulsa la tecla que quieres asignar.
+Restaurar predeterminados
+¿Restaurar predeterminados?
+Confirmar controles
+Rodar katamari
+Alternar arriba y abajo
+Ver estrella fugaz:
+Controles de movimiento
+Asignación de botón de juego
+Este botón ya está asignado.
+
+¿Cambiar asignación?
+Datos del juego
+Datos del sistema
+Aceptar
+Rechazar
+Volver a conectar el mando
+Teclado
+Al usar un Joy-Con, sigue
+
+las instrucciones y usa la correa.
+
+Agárrala fuerte y no la sueltes.
+Asegúrate de tener espacio suficiente a tu alrededor
+y de que no haya objetos ni personas cerca.
+Los controles por movimiento se pueden usar tras sacar los dos mandos Joy-Con de la consola.
+Ten en cuenta que, incluso si eliges "controles por movimiento", si juegas con los mandos Joy-Con en la consola
+
+o con el mando Pro, el esquema de control volverá a "controles habituales".
+No se pueden cargar los datos. Están corruptos
+y se han reiniciado.
+Continuar
+Seleccionar
+Datos corruptos
+No se pueden cargar los datos. Los datos
+
+de guardado están corruptos y se reiniciará.
+Cambiar cuenta.
+
+Volviendo a la pantalla de título.
+INICIAR JUEGO
+SELECCIONAR PERFIL
+Ajustes de pantalla
+Resolución
+Anti-aliasing
+Sombras
+Profundidad de campo
+Sincronización vertical
+Tipo de ventana
+Muy alta
+Alta
+Media
+Baja
+Ninguna
+Pantalla completa
+En ventana
+Ventana a pantalla completa
+Polvo cósmico
+Polvo cósmico
+Polvo cósmico
+Tiempo de rodado de luciérnagas
+Núm. de cisnes rodados
+Tiempo de rodado de cisnes
+Núm. de ruedas rodadas
+Tiempo de rodado de ruedas
+Núm. de chispas de espíritu luchador rodadas
+Tiempo de rodado de espíritu luchador
+Núm. de instrumentos rodados
+Tiempo de rodado de instrumentos
+Hoja de pegatinas
+Tower of Babel
+Dragon Buster
+Chōzetsurin Jin: Bravo Man
+Clásicos de Namco
+Cosmo Gangs
+Dig Dug 1
+Dig Dug 2
+The Tower of Druaga 1
+The Tower of Druaga 2
+Family Stadium 1
+Family Stadium 2
+Galaga 1
+Galaga 2
+Galaxian 1
+Galaxian 2
+Galaxian 3
+Genpei Tōma Den
+Family Jockey
+Libble Rabble
+Mappy 1
+Mappy 2
+Metro-Cross
+Wonder Momo 1
+Wonder Momo 2
+Ordyne
+Pac-Man 1
+Pac-Man 2
+Pac-Man 3
+Pac-Man 4
+Rally-X 1
+Rally-X 2
+Rolling Thunder
+Sky Kid
+Dragon Spirit 1
+Dragon Spirit 2
+Dragon Spirit 3
+Splatterhouse 1
+Splatterhouse 2
+Family Tennis
+Toy Pop 1
+Toy Pop 2
+Valkyrie no Bōken 1
+Valkyrie no Bōken 2
+Wagyan Land
+Xevious
+Yokai Dochuki
+Mojipittan 1
+Mojipittan 2
+Klonoa
+Mr. Driller
+Música de fondo favorita
+Favorita
+Lista de música de fondo
+Puedes registrar hasta diez canciones favoritas.
+Elimina una antes de registrar otra.
+Cargar {0}.
+¿Continuar?
+Apariencia
+Funcional
+Básico
+Sencillo
+Especial
+Controles
+Todo predeterminado
+El recuerdo del Rey
+Espada de bambú del recuerdo
+Opciones
+¿Jugar?
+Paso (1/5) Subir a la plataforma
+Paso (2/5) Katamari más grande
+Paso (3/5) Superar el muro
+Paso (4/5) Katamari aún más grande
+Paso (5/5) Adherir a {0}
+Autoguardado
+Ir al Prado de selección
+Autopista
+Configurar tu música de fondo favorita.
+Ver las pegatinas
+que has fotografiado.
+Usa los regalos
+recibidos.
+Ver las cosas
+que has adherido.
+Ver tu clasificación
+de batalla.
+Guardar y cargar datos.
+Cambiar los
+ajustes del juego.
+Salir del juego y volver
+a la pantalla de carga.
+Salir
+¿Ir al recuerdo del Rey?
+¿Ir al Prado de selección?
+Parece que los fans de la plaza de
+selección tienen preguntas para el
+príncipe. Habla con ellos.
+Aparecerá un icono en la parte inferior
+de la pantalla cuando lleguen
+nuevos fans. Cumple sus sueños.
+Si te regalan una cámara, puedes hacer
+fotos con la Cámara principesca
+en la Vista principesca.
+Haz fotos de pegatinas que encuentres
+con la cámara. Consigue muchas para hacerte
+con un marco de fotos.
+Puedes hacerte un selfie usando «Selfie»
+desde la Cámara principesca.
+Con el juego aparecerán más canciones
+que podrás configurar como música de fondo.
+Pon tu música favorita de fondo usando <sprite name="Y">.
+Registra tus canciones favoritas. Cuando
+hayas registrado más de 2, podrás
+elegir tu favorita en Seleccionar música de fondo.
+El cosmos brilla con las estrellas y su
+polvo hecho con Katamari. Rueda muchos katamaris
+para crear tu propio cosmos.
+Puedes ver los registros de victorias
+y derrotas de todos los personajes en la
+Clasificación versus. Prueba muchos personajes.
+Vive los recuerdos del Rey. Accederás a
+más recuerdos haciendo realidad los sueños
+de los fans en el Prado de selección.
+Puedes conseguir objetos para los príncipes
+rodando regalos escondidos en los
+niveles. Estate alerta mientras ruedas.
+Lo que ruedas en tu katamari quedará
+registrado. Rueda muchas cosas y añádelo
+todo a tu colección.
+Puedes ver películas y escuchar música
+en el Katamari Memorial.
+Se ha desbloqueado el Modo batalla.
+Habla a la vez con los jugadores
+1J y 2J.
+Nuevo récord
+???
+Ver pistas del juego.
+Se han encontrado datos de guardado de PlayStation®4.
+¿Transferir estos datos de guardado?
+No se transferirán los datos de guardado de PlayStation®4.
+¿Continuar?
+Navegar
+¿Salir del juego?
+<sprite name="B"> Salir del juego
+<sprite name="X"> Ajustes de pantalla
+Brillante
+Dentado
+Arco iris
+Rosa
+Carrete
+El Rey
+Belleza
+El Príncipe
+No conseguido
+Sonrisa
+Sin expresión
+Infeliz
+Silbar
+Bostezar
+Timidez
+Decepción
+Asombro
+Llanto
+Enfado
+Pistas
+Plaza de selección
+Cámara
+Cosmos
+El recuerdo del Rey
+Modo batalla
+Acuerdo de licencia de usuario final
+Política de privacidad
+Ajustes de análisis
+Capítulo 11
+Configura el mando
+del jugador 1J.
+Configura el mando
+del jugador 2J.
+Los controles por movimiento se pueden usar
+tras sacar los dos mandos Joy-Con de la consola.
+Ten en cuenta que, incluso si eliges "controles por movimiento",
+si juegas con los mandos Joy-Con en la consola o con el mando Pro,
+el esquema de control volverá a "controles habituales".
+*Este producto se ha desarrollado en base al software multiplataformas «We Love Katamari!», publicado en 2005. Algunos elementos pueden variar.
+¿Guardar los cambios?
+¿Salir sin cambiar nada?
+<sprite name="Y"> Cambiar teclas
+<sprite name="X"> Restaurar predet.
+Katamari of Love - Ending Theme
+Cherry Blossom Color Season
+LONELY ROLLING STAR
+The Moon and the Prince
+Katamari On the Rocks - Main Theme
+Family Damacy
+Caesar's Island
+Shine! Mr. Sunshine
+Katamari On the Funk
+Shabadoobie
+BOYFRIEND A GOGO
+Harvest of Love
+INTO THE SKY
+Spinning Gravity
+Katamarity
+Katamaresort Song
+Houston (Re-Arranged by KIRINJI)
+Everlasting Love + You
+Sayonara ROLLING STAR (Yuri's Mixx)
+Katamari on the Swing (SEXY-SYNTHESIZER ALL ABOUT namco Mix)
+Katamari of Love (SEXY-SYNTHESIZER Remix)
+Sky & Music of 2011 (feat. Asako Toki)
+Alien (feat. BAKUBAKU DOKIN)
+Across the Katamari (feat. Kazuhiro Momo from MO'SOME TONEBENDER)
+Hello World (feat. Taku-sama)
+Artículo de vestuario: Principito
+Artículo de vestuario: Reyecito
+Canciones de la serie Katamari Damacy
+¿Volver al recuerdo del Rey?

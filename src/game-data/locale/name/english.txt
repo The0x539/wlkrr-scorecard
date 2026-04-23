@@ -1,0 +1,3501 @@
+
+Spatula
+Persimmon
+Brick
+Megaphone
+Cassette Tape
+Peeler
+Shaved Ice Stand
+Grilled Corn Stand
+Apple Candy Stand
+Red Sock
+Blue Sock
+Girly Cellphone
+Eraser
+Sand Eraser
+Japanese Cup and Ball
+Fried Shrimp
+Spoon
+Fork
+Baseball
+Dustpan
+Canned Peaches
+Light Bulb
+Calculator
+Telephone Book
+Mousetrap
+New Year's Cards
+Welcome Mat
+Cinder Block 
+Wooden Bench
+Barber's Pole
+Bamboo Broom
+Store Dustpan
+Home Mailbox
+Iron
+Lottery Machine
+Old Newspaper
+Trash Bag
+Dog Food Bowl
+Flowerpots
+Ping Pong Ball
+Turtle Egg
+Film
+Mosquito Zapper
+Zapper Refill
+Champion Burger
+Cat-repelling Bottle
+Compass
+Large Milk Carton
+Glasses
+Diamond
+Onyx
+Ruby
+Emerald
+Clapper Board
+Ladle
+Oden
+Toast
+Bread Loaf
+Jumboman Red Mask
+Match Box
+Fox Mask
+Noh Mask
+Hyottoko Mask
+Red Oni Mask
+Jumboman Blue Mask
+Jumboman Yellow Mask
+Police ID
+Blackboard Eraser
+Wooden Gavel
+Hammer
+Wrench
+Philips Head
+Flat Head
+Shuriken
+Tuna Sushi
+Squid Sushi
+Tuna Sushi
+Egg Sushi
+Octopus Sushi
+Shrimp Sushi
+Calligraphy
+Paperweight
+India Ink
+Inkstone
+Horsetail
+Microphone
+Quail Egg
+Chicken Egg
+Ostrich Egg
+Steamed Bun
+Police Club
+Hamburger
+Drink
+Fried Chicken
+Bullhorn
+Antenna
+Watercolor
+Shopping Basket
+Shopping Cart
+Briefcase
+Portfolio
+Dried Squid
+Scarecrow
+Picture-story Show
+Kendo Mask
+Bamboo Sword
+Barrel
+Organ
+Christmas Tree
+Boot
+House
+Santa Claus
+Star
+Traffic Dummy
+Blue Ornament
+Red Ornament
+Gold Ornament
+Snowflake
+Top
+2nd Step
+3rd Step
+4th Step
+5th Step
+6th Step
+7th Step
+8th Step
+9th Step
+10th Step
+Scale
+Dynamometer
+Height Measure
+Canned Tuna
+Weather Station
+Red Oil Drum
+Green Oil Drum
+Blue Oil Drum
+Dummy Hit 12
+School Chair
+School Desk
+Maple Leaf
+Pigeon
+Ginkgo
+Bale of Rice
+Warning Sign
+Sedan
+Hatchback
+Van 
+Compact
+Mini-Truck
+Minivan
+Tiller
+Combine Harvester
+Tractor
+Boathouse
+Takoyaki Hotplate
+Gourd
+Storage Shed
+Sailboat Rental
+Potbellied Stove
+Daikon Radish
+New Driver Sign
+4-Leaf Clover Symbol
+Water Tank
+Fishing Pole
+Fishing Lure
+Radio Tower
+Concrete Cover
+Iron Cover
+Steel Cover
+Boat
+Propane Tank
+Mortar
+Pestle
+Binoculars
+Duct
+Swan Boat
+Red & White Pool Ring
+Hanko
+Inkpad
+Pay Phone
+Waste Basket
+Recycling Bin
+Metal Trash Can
+Trash Can
+Daikon Radishes
+Chinese Cabbages
+Pier
+Bicycle
+Magazine Rack
+Umbrella
+Polka Dot Umbrella
+Parasol
+Vending Machine
+Number Counter
+Backpack
+Kerosene Tank
+Milk Box
+Windmill
+Timber
+Cabbage
+Barbershop
+Barn
+Green Pumpkin
+Pumpkin
+Plastic Greenhouse
+Matsuri Stage
+Matsuri Tent
+Matsuri Table
+Bookstore
+Picnic Table
+Blue Oni Mask
+Green Oni Mask
+Pickle Tub
+Wheelbarrow
+Panda Mascot
+Garden Lantern
+Hoe
+Shovel
+Axe
+Russian Doll (XL)
+Straw
+Firewood
+Short Fence
+Fence
+Handrail
+Wooden Fence
+Brick Wall
+Long Wooden Fence
+Wall
+Pickaxe
+Barrier
+Strawberry Jam
+Garden Plant (M)
+Flower Bed
+Squared Shrubbery
+Bundle
+Sprout
+Mailbox
+Pansies
+"No Parking" Sign
+Lamp Post
+Prefab House
+Carport
+Wooden Crate
+Musical Instrument Store
+Store Sign
+Stationary Store
+Store Sign
+Phone Booth
+Apartment
+Decorative Tree
+Konishi Residence
+Short Utility Pole
+Miyamoto Residence
+Tall Utility Pole
+Power Line
+Power Line
+Dummy Hit 04
+Small Store
+Store Sign
+Palm Tree
+Farm
+Chinese Bowl
+Lotto Store
+Lottery Sign
+Cinema Marquee
+Quail River Sign
+Sword
+Bus Stop
+AAA Battery 
+Roach Motel
+Camping Tent
+Falling Rock
+Fireworks 
+Pine Decoration
+Tree
+Big Tree
+Gardening Fence
+Parking Lot Sign
+Puzzle Arcade Game
+Accident Notice
+Calendar
+Timetable
+Poem
+Lily Pad
+Giant Lily Pad
+Lotus Flower
+Striped Fish
+Police Officer (Male)
+Coin Locker
+Bonsai
+Festival
+Takoyaki Stand
+You Are Here
+Cassette Radio
+Advertising Balloon
+Well Pump
+Omikoshi
+Mermaid
+Mosquito Coil
+Mosquito
+Single Sofa
+Arcade Machine
+Geta
+Rubber Boot
+Kid's Boot
+Garbage Truck
+Construction Fence
+Truck
+Bus
+Carp Streamer
+Magoi
+Higoi
+Kogoi
+Fukinagashi
+Spirit of Joy
+Benchwarmer
+Globe Jungle Gym
+See-saw
+Jungle Gym
+Slide
+Kotatsu
+Garbage
+Surfboard
+Seat Cushion
+Clay Stove
+Tricycle
+Kid's Tricycle 
+Store Paper Bag
+Kerosene Stove
+Monument
+Helm
+Water Tap
+Daruma
+Globe
+Paper Lantern
+Telescope
+Teepee
+Trophy
+Hot Pot
+Shabu-Shabu Pot
+Pizza Delivery Bike
+Food Delivery Bike
+Pachinko Machine
+White Building Block
+Drink Crate
+Picnic Basket
+Gong
+Wrestling Ring
+Bowling Pin
+Lion Statue
+Ring Box
+Snowman
+Lantern
+Taiko Drum
+Port-A-Potty
+Scooter
+Fireworks 
+Boxed Fireworks 
+Hotel Sign
+Novelty Plate
+Jumboman Figure
+Balancing Toy
+Barbershop Sign
+Food Delivery Box
+Microscope
+Pampas Grass
+Test Tube Set
+Cassette Radio
+Bookstore Sign
+Drugstore Sign
+Stereo
+Sidewalk Marker
+Rocket
+Cruise Ship
+Tower
+Airplane
+Ferris Wheel
+Oil Tank (Full)
+Clouds
+Blue Building Block
+Goldfish Building
+Eel Building
+Power Shovel
+Satellite
+Plastic Wrap
+Laundry Detergent
+Tissues
+Tissue Box
+Toilet Paper
+Toilet Paper Roll
+Wooden Wall
+School Wall
+"All You Can Eat"
+"On Sale" Banner
+"No Swimming" Sign
+Legless Chair
+Open Tissue Box
+Rain-catcher Charm
+Oil Heater
+Airport Terminal
+Air Traffic Control Tower
+Rice Container
+Sweets Container
+Watering Pot
+Happy Gate
+Wedding Gate
+Vase
+Safe
+Crossing Bar
+Panda Slipper
+Leather Shoe
+Sandal
+Kid's Shoe
+Slipper
+Pumps
+Sneaker
+Monster Truck
+Screw
+Phillips-head Screw
+Crane
+AC Condenser
+Astro Space Center
+Bulldozer
+Shop Sign
+Big Watermelon
+Steamroller
+Japanese Matchbox
+Dentist Sign
+Mayonnaise
+Giant Watermelon
+Driller
+Sailboat
+Stardust Chopper
+Thunder Chopper
+Shogi Table
+Ousho
+Gyokusho
+Hisha
+Kakugyo
+Kinsho
+Ginsho
+Keima
+Kyousha
+Fu
+Red Backpack
+Black Backpack
+Bathroom Scale
+Company Sign
+Wall
+Steel Fence
+Soccer Goal
+Cardboard Carton
+Color TV
+Cell Phone
+Alarm Clock
+Bank Sign
+Telephone
+Toaster
+Walkie-Talkie
+Frying Pan
+Cowshed
+Log Fence
+Rice Cooker
+Men's Clothes Sign
+Jumping Rabbit
+Beachball
+Teddy Bear
+Bear Cub
+Polar Bear
+Big Bear
+Kintaro-Bear
+Carp
+Snapper
+Tuna
+Salmon
+Bonito
+Blowfish
+Stingray
+Small Fiddler Crab
+Fiddler Crab
+Coconut Crab
+Horseshoe Crab
+Spider Crab
+Blue Crab
+Calf
+Dairy Cow
+Cute Cow
+Ox
+Holy Cow
+White Sheep
+Black Sheep
+Giraffe
+Crocodile
+Monkey Ride
+Man 
+Crow
+Sparrow
+Dummy Hit 02
+Blue Girl
+Yellow Girl
+Pink Girl
+Doggy
+Dog With Fleas
+Bulldog
+Calico Cat
+Tabby Cat
+Siamese Cat
+Black Cat
+Mouse
+Rat
+Elephant
+Large Elephant
+Sea Otter
+Dung Beetle
+Big Dung Beetle
+Giant Dung Beetle
+Beetle Fight
+Pigeon
+Chicken
+Shopper
+Big Shopper
+Eagle
+Crow
+Sparrow
+Toy Dog
+Cymbal Monkey
+Happy Flower
+Jumbo Mammoth
+Grandpa
+Great Grandpa
+Schoolgirl
+Tall Schoolgirl
+Tall Schoolboy
+Schoolboy
+Husky Boy
+Short Schoolboy
+Company Employee
+Long-Time Employee
+Cranky Guy
+Big Guy
+Busy Momma
+Housewife
+RC Car
+Snail
+Boy
+Junior
+Precious
+Girl
+Skateboard
+Rollerboy
+Skinny Guy
+Big Man Abroad
+Merchant
+Grandma
+Farmer
+Fisherman
+Husky Fisherman
+Outfielder
+Catcher
+Batter
+Benchwarmer
+Mutsuo Hoshino
+Towel Guy
+Piggybackers
+Tri-Piggybackers
+Human Tower
+Bikini Girl
+Swimsuit Girl
+Inner Tube Kid
+Kickboard Boy
+Surfer
+Wrestling Match
+Sumo Bout
+Judo Contest
+Punk
+Playful Punk
+Double Punks
+Strongman
+Michiru Hoshino
+Paper Fan Man
+Matsuri Boy
+Matsuri Lover
+Matsuri Girl
+Utility Worker
+Busker
+DIY Dad
+Diver
+Clown
+Tomio Hoshino
+Chief Driller
+Mizue Hoshino
+Construction Guy
+Fortune-teller
+Burglar
+Balloon Man
+Alpinist
+Mountain Man
+Delivery Guy
+Nurse
+Mama-san
+Huge Tree
+Gigantic Tree
+Nikaido Residence
+Onishi Residence
+Niwata Residence
+Umemoto Residence
+Matsuo Residence
+Shimizu Residence
+Blue Hot Air Balloon
+Pink Hot Air Balloon
+Colorful Hot Air Balloon
+European Hot Air Balloon
+Kelp Factory
+Smokestack
+Animal Book
+Plant Book
+Red Apartment Building
+Dummy Hit 03
+Marlin Building
+Stingray Building
+Pilchard Building
+Salmon Building
+Bream Building
+Coral Building
+Cargo Ship 
+Baseball Bat
+Runway
+Red Umbrella
+Long Seat
+Dummy Hit 01
+Big Turnip
+Lamp Post
+Vanilla Cone
+Mixed Cone
+Strawberry Cone
+Ice Cream Freezer
+Big Bench
+Sale Cart
+Display Stand
+Bus Schedule
+Cherry Blossom
+Election Posters
+Red Vending Machine
+Blue Vending Machine
+Moo-Cow Vending Machine
+Traffic Mirror
+Small Fishing Boat
+Fishing Boat
+Trawler
+Rich Haul Flag #1
+Rich Haul Flag #2
+Breakwater Block
+Soccer Stadium
+Stadium Lights
+Stadium Screen
+Florist
+Florist Sign
+Festival Lantern
+Shoe Store Sign
+Clay Figure
+Vegetable Carton
+Fruit Carton
+Grand Opening
+Dairi Doll
+Hina Doll
+Lady-in-waiting Doll
+Court Musician Flute
+Court Musician Drum
+Right Councilor
+Left Councilor
+Japanese Lantern
+Hishi-Mochi
+Ox Carriage
+Drink Sign
+Horizontal Bar
+Hanging Bars
+Rocking Horse
+Principal's Statue
+Kebab
+Ball Toss Basket
+Steamboat
+Festival Lantern
+Green White Beach Umbrella
+Rabbit Balloon
+Roast On Bone
+Lollipop
+Chopper Lemon Kiss
+Dock Pile
+Gas Meter
+Watermelon Slice
+Half Watermelon
+Watermelon
+Steel Tower
+Pine Tree
+Super Huge Rainbow
+Insect Cage
+Butterfly Specimens
+Gas Tank
+Warehouse
+Crane Scaffold
+Parking Garage
+Grapes
+Muscat
+High School
+College
+Kimono
+Stadium Balloon
+Sunflower
+Giant Windmill
+Stadium
+Bowling Alley
+Huge Bowling Pin 
+Launch Pad
+Crane (S)
+Caution
+One Way
+Brine Building
+Submarine
+Thermos Pot
+Big City Ruin
+Castle
+Mushroom (L)
+Mushroom (XXXL)
+Satellite Dish
+Tornado
+Maelstrom
+Watermelon Boy
+Bunny Costume
+Bear Costume
+Cow Costume
+Scissors
+Hair Dryer
+Shogi Board
+Guardrail (5m)
+Guardrail (Right)
+Guardrail (Left)
+Guardrail (3m)
+Sea Turtle
+Giant Sea Turtle
+Tree Frog
+Poisonous Frog
+Toad
+Seal
+5 Yen Coin
+10 Yen Coin
+500 Yen Coin
+Japanese-English Dictionary
+Home Medicine Book
+Weathercock
+Orange Juice
+Gold Medal
+Kiddie Car
+Froggy Car
+Park Lamp Post
+Old Coin
+Chocolate
+Chocolate
+Deer Scare
+Garden Rock
+Police Bike
+Cream Puff
+Tree Stump
+Tree
+Red Balloon
+Blue Balloon
+Yellow Balloon
+Kiddie Spade
+Kiddie Rake
+Kiddie Bucket
+Sand Castle
+Small Takoyaki
+Takoyaki One Bite
+Takoyaki
+Chalk
+Red Chalk
+Child's Drawing (Airplane)
+Child's Drawing (Flower)
+Handcuffs
+Turkey
+Hose Reel
+New Year's Card
+Postcard
+Envelope
+Water Pump Ad
+Fire Hazard Sign
+Appliance Billboard
+Takoyaki Sign
+Silver Medal
+Bronze Medal
+Water Tank Sign
+No Parking!
+Dustbin
+Pool Ring
+Pineapple
+Swing
+Manhole Cover
+Florist Fence
+Air Freshener
+Toy Dispenser
+Red Toy Capsule
+Yellow Toy Capsule
+Blue Toy Capsule
+Yellow Chalk
+Green Chalk
+Blue Chalk
+Thumbtack
+Yellow Pushpin
+Blue Pushpin
+Publisher Sign
+White Crayon
+Black Crayon
+Red Crayon
+Pink Crayon
+Green Crayon
+Lime Crayon
+Blue Crayon
+Aqua Crayon
+Purple Crayon
+Brown Crayon
+Light Orange Crayon
+Ochre Crayon
+Gold Crayon
+Crayon Box
+Green Die
+Financing Ad
+Appliance Billboard
+Neon Hotel Sign
+Striped T-Shirt
+Briefs
+Easel
+
+
+Gigantic Octopus
+Medium Bowl
+Large Bowl
+Average Bowl
+Ham
+Banana
+Banana Bunch
+Blue Paint
+Pink Paintbrush
+Mug
+Sausage
+RC Controller
+Small Bowl
+Car Ad
+Savanna Tree
+Green Tea (Can)
+Coffee (Can)
+Soda
+Panda Balloon
+Biker Flag
+Deer Head
+Teapot
+Milk Carton
+Milk Bottle
+Coffee Milk
+Curved Railing
+Crane (L)
+Butter
+Morimoto Residence
+Toolbox
+Kitchen Knife
+Butcher's Knife
+Marmalade
+Square Plate
+White Condominium
+Soy Sauce Pack
+Thermometer
+Water Pistol
+Dummy Hit 06
+Cherry Tree
+Cucumber Plant
+Eggplant
+Rice Cake
+Bear Carving
+Stamp
+Karaoke Building "O"
+Karaoke Building "Ke"
+Red Kerosene Tank
+Cow Umbrella
+Dishwashing Liquid
+Hasegawa Residence
+Kurosaki Residence
+Soy Sauce Bottle
+Noguchi Residence
+Hot Air Balloon
+Dummy Hit 05
+Deluxe Fridge
+Old Magazines
+Paperback
+Bird Illustrations
+Japanese Dictionary
+Math Workbook
+Kanji Workbook
+Comic
+Red Helicopter
+Prop Plane
+Diary
+Drainboard
+Newspaper
+Leaflet
+Weekly Magazine
+Caramel Box
+Caramel
+Blue White Beach Umbrella
+Colorful Beach Umbrella
+Pencil Sharpener
+B Pencil
+H Pencil
+Kettle
+Rich Haul Flag #3
+Rich Haul Flag #4
+Oil Tanker
+Wooden Bench
+Photo Booth
+D Battery
+9-Volt Battery
+Storm Cloud
+Oni Island
+Abalone Island
+Cockle Island
+Starfish Island
+Tsunami Island
+Top Shell Island
+Anchor Island
+Manmade Island
+Traffic Signal
+Pedestrian Signal
+Goldfish
+Teahouse
+Teahouse Banner
+Fossil
+Ammonite
+Survey Marker
+Rock
+Black Rock
+Big Rock
+Small Iceberg
+Pointy Iceberg
+Big Iceberg
+The Oni Rock
+Fried Rice
+Roast Pork
+Ramen
+Eggplant
+Tomato
+Cucumber
+Cutting Board
+Children At Play Sign
+Tire
+Winners' Podium
+Pizza
+Price Tag 980 Yen
+Price Tag 198 Yen
+Wall (Short)
+Cow Cone
+Carrot
+Display Menu
+Ramen Sign
+Wok
+Birthday Cake
+Bullet Train Front
+Bullet Train Rear
+Shortcake
+Wedding Cake
+Cooler
+Café
+Food Sample
+Umbrella Shop
+Umbrella Shop Sign
+Tulip Bouquet
+Flower Bouquet
+Hydrangea
+Flowers
+Blue Flower Pot
+Red Flower Pot
+Brown Flower Basket
+White Flower Basket
+Microphone Stand
+Spotlight
+Ground Spotlight
+TV Camera
+Flea Market
+Peach
+Onigiri (Rice Ball)
+Big Peach
+Pear
+Big Pear
+Melon
+Monster Melon
+Apple
+Monster Apple
+Cherries
+Monster Cherries
+Strawberry
+Giant Strawberry
+Apple Basket
+Peach Basket
+Orange Basket
+Bear Cub Statue
+Nail Clipper
+Noticeboard
+Cookie
+Cookie Sandwich
+Baby Turtle
+Quail Hatchling
+Chick
+Ostrich Hatchling
+Momotaro
+Umbrella
+Polka Dot Umbrella
+Parasol
+Jumbo Umbrella
+Russian Doll (L)
+Russian Doll (M)
+Russian Doll (S)
+Tram
+Closed Box
+Empty Box
+Sperm Whale
+Gigantic Squid
+Jumbo Octopus
+Swallowtail
+White Butterfly
+Yellow Swallowtail
+Purple Butterfly
+Gangster Car
+Penguin
+Sandpile
+Killer Move
+Ball Race
+Nice Guy
+Gymnastic Girl
+Fly, Jumboman!
+Fight, Jumboman!
+Thunder God
+Pogo Boy
+Soccer Player
+Relaxing Dude
+Abalone Diver 
+Old Salt
+Kindergarten Hat
+Clay
+School Notebook
+Indoor Shoes
+Kindergarten Bag
+Superglue
+Croissant
+Mahjong Tile
+Mahjong Tile
+Mahjong Tile
+Mahjong Tile
+NOT USED
+Gigantic Whale
+Closed Window
+Duckling
+Egg
+Crown
+Big Coin
+Canned Sardines
+Broom
+Hairpin
+Red Yellow Beach Umbrella
+Kaleidoscope
+Hard Hat
+Baseball Cap
+Straw Hat
+Pastel Beach Umbrella
+Ballpoint Pen
+Brush
+Teacup
+Cash Register
+Button
+Spirit of Anger
+Spirit of Sorrow
+Spirit of Fun
+Gas Station
+Gas Pump
+Car Wash 
+Gas Station Sign
+Scoreboard
+Base
+Home Plate
+Pitcher's Mound
+Baseball Field Sign
+Speakers
+Field Liner
+Lawn Roller
+P.E. Boy
+Mystery Creature
+Folding Chair
+Champion's Belt
+Barbell
+Flag Buoy
+Treasure Chest
+Fishing Hole Sign
+Garbage Dump
+Construction Entrance
+Under Construction
+"Bulbul" Sign
+Telephone Pole Ad
+Telephone Pole Brace
+Speed Limit Sign
+Stop Sign
+Fancy Guardrail
+"No Trespassing"
+Curry Ad
+Picture Stand
+Log
+Log Cabin
+Bungalow
+Swimming board
+Pool Rope
+Bus Stop Shelter
+Pool Clock
+Canned Sweets
+Scattered Clouds
+School Flag
+School Incinerator
+Minute Hand
+Hour Hand
+Guitar
+Cello
+Harp
+Grand Piano
+Anchor
+TV Station
+Wooden Table
+Golf Ball
+Soccer Ball
+Football
+Silo
+Red Block
+Yellow Block
+Green Block
+Balance Beam 
+Movie Theater Sign
+Movie Theater Sign
+Shoe Box
+Sprayer
+Paper Bag
+Garden Plant
+Bamboo Fence
+Magnet
+Lipstick
+Coffee Flavor Candy
+Grape Flavor Candy
+Monument
+Funny Hammer
+Ice Cube Tray
+Mini Flashlight
+Slotted Spatula
+Arrow
+Soap
+Toy Chest
+Basketball Hoop
+Sponge
+Hair Brush
+Washstand
+Bug Spray
+Ketchup
+Match
+Sliced Bread
+Shoe Display Stand 
+Pink Hot Air Balloon
+Breakwater Block
+Opening Cardboard Box
+Bell
+Castanet
+Electric Jellyfish
+Sea Anemone
+Algae Ball
+Lifeguard's Chair
+Buoy
+Gym Storage
+Long Cargo Container
+Red Cargo Container
+Blue Cargo Container
+Market
+Train
+Passenger Car
+Coal Car
+Express Train Front
+Express Train Rear
+Freight Car
+Japanese Flag Lunch Box
+Omelet Rice
+RF Radiation Sign
+Kokeshi Doll
+Big Kokeshi
+Washing Machine
+Stereo Speaker
+Advertisement 
+Laundry Deck
+Laundry Pole
+Laundry Hanger
+Curry
+Stew
+Videogame
+Memory Card
+Ironing Board
+Bulletin Board
+Pail
+Park Name
+Power Plug
+Power Strip
+Panda Sign
+Magazine
+Plate
+Fruit Basket
+Ventilation Fan
+Cuckoo Clock
+Cuckoo
+Doghouse
+Elephant Watering Can
+Ladle
+Planting Fence
+Red Tulip
+White Tulip
+Yellow Tulip
+Pink Tulip
+Stand
+Telephone Stand
+Katana
+Power Line
+Bird's Nest
+Strawberry Plant
+Calendar
+Strawberry Pack
+Gym Uniform
+Bonsai Display
+Rain
+Pork Bowl
+Sliding Door
+Sliding Door
+Small Sliding Door
+Shoji
+Ice Cream Float
+Flagstick
+Bunny
+Ladder
+Dandelion
+Fluff
+Chocolate Snack
+"Katamari"
+"Experience"
+"In"
+"Progress"
+Candy
+Milk Candy
+Morning Glory
+Red Morning Glory
+Blue Morning Glory
+Cheese
+Apple Carton
+Pencil Stand
+Ant
+Chocolate
+Wholesale Market
+Railroad
+Tall Lighthouse
+Lighthouse
+Bathhouse
+Bathhouse Chimney
+White Wall
+Boiler Room
+Bathhouse Curtain
+Totem Pole
+Tall Totem Pole
+Dentist Ad
+Station Ad
+Barbershop Ad
+Station Ad
+Daruma
+School Sign (Chu)
+School Sign (Gakko)
+Podium
+Gymnasium
+Red Ball
+Palmistry Table
+Cushioned Chair
+Palmistry Sign
+Wrecking Ball
+Bamboo Blind
+Fireworks
+Fireworks Hydrangea
+Stepladder
+Shachihoko
+Cabinet
+Washtub
+Drawer
+Mansion
+Ceiling Light
+Petroleum Tank
+Bookstand
+Ruler
+Desk Lamp
+Spider
+Wind Chime
+Hook
+Fire Extinguisher
+Lucky Cat 
+Bicycle
+Apple Juice
+Fizzy Cider
+Sports Drink
+Red Paint
+Paintbrush
+Kid's Umbrella
+Kid's Umbrella
+Parsley
+Coin Purse
+Toothbrush
+Toothpaste
+Juice Bottle
+Huge Falling Rock
+Birdcage
+Sticky Tape
+Small Yacht
+Hanging Scroll
+Chopsticks
+Piggy Bank
+Check Book
+Picture Frame
+Copy Machine
+Grilled Fish
+Casino Building
+Shumai Dumpling
+Mandarin Piece
+Mandarin Peel
+Mandarin
+Gatepost
+Gate Lamp
+Fridge
+Salmon
+Casino Sign
+Shoe Cupboard
+Peach Tree
+Swing
+Piling
+Blue Party Cracker
+Used Blue Party Cracker
+Stereo Shelf
+Circuit Arch
+Convenience Store Sign
+Gull 'n Kelp
+Dried Kelp 
+School Gate
+Camp Fire
+Big Camp Fire
+Huge Camp Fire
+Open Pit
+Closed Pit
+Green Tire Barrier
+White Tire Barrier
+Podium
+Podium Background
+Camp Fire
+Long Log
+Pachinko Parlor
+Pachinko Sign
+Convenience Store
+Lily Coral
+Big Coral
+Coral Reef
+Pink Coral
+Blue Coral
+Ferris Wheel Base
+Scientific Factory
+Oil Factory
+Parking Turntable
+Blue Ski
+Yellow Ski
+Green Ski
+Ski Pole
+Snowboard
+Cucumber Roll
+Tuna Roll
+Salmon Roe Roll
+
+
+Dokudami Island
+Wood Sorrel Island
+Lily Island
+Thistle Island
+Jewelweed Island
+Begonia Island
+Udo Island
+Large Flower Plate
+Small B Pencil
+Pencil With Eraser
+Fancy Pencil
+Majima Residence
+Tamagawa Residence
+Hara Residence
+Big Crane Scaffold
+Netting Cage
+RC Boy
+Great Great Grandpa
+Great Great Great Grandpa
+Summer Schoolgirl
+Summer Skinny
+Salesperson
+Executive Employee
+Shy Guy
+Sensible Guy
+Loud Momma
+Madam
+Part-Timer
+Music Store Owner
+Electronic Store Owner
+Mackerel Sushi
+Wrestler
+Famous Wrestler
+Sumo Wrestler
+Judo Wrestler
+Human Wheel
+Marine Jumboman
+Mecha Mogran
+Long-Time Employee
+Lion Dance
+Stilts
+Octopus
+Sea Turtle
+Dandy Guy
+Invisible Man
+Swordfish
+Gigantic Squid
+Mini Giant Octopus
+Merman
+Thin Tall Grass
+Tall Grass
+Thin Grass
+Weeds
+Low Fence
+Trojan Horse
+Airplane Contrail
+Big Airplane Contrail
+Rain Front
+Fancy Fence
+Fence Post
+Prefab Office
+Public Toilet
+Bus Stop Shelter
+Small Totem Pole
+Hamburger
+Gum
+Mackerel Building
+Bass Building
+Guppy Building
+Halfbeak Building
+Carp Building
+Green Balloon
+Pink Balloon
+Gum Stick
+Secret
+New Snow
+Rough Snow
+Tight Snow
+Wet Snow
+Dry Snow
+Snow House
+Carp Streamer
+Christmas Tree
+Vaulting Horse
+Registered Trademark
+Fresh Sign
+Farm
+Blue Plastic Box
+Green Plastic Box
+na
+m
+co
+The Prince
+Lalala
+Nik
+Ace
+Johnson
+Velvet
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honey
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Jungle
+Miso
+United States of America
+Antigua and Barbuda
+El Salvador
+Canada
+Cuba
+Guatemala
+Grenada
+Costa Rica
+Jamaica
+Saint Kitts and Nevis
+Saint Vincent and the Grenadines
+Saint Lucia
+Dominica
+Dominican Republic
+Trinidad and Tobago
+Nicaragua
+Haiti
+Panama
+Bahamas
+Barbados
+Belize
+Honduras
+Mexico
+Argentina
+Uruguay
+Ecuador
+Guyana
+Colombia
+Suriname
+Chile
+Paraguay
+Brazil
+Venezuela
+Peru
+Bolivia
+Australia
+Kiribati
+Samoa
+Solomon Islands
+Tuvalu
+Tonga
+Nauru
+New Zealand
+Vanuatu
+Papua New Guinea
+Palau
+Fiji
+Marshall Islands
+Federated States of Micronesia
+Afghanistan
+United Arab Emirates
+Yemen
+Israel
+Iraq
+Iran
+India
+Indonesia
+Oman
+Qatar
+Cambodia
+Cyprus
+Kuwait
+Saudi Arabia
+Syria
+Singapore
+Sri Lanka
+Thailand
+Turkey
+Nepal
+Bahrain
+Pakistan
+Bangladesh
+Philippines
+Bhutan
+Brunei
+Vietnam
+Malaysia
+Myanmar
+Maldives
+Mongolia
+Jordan
+Laos
+Lebanon
+Korea
+China
+Japan
+North Korea
+East Timor
+Algeria
+Angola
+Uganda
+Egypt
+Ethiopia
+Eritrea
+Ghana
+Cape Verde
+Gabon
+Cameroon
+Gambia
+Guinea
+Guinea-Bissau
+Kenya
+Cote d'Ivoire
+Comoros
+Congo
+Democratic Republic of the Congo
+São Tomé and Principe
+Zambia
+Sierra Leone
+Djibouti
+Zimbabwe
+Sudan
+Swaziland
+Seychelles
+Equatorial Guinea
+Senegal
+Somalia
+Tanzania
+Chad
+Central African Republic
+Tunisia
+Togo
+Nigeria
+Namibia
+Niger
+Burkina Faso
+Burundi
+Benin
+Botswana
+Madagascar
+Malawi
+Mali
+South Africa
+Mozambique
+Mauritius
+Mauritania
+Morocco
+Libya
+Liberia
+Rwanda
+Lesotho
+Iceland
+Ireland
+Albania
+Andorra
+United Kingdom
+Italy
+Estonia
+Austria
+Holland
+Greece
+Croatia
+San Marino
+Switzerland
+Sweden
+Spain
+Slovakia
+Slovenia
+Czech Republic
+Denmark
+Germany
+Norway
+Vatican
+Hungary
+Finland
+France
+Bulgaria
+Belgium
+Poland
+Portugal
+Malta
+Monaco
+Latvia
+Lithuania
+Liechtenstein
+Luxembourg
+Romania
+Macedonia
+Serbia and Montenegro
+Bosnia and Herzegovina
+Azerbaijan
+Armenia
+Ukraine
+Uzbekistan
+Kazakhstan
+Kyrgyz
+Georgia
+Tadzhikistan
+Turkmenistan
+Belarus
+Moldova
+Russia
+Greenland
+Antarctica
+Taiwan
+The King Of All Cosmos
+The Queen
+Twinkle
+Huey
+Nutsuo
+Beyond
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Slip
+Drooby
+Signolo
+Laundry Basket
+Tray
+Sewing Box
+Origami Chain
+Shelves
+Seaweed
+Food Stall
+Food Wagon
+Mini TV
+Toolbox
+Study Chair
+Study Desk
+Bed
+Snow Ball (S)
+Snow Ball (M)
+Snow Ball (L)
+Big Rainbow
+Sheep Cloud
+Cumulonimbus
+Cumulonimbus (L)
+Thunder Cloud (S)
+Thunder Cloud (M)
+Thunder Cloud (L)
+Rain Cloud (S)
+Rain Cloud (M)
+Rain Cloud (L)
+White Cloud (S)
+White Cloud (M)
+Jumbo Cloud
+Banana Cloud
+Bony Chop Cloud
+Flower Cloud
+Car Cloud
+Trumpet Cloud
+Suspension Bridge
+Suspension Bridge Brace
+Red Rose
+Red Tulip
+White Tulip
+Yellow Tulip
+Pink Tulip
+Sunflower
+Chrysanthemum
+Chrysanthemum
+Cosmea
+Orange Cosmea
+Flower Bud
+Flower Bud
+Flower Bud
+Flower Bud
+Flower Bud
+Camping Pot
+Rocks
+Aquarium
+Diploma Storage Tube
+Paint Set
+Blue Paint
+Green Paint
+Black Paint
+Red Paint
+Yellow Paint
+Paint Bucket
+Palette
+Lunch Bag
+Math Textbook
+Fairy Tale Book
+Dust Cloth Hanger
+Dust Cloth
+Blackboard
+Blackboard Date
+Blackboard Introduction
+Blackboard Math
+Blackboard Biology
+Bookshelf
+Desk
+Curtain
+Classroom Post
+Blackboard Eraser Cleaner
+Classroom Clock
+Classroom Calligraphy - "Egg"
+Classroom Calligraphy - "Balloon"
+Classroom Calligraphy - "Mother"
+Expensive Desk
+Partition
+Expensive Chair
+Locker Shelf
+Bookshelf
+Expensive Plate
+Small Plate
+Square Plate
+Mahjong Tile
+Mahjong Tile
+Mahjong Tile
+Mahjong Tile
+Mahjong Tile East
+Mahjong Tile South
+Mahjong Tile West
+Mahjong Tile North
+Mahjong Tile Haku
+TV
+Big Protractor
+Big Triangle Ruler
+Big Compass
+Cleaning Bucket
+Hammer
+Bento Lunch
+Big Bento Lunch
+Sandwich
+Straw Mat
+Water Canteen
+Pancake
+Baumkuchen Cake
+Curry Roux
+Okonomiyaki
+Corn
+Melon Bread
+Chocolate Bread
+Strawberry Parfait
+Chocolate Parfait
+Frozen Yogurt Cone
+Twin Pop
+Ice Cream Cone
+Sweet Bean Pastry
+Gyoza Dumplings
+Plastic Railroad
+Plastic Railroad Curve
+Model Train
+Model Carriage
+Red Circle Toy Block
+Blue Circle Toy Block
+Yellow Square Toy Block
+Red Square Toy Block
+Blue Triangle Toy Block
+Yellow Triangle Toy Block
+Toy Robot
+Wooden Horse
+Glue
+Red Pen Box
+Triangle Ruler
+Protractor
+Red Dress Pin
+Green Dress Pin
+Pin Cushion
+Lighter
+Green Candle
+Orange Candle
+Green Clip
+Red Clip
+Giant Hot Pot
+Almond
+Acorn
+Clover
+Jigsaw Piece
+Sunflower Seed
+Bottle Cap
+Coffee Bean
+Key
+Bicycle Lock
+Lock
+Combination Lock
+Sumo Ring
+Sail Boat
+Pirate Ship
+Souvenir Shelf
+Souvenir Rack
+Food Court
+Souvenir Shop
+Information
+Speaker
+Big Bear Bus
+Safari Bus Stop
+Observatory
+Railing
+Monkey Mountain
+Zoo Map
+Zoo Guide Arrow
+Safari Bus
+Reeds
+Zoo Flag
+Farm Railing
+Kiddy Zone
+Amazon Zone
+Farm Zone
+Arctic Zone
+Safari Zone
+Zoo Street Lamp
+Classroom Calligraphy
+Bulletin Board Note
+Bulletin Board Note
+Bulletin Board Note
+Bulletin Board Note
+Bulletin Board Note
+Bulletin Board Note
+Post
+Kiddy Fence
+Handrail
+Sunny Savanna Gate
+Petting Zoo Gate
+Tropical Jungle Gate
+"Mother" Sign
+"Nature" Sign
+"Memorial" Sign
+"Movement" Sign
+"Thing" Sign
+"Park" Sign
+Pink Origami Crane
+Yellow Origami Crane
+Green Origami Crane
+Blue Origami Crane
+Red Origami Crane
+Purple Origami Crane
+White Origami Crane
+50 Origami Cranes
+Origami Samurai
+Origami Samurai Helmet
+Paper Airplane
+Rose
+Big Origami Crane
+TV Stand
+Kitsune Udon
+Remote Control
+Table
+HB Pencil
+Thread (Red & White)
+Thread (Navy)
+Thread (Green)
+Thread (White)
+Small Ball
+Cone
+Projection
+Long 'n Thin
+Big Ball
+Big Cone
+Big Projection
+Big 'n Long
+Taxi
+London Bus
+Racing Car (Red)
+Racing Car (Green)
+Racing Car (Colorful)
+ATV 4-wheeler
+Container Truck
+Carriage
+Pumpkin Carriage
+Rickshaw
+Race Guardrail
+Red Helmet
+Green Helmet
+Train Carriage
+Police Car
+Firetruck
+Airship
+Broadcast Van
+Election Car
+Recorder
+Big Drum
+Small Drum
+Cymbal
+Trumpet
+Harmonica
+Gong 
+Hanging Bell
+Honey
+Rice Cracker
+Pillow
+Travel Bag
+Samurai Armor
+Gourd Picture
+Pendulum Clock
+Wristwatch
+Pink Party Cracker
+Blender
+Hurdle
+Kite
+Kite
+Planetarium Projector
+Dumbbell
+Steel Frame
+Crane Game
+Plastic Comb
+PC Monitor
+PC Keyboard
+Personal Computer
+Dango Dumpling
+Gratin
+Daruma Head
+Daruma Body
+Daruma Body
+Daruma Body
+Daruma Body
+Salt
+Pepper
+Sugar
+Soy Sauce Container
+Pink Clothespin
+Microwave Oven
+Bamboo Shoot
+Bamboo
+Ping Pong Paddle
+Tennis Racket
+Tennis Ball
+Scimitar 
+Sketch Book
+Cactus
+House Plant
+Tetrapack Milk
+Stew
+Electric Fan
+Starfish
+Videotape
+Green Café Table
+Red Café Table
+Café Chair
+Lemon Tea
+Mixed Juice
+White Birch
+Paper Cutter
+Permanent Marker
+Haniwa
+Glass Bottle
+Firefly
+Bouquet of Roses
+Ice Cream Banner
+Gift Shop Banner
+Train Carriage
+Binoculars
+Quiz Show Seat
+Cable Car Terminal
+Gondola
+Mosquito Repellent
+Rice
+Cup Noodles
+Cannon
+Fortune Dispenser
+Blue Pen Box
+Sweet Potato
+Onion
+Potty
+Balance Toy
+Raccoon
+Paper Tiger
+Soba Noodles
+Winter Conifer (S)
+Coffin
+Underwater Castle
+Tank
+Urinal
+Fishing Hook
+Vacuum Cleaner
+Kid's Glue Stick
+Tray
+Tongs
+Sushi Boat
+Die
+Drawers
+Fluorescent Bulb
+Fishing Line
+Sofa
+Video Cassette Player
+Winter Conifer (L)
+Shampoo
+Old Books
+Canoe
+Baguette
+Glove
+Royal Nose
+Ladder
+Cushion
+Used Pink Party Cracker
+Toilet Bowl
+Fire Pit
+Round Water Canteen
+Campervan
+Mountain Bike
+Red Tent
+Blue Tent
+Yellow Tent
+Green Tent
+Hammock 
+Flat Mushroom
+Outdoor Sink
+Fairy Mushroom
+Campground Map
+Log Bench
+Red Die
+Headlamp
+Flashlight
+Map
+Wooden Bridge
+Wooden Steps
+King Origami Crane
+Picnic Mat
+Vase
+Sea Urchin
+Univalve Shell
+Driftwood
+Floating Island
+Rock
+Orange Flat Coral
+Lime Flat Coral
+Big Round Coral
+Round Coral
+Lily Coral
+Huge Rice Cake
+Large Meat
+Pebble
+Scallop Shell
+Pointy Shell
+Sea Snail Shell
+Big Clam
+Triangle Shell
+Fashion Magazine
+School Shelves
+Podium
+Speaker
+Curtain
+Fluorescent Bulb
+Tatami Mat
+P.E. Wear
+100 points!
+0 points...
+Flute Piano
+Framed Certificate
+Champion's Trophy
+Black Calligraphy Bag
+Red Calligraphy Bag
+Abacus
+Test Papers
+Attendance Book
+Filing Cabinet
+Office Chair
+Lunch Tray
+Partition
+Toilet Door
+Classroom Objective - Elementary
+Classroom Objective - Middle School
+Japanese Textbook
+School Yearbook
+English Textbook
+Calligraphy Brush
+Dodgeball
+School Trash Bin
+Locker
+Notebook
+Sketchbook
+Fire Escape Door
+Fire Escape Door
+Red & White Cap
+Hero's Cap
+Hospital Bed
+School Bag
+Sports Bag
+Tiger Skin
+History Textbook
+Lunch Menu
+School Soap
+Toilet Plunger
+Faucet
+Cottage
+Snow Block
+Toilet Paper
+Siren
+Mobile Blackboard
+Files
+Sticky Tape
+Big Concrete Wall
+Small Concrete Wall
+Classroom 3-2 Sign
+Teacher's Office Sign
+Luxury Sofa
+Principal's Table
+Ashtray
+Principal's Picture (B&W)
+Principal's Picture (Color)
+School Safe
+Door
+Window
+Small Window
+Corridor Bulletin Board
+Bulletin Board
+Window
+Hanging Shelf
+Big Christmas Tree
+Snowmobile
+Sled
+Igloo
+Lodge
+Ski Rental Shop
+Chair Lift
+Traditional Snow House
+Snow Rabbit
+Partition
+Partition
+Beam
+Mushroom House
+Topiary Rabbit
+Topiary Deer
+Topiary Duck
+Topiary Turtle
+White Rose
+Yellow Rose
+Stone Memorial
+Donkey Statue
+Dog Statue
+Cat Statue
+Rooster Statue
+Rafflesia
+Gold Axe
+Silver Axe
+Race Signal
+Red Tire Barrier
+Window
+Window
+Closed Window
+NOT USED
+Sponsor's Arch
+Department Store Ad
+Milk Ad
+Mushroom
+Gigantic Mushroom
+Race Control Tower
+Blue Helicopter
+Heart Cloud
+Ice Cream Cloud
+Kitty Cloud
+Melon Cloud
+Shortcake Cloud
+Kintaro Candy
+Dress Pin
+Blue & Red Pencil
+Clip
+Cookie Tin
+Eye Drops
+Stamp
+Compact Table
+Skateboard
+Blue Clothespin
+Egg Sandwich
+Big Chocolate Cookie
+Fruit Cake
+Candy Cane
+Bread Stick
+Caramel
+Caramel
+Vanilla Wafer
+Strawberry Wafer
+Red Cherry
+Green Cherry
+Pink Hard Candy
+Big Star Cookie
+Giant Cookie
+Honey Madeleine
+Madeleine
+Chocolate Stick
+Bitter Chocolate
+Gummy
+Blue Hard Candy
+Whipped Cream 
+Small Cookie Tree
+Cookie Tree
+Big Cookie Tree
+Big Baumkuchen
+Strawberry Flower
+Log Table
+Chicken Cookie
+Pig Cookie
+Donkey Cookie
+Sheep Cookie
+Big Chocolate Pie
+Caramel
+Big Chocolate Donut
+Cookie
+Mild Chocolate
+Grape Flower
+Mandarin Flower
+Marble Cake
+Big Tart
+Fairy Tale Fork
+Big Strawberry Donut
+Cookie Tile
+Strawberry Cookie Tile
+Red Wafer
+Chocolate Wafer
+Green Wafer
+Blue Wafer
+Apartment Block
+Apartment Map
+Red Tire
+Blue Tire
+Clock Tower
+Overbridge
+Nakayama Residence
+Kamota Residence
+Nakamura Residence
+Todoroki Residence
+Yamada Residence
+Kido Residence
+Yakitori Restaurant
+Red Lamp
+Police Box
+Café
+Electronics Store
+Electronics Store Sign
+Purple Wafer
+Caramel Brick
+Sno-Cone Sign
+Fish Store
+Fish Store Sign
+Hiyodori Station
+Station Sign
+Ticket Gate
+School
+Well
+Shrine
+Shrine Gate
+Shrine Dog
+Pizza Shop
+Pizza Shop Sign
+Family Restaurant
+Family Restaurant Sign
+Net
+Karaoke Box "Ka"
+Karaoke Box "Ra"
+Wooden Seaside House
+Seaside House
+School Building #2
+Wedding Spot
+Fire Department
+Long Barrier
+Shrine Hut
+Tennis House
+Convenience Store
+Convenience Store Sign
+Ferris Wheel
+Gondola
+Menu Banner
+Observatory 
+Observatory Object
+Movie Theater
+SF Movie Ad
+Sunfish Tower
+Salmon Tower
+Department Store
+Coral Tower
+Flounder Tower
+Killifish Tower
+Yellowtail Tower
+Amberjack Tower
+Under Construction 
+Fire Outbreak
+Coffee Ad
+Life Insurance Ad
+Tenant Ad
+Highway
+4-Lane Highway
+Highway Toll Booth
+Highway Sign
+Big Fire Kanji
+Mouth of Truth
+Wounded Lighthouse
+Parthenon
+Parthenon Column
+Windmill
+Cinderella's Castle
+L'Arc de Triomphe
+Eiffel Tower
+Big Ben
+Stonehenge
+Tower Bridge
+Colosseum
+Leaning Tower of Pisa
+Pierre's Residence
+William's Residence
+Joseph's Residence
+European Farm 
+
+Charles' Residence
+Rudolph's Residence
+Waffle Building
+Croissant Building
+Foie Gras Building
+Castella Building
+Champagne Building
+Olive Building
+People
+Wine Cellar
+Fountain
+Boulevard Tree
+Dark Conifer
+Conifer
+Canal Bridge
+European Station
+Chocolate Factory
+Winery
+Auto Factory
+Chimney
+Cars
+Oilfield Chimney
+Oilfield
+Taj Mahal
+Taj Mahal Pillar
+Angkor Wat
+Angkor Statue
+Everyone
+Japanese People
+Mt. Fuji Cloud
+Houses of Parliament
+Red Vending Machine
+Blue Vending Machine
+Moo-Cow Vending Machine
+Rainbow
+Iron Truss Bridge
+Whale Bridge
+Arched Bridge
+Red Bridge
+Sweets Plate
+
+
+
+Chinese Gate
+Chinese Bell Tower
+Tall Bell Tower
+Fried Rice Mountain
+Mt. Sungan
+Twin Rocks
+Great Wall of China - Start
+Great Wall of China - End
+Great Wall of China - Entrance
+Southern Gate
+Great Wall of China - Exit
+Gyoza Dumplings
+Big Buddha
+Five-Story Pagoda
+Diet Building
+Castle
+Uguisu Town
+Hototogisu Town
+Moai
+Stylish Moai
+Jumbo Moai
+Jurassic Tree
+Hamburger Building
+Jennifer's Building
+Potato Building
+Danielle's Building
+Michael's Building
+John's Building
+
+"H" Sign
+"O" Sign
+"L" Sign
+"Y" Sign
+"W" Sign
+"D" Sign
+Statue of Liberty
+Shopping Mall
+Shopping Mall Sign
+George
+Thomas
+Theodore
+Abraham
+Bear
+Golden Gate Bridge
+Control Tower
+Airport
+Blue Airplane
+White Airplane
+Trucks
+Wild Cactus
+Death Valley
+Wilson Mansion
+Carter Mansion
+Monroe Mansion
+Ford Mansion
+Jackson Mansion
+Wild Town
+Good Town
+Surprise Town
+Dog Town
+The White House
+Fountain
+Golden Gate
+Snorkel & Goggles
+Oxygen Tank
+
+
+
+Ladybug
+Tsuchinoko
+Ibis
+Ibis
+Telescope Goldfish
+Shogun
+Prince
+Dangling Boy
+Dangling Man
+Dangling Girl
+Relaxing Nice Guy
+Relaxing Cool Dude
+Relaxing Lady
+Relaxing Boy
+Relaxing Girl
+Native American
+Chinese Man
+Gentleman
+Parisienne
+Indian Man
+Inuit Man
+Matador
+Jungle Man
+Old Master
+Conductor
+Fireman
+Captain
+Crewman
+Marathon Runner
+Santa Claus
+Astronaut
+Server
+Police Officer (Female)
+Mummy
+Groom
+Bride
+Young Monk
+Candidate
+Skydiver
+Parachute
+Glider
+Komusubi (Sumo Wrestler)
+Ozeki (Sumo Wrestler)
+Yokozuna (Sumo Wrestler)
+Sumo Referee
+P.E. Teacher
+Teacher
+Veteran Teacher
+Relaxed Teacher
+Principal
+Geek Boy 
+School Captain
+Prefect Girl
+Female Student
+Sitting Guy
+Spoiled Brat
+Sitting Girl
+Girl
+Lazy Student
+Maintenance Man
+Zookeeper
+"Mother" Nature
+Race Official
+Green
+Yellow
+Purple
+Red
+Blue
+Orange
+Greenish Yellow
+Fairy
+Green Boarder
+Red Boarder
+Yellow Boarder
+Red Skier
+Purple Skier
+Green Skier 
+Camper Boy
+Boy Scout
+Running Boy
+Rabbit
+Giant Tortoise
+Turtle
+Mole
+Squirrel
+Horse
+White Horse
+Pig
+Wind-up Pig
+Tiger
+Rhinoceros
+Hippopotamus
+Camel
+Anteater
+Deer
+Okapi
+Gorilla
+Monkey
+Sloth
+Panda
+Red Panda
+Koala
+Kangaroo
+Ostrich
+Cobra
+Frill-necked Lizard
+Flamingo
+Flamingo
+Crane
+Crane
+Parrot
+Parrot
+Shark
+Dolphin
+Fish Bones
+Eel
+Sea Horse
+Piranha
+Catfish
+Goldfish
+Angelfish
+Killifish
+Crayfish
+Tadpole
+Advanced Tadpole
+Duck
+Squid
+Nautilus
+Coelacanth
+Tyrannosaurus Rex
+Stegosaurus 
+Brontosaurus
+Pteranodon
+Cowbear
+Android
+Kappa
+Ninja
+Water Ninja
+Rubber Man Boss
+Rubber Man
+Rubber Girl
+Hula Hoop Girl
+Ballerina
+Long-legged Man
+Long-armed Man
+Long-faced Man
+Box Man
+Swimwear Boy
+Backstroke Boy
+Lumberjack
+God
+Kite Boy
+Bug Collector
+Skipping Girl
+Big Gorilla
+Cafeteria Helper
+Janitor
+Homunculus
+Race Queen
+Brothers
+Racer
+Trolley
+Hansel
+Gretel
+Bigfoot
+Snow Child
+Rolling Skier
+Ski Jumper
+Skier
+Princess
+Sleeping Bag
+Boxer
+Flying Arabian Guy
+Ghost
+Trainee
+Hard-working Trainee
+Construction Worker
+Filming Reporter
+Sweet Couple
+Sweet Couple
+American Couple
+Elephant Costume
+Fish Costume
+Pig Costume
+Cumulonimbus
+Jumbo Papa
+Ms. Asaka
+Ms. Kabata
+Mr. Tanaka
+Mr. Kosei
+Mr. Niinuma
+Mr. Matsuzaki
+Ms. Matsubara
+Mr. Sakamoto
+Ms. Mizumoto
+Canoeist
+Red Racer
+You Have Already Won!
+Station Worker
+Duckling
+Clownfish
+Yellow Clownfish
+Green Clownfish
+Hermit Crab
+Mammoth
+Husky
+Doberman 
+Relaxing Santa
+Witch
+Assistant Principal
+Crouching Student
+Tomio Hoshino
+Crème Caramel
+Japanese Bear
+Zebra
+Lion
+Peacock
+Yellow Skier
+Red Skier
+Green Skier
+Dragon
+Phoenix
+Horse Costume
+Centaur
+Push Cart
+Hula Dancer
+Sphinx
+Chef
+Naughty Boy
+Tennis Player
+Gas Station Worker
+Priestess
+Swimsuit Guy
+Swimsuit Girl
+Swimming Guy
+Swimming Girl
+God of Rain
+God of Wind
+Wings
+Bird Costume
+Super Human Wheel
+Snowmobile Rider
+Tommy Hoshino
+Pegasus
+Tommy Hoshino
+Cat's Tail
+Wafer-thin King
+Ice Skater Boy
+Ice Skater Grandpa
+Ice Skater
+Caveman
+Sleeping Student
+Neck Monster
+P.E. Boy
+P.E. Boy
+P.E. Girl
+P.E. Girl
+Indian Elephant
+Tall Student
+Bright Student
+Gang Leader
+Short Student
+Summer Dude
+Female Student
+Sitting Boy
+Sitting Girl
+Sitting Student
+Sitting Student
+Animal Keeper
+Relaxing Animal Keeper
+Angel
+Flying King
+Royal Rainbow
+Sunfish
+Basketball Player
+Big Man
+Grandma
+Speed Skater
+Poisonous Frog
+Tsutomu
+Purple Racer
+Blue Racer
+Prince's House
+Queen In Balloon
+Castle
+Boy
+Girl
+Hole
+Big Crème Caramel
+Katamari
+Boar
+
+
+
+
+
+
+
+
+
+Rainbow Girl
+Lazybones
+Grandpa
+Grandma
+Bird & Elephant
+Dog
+Soccer Kid
+Ikebana Teacher
+Substitute Teacher
+F1 Racer
+Rain Coat Girl
+Dr. Katamari 
+Crane Hat Boy
+Just-right Girl
+Cowbear Farmer
+Excited Baby
+Cleanly Mom
+Fund-raiser
+Hansel & Gretel
+Float Boy
+Camper Man
+Mini-Sumo
+Snow Child
+Book Worm
+Rose
+Battle Uncles
+Tomio Hoshino
+Mutsuo Hoshino
+Earth
+Michiru Hoshino
+Cube
+Crystal
+Pyramid
+Ninja Spike
+Ball
+Ring
+Sun
+Planet
+Uranus
+Uranus Satellite
+Neptune
+Neptune Satellite
+Pluto
+Pluto Satellite
+Jupiter
+Jupiter Satellite
+Big Bang
+Small Bang
+Flower Galaxy
+Flower Satellite
+School Planet
+School Satellite
+Car Planet
+Car Satellite
+Thunder Galaxy
+
+Animal Planet
+Animal Satellite
+Crane Planet
+Saturn Satellite
+Saturn Satellite
+Saturn
+Cowbear Galaxy
+Planet
+Cleaning Planet
+Venus
+Candy Planet
+Candy Satellite
+Mercury
+Mercury Satellite
+Mars Satellite
+Mars Satellite
+Mars
+Sumo Satellite
+Sumo Satellite
+Yokozuna Satellite
+Snowman Planet
+Sirius
+New Earth
+Cousin Planet
+Second Cousin Planet
+Rose Galaxy
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Planet Prince
+Space Mushroom
+L'ace
+Ichigo-can
+Misonson
+Honuey
+Foopeo
+Odeisy
+Jukao
+Odevana
+Lalanja
+The Moon
+Slik
+Macholucha
+Velpesso
+Signickel
+Dipcy
+Shygle
+Fujarny
+Minkle
+Beyotsuo
+Kurock
+Kinokko
+Drooooby
+Stardust
+Shining Stars
+Bright Shining Stars
+Black Hole
+White Hole
+Vega
+Altair
+Big Dipper
+Cassiopeia
+Orion
+UFO
+Space Station
+Meteor
+Mushroom Meteor
+Spiky Meteor
+Big Sphere
+Big Square
+Big Triangle
+Big Ball
+Big Ring
+The Sun
+The Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gigantic Dango
+Gigantic Pineapple
+Gigantic Pumpkin
+Gigantic Fried Shrimp
+Gigantic Rice Bowl
+Gigantic Ramen
+Jumbo Sundae
+Gigantic Pizza
+Gigantic Rice Ball
+Gigantic Sweet Bean Pastry
+Gigantic Pork Bowl
+Jumbo Beef Patty
+Turnip
+Chocolate Cookie
+Star Cookie
+Chocolate
+Chocolate Pie
+Tart
+Marble Cake
+Chocolate Donut
+Strawberry Donut
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Royal Present
+Mini Cone
+Over 20cm
+Small Cone
+Over 50cm
+Big Cone
+Over 3m
+Surprise Cone
+Over 12m
+American Cone
+Over 60m
+Triangle Cone
+Over 1.5m
+Petit Cone
+Over 10cm
+Jumbo Cone
+Over 5m
+Oasis
+Pyramid
+Big Pyramid
+Nazca Line
+Nazca Line
+Nazca Line
+Mystery Key
+Mystery UFO
+Mystery Sun
+UFO
+Machu Picchu
+Believe Town
+C'mon Town
+Hello Town
+
+
+Grove
+Woods
+Mystery Sun Island
+Mystery UFO Island
+Mystery Key Island
+Machu Picchu Site
+Marguerite
+Dandelions
+Pansy (Yellow)
+Pansy (White)
+Pansy (Red)
+Pansy (Blue)
+Kale (Purple)
+Kale
+Mini Tree
+Bush
+Venus Fly Trap
+Pitcher Plant
+Huge Hibiscus
+Azalea (Pink)
+Azalea (Purple)
+Iris (Blue)
+Iris (Red)
+Narcissus
+Hydrangea (Red)
+Hydrangea
+Hibiscus
+Hibiscus (Yellow)
+Lily Bell
+Big Lily Bell
+Peony (Red)
+Peony (Pink)
+Peony Bud (White)
+Peony Bud (White)
+Lotus Bud
+Surprise Flower
+Cactus Flower
+America
+Oceania
+Eurasia
+Africa
+Countries
+Cherry Blossom Tree
+Violet Tree
+Peach Tree
+Heartful Tree
+Purple Tree
+Wide Tree
+Butterfly Tree
+Leafy Arch
+Chrysanthemum Party
+Chrysanthemums
+Cosmea
+Purple Tree
+Pink Tree
+Heartful Tree
+Sea Breeze Town
+Eel City
+Scallop City
+Plankton City
+Fish City
+Splash City
+Penguin City
+Jungle
+Coniferous Forest
+Winter Coniferous Forest
+Red Leaf Forest
+Yellow Leaf Forest
+Cherry Forest
+Space Center
+Astro Jet
+Burial Mound 
+Monas
+Active Volcano
+Secret Hideout
+Cathedral
+Celery Island
+Azalea Island
+Tsukushi Island
+Tsukushi Island
+Radish Island
+Lily Bell Island
+Parsley Island
+Spinach Island
+Pea Island
+Willow Island
+Fungus Island
+Cotton Island
+Larch Tree Island
+Pinky Island
+Chrysanthemum Island
+Bean Sprout Island
+National Road Site
+Sand Dune
+Desert
+Huge Desert
+Mega Dunes
+Desert
+Bud Island
+Dandelion Island
+Cypress Island
+Cosmea Island
+Stinky Island
+Thorn Island
+Poplar Island
+Southern Mt.
+Mt. Akane
+Mt. Wasabi 
+Bristlegrass Island
+Robinson Island
+Pohole Island
+Anemone Island
+Sunflower Island
+Mustard Island
+Water Lily Island
+Anil Island
+Pavillon Island
+Tansy Island
+Iris Island
+Psyllium Island
+Camellia Island
+Sprout Island
+Plum Island
+Peony Island
+Hyacinth Island
+Eucalyptus Island
+Amaryllis Island
+Canna Island
+Pansy Island
+Crater
+Ice Floe
+Iceberg
+Palm Tree Coast
+Tulip Coast
+Ivy Island
+Cherry Island
+Surprise Peony
+Large Whirlpool
+Future City
+Cyber City
+Techno City
+Future Tower
+Future Highway
+Secret Hideout
+Giant Whirlpool
+Giant Tornado
+Grove
+Large Volcano
+Super Robot
+Jumbo Cloud
+Whale City
+Seagull Town
+Surf Beach
+Bulbul Dock
+Piece of England
+The Alps
+European City
+Fjord
+Piece of Europe
+Piece of India
+
+
+
+Piece of West Asia
+Piece East Asia
+Ayers Rock
+Ayers Rock Hole
+Liberty Island
+Piece of New York
+Mt. Rushmore
+The Wild West
+Niagara Falls
+The Grand Canyon
+The Rockies
+US West Coast
+Island Runway
+Mt. Fuji
+
+
+
+Window
+Window
+NOT USED
+NOT USED
+Giant Santa Boot
+Giant Santa House
+Giant Santa
+NOT USED
+
+Snowman (Mini-circle)
+Snowman (Mini-triangle)
+Snowman (Mini-projection)
+Short 'n Green
+
+
+
+Mini-Truck
+
+Toaster
+Capsule Toy Machine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green Island
+Soybean Island
+Plum Island
+Fir Island
+Cheesy Island
+Giant Ice Floe
+Turtle Beach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tree
+Huge Tree
+Tree
+Decorative Tree
+Tent
+Fire Outbreak
+
+
+
+
+
+
+
+
+London Bus
+Container Truck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Havana
+Honey
+Marny
+Foomin
+Ichigo
+Dipp
+Miso
+Twinkle
+Slip
+Fujio
+June
+Drooby
+The Prince
+Lalala
+Nik
+Ace
+Johnson
+Velvet
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honey
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Jungle
+Miso
+Twinkle
+Huey
+Nutsuo
+Beyond
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Slip
+Drooby
+Signolo
+The Prince
+Lalala
+Nik
+Ace
+Johnson
+Velvet
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honey
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Jungle
+Miso
+Twinkle
+Huey
+Nutsuo
+Beyond
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Slip
+Drooby
+Signolo
+The Prince
+Lalala
+Nik
+Ace
+Johnson
+Velvet
+Fujio
+Havana
+Peso
+Shikao
+Odeko
+Honey
+Marny
+Kuro
+Foomin
+June
+Ichigo
+Marcy
+Njamo
+Dipp
+Opeo
+Nickel
+Jungle
+Miso
+Twinkle
+Huey
+Nutsuo
+Beyond
+Kinoko
+Macho
+L'Amour
+Daisy
+Lucha
+Miki
+Odeon
+Can-Can
+Shy
+Slip
+Drooby
+Signolo

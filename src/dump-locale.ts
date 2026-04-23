@@ -4,7 +4,7 @@ import { Asset, BundleFile } from "./asset-bundle.ts";
 import { MonoBehaviour } from "./unity-asset/mono-behaviour.ts";
 import { BinaryReader, Decodable } from "./decode.ts";
 import * as fs from "@std/fs";
-import { LocalizationDigest } from "./game-data/locale.ts";
+import { Language, LocalizationDigest } from "./game-data/locale.ts";
 
 const steamDir = [
   "C:/Program Files (x86)/Steam",
@@ -51,31 +51,34 @@ class LocalizeText extends Decodable {
   simplified = this.r.paddedString();
 }
 
-const comment = asset.objectInfos
-  .filter((oi) => oi.classID === MonoBehaviour.typeID)
-  .map((oi) => new MonoBehaviour(oi.getReader(asset.buf), oi))
-  .find((mb) => mb.name === "comment");
-
-if (!comment) {
-  throw new Error("oh no");
+const behaviours = new Map<string, MonoBehaviour>();
+for (const oi of asset.objectInfos) {
+  if (oi.classID !== MonoBehaviour.typeID) {
+    continue;
+  }
+  const mb = new MonoBehaviour(oi.getReader(asset.buf), oi);
+  behaviours.set(mb.name, mb);
 }
 
-const payload = new BinaryReader(comment.payload);
-const datas = payload.array(payload.u32(), (r) => new TextCommon(r));
+const categories = ["system", "comment", "name", "present"];
 
-const digest: LocalizationDigest = {};
-for (const tc of datas) {
-  digest[tc.id] = {
-    ja: tc.texts.english,
-    en: tc.texts.english,
-    fr: tc.texts.french,
-    de: tc.texts.german,
-    it: tc.texts.italian,
-    es: tc.texts.spanish,
-    ko: tc.texts.korean,
-    zht: tc.texts.traditional,
-    zhs: tc.texts.simplified,
-  };
+for (const category of categories) {
+  Deno.mkdirSync(`src/game-data/locale/${category}/`, { recursive: true });
+
+  const groups: Partial<Record<Language, string[]>> = {};
+  const obj = behaviours.get(category)!;
+  const payload = new BinaryReader(obj.payload);
+  const datas = payload.array(payload.u32(), (r) => new TextCommon(r));
+
+  for (const tc of datas) {
+    for (const [language, text] of Object.entries(tc.texts)) {
+      groups[language as Language] ??= [];
+      groups[language as Language]!.push(text);
+    }
+  }
+
+  for (const [language, list] of Object.entries(groups)) {
+    const path = `src/game-data/locale/${category}/${language}.txt`;
+    Deno.writeTextFileSync(path, list.join("\n"));
+  }
 }
-
-console.log(JSON.stringify(digest));
