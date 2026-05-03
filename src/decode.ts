@@ -165,10 +165,18 @@ export abstract class Decodable {
     return readers.get(this)!;
   }
 
-  constructor(data: ArrayBuffer | BinaryReader) {
+  constructor(
+    data: ArrayBuffer | BinaryReader,
+    littleEndian: boolean | null = null,
+  ) {
     if (!(data instanceof BinaryReader)) {
       data = new BinaryReader(data);
     }
+
+    if (littleEndian !== null) {
+      data.littleEndian = littleEndian;
+    }
+
     readers.set(this, data);
   }
 }

@@ -70,8 +70,7 @@ export class BundleFile {
     }
 
     const infoBlockReader = new BinaryReader(infoBlockData.buffer);
-    infoBlockReader.littleEndian = false;
-    this.infoBlock = new BundleInfoBlock(infoBlockReader);
+    this.infoBlock = new BundleInfoBlock(infoBlockReader, r.littleEndian);
   }
 
   getFile(index: number): Uint8Array<ArrayBuffer> {
@@ -127,7 +126,7 @@ export class Asset {
   objectInfos: ObjectInfo[] = [];
 
   constructor(readonly buf: ArrayBuffer) {
-    const r = new BinaryReader(buf);
+    const r = new BinaryReader(buf, false);
 
     const h = this.header = new AssetHeader(r);
 
@@ -323,6 +322,6 @@ export class ObjectInfo {
     const end = start + this.bytesSize;
     const chunk = buf.slice(start, end) as T;
     console.assert(chunk.constructor === buf.constructor);
-    return new BinaryReader(chunk);
+    return new BinaryReader(chunk, false);
   }
 }

@@ -8,6 +8,10 @@ const u32 = (r: BinaryReader) => r.u32();
 const bool = (r: BinaryReader) => r.bool();
 
 export default class SaveFile extends Decodable {
+  constructor(data: ArrayBuffer | BinaryReader) {
+    super(data, false);
+  }
+
   version = this.r.array(4, u8);
   users = this.r.triple((r) => new SaveInfo(r));
   photo_info = new SavePhotoInfo(this.r);
