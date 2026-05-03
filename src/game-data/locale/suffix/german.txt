@@ -1,0 +1,17 @@
+
+Stern
+Satellit
+Nebel
+Urknall
+Sirius
+Merkur
+Venus
+Mars
+Jupiter
+Saturn
+Uranus
+Neptun
+Pluto
+Planet
+Kleiner Urknall
+Meteor

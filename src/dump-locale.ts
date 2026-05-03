@@ -66,6 +66,7 @@ const categories = [
   "present",
   "select",
   "general",
+  "suffix",
 ];
 
 for (const category of categories) {
