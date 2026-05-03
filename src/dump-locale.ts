@@ -59,7 +59,14 @@ for (const oi of asset.objectInfos) {
   behaviours.set(mb.name, mb);
 }
 
-const categories = ["system", "comment", "name", "present", "select"];
+const categories = [
+  "system",
+  "comment",
+  "name",
+  "present",
+  "select",
+  "general",
+];
 
 for (const category of categories) {
   Deno.mkdirSync(`src/game-data/locale/${category}/`, { recursive: true });
