@@ -26,7 +26,7 @@ Telefonbuch
 Mausefalle
 Neujahrskarten
 Türmatte
-Porenbetonblock 
+Porenbetonblock
 Holzbank
 Barbierpfosten
 Bambusbesen
@@ -145,7 +145,7 @@ Reisballen
 Warnschild
 Sedan
 Schrägheck
-Transporter 
+Transporter
 Kompaktwagen
 Kleinlaster
 Kleinbus
@@ -268,11 +268,11 @@ Kinomarkise
 Wachtelfluss-Schild
 Schwert
 Bushaltestelle
-AAA-Batterie 
+AAA-Batterie
 Kakerlakenfalle
 Campingzelt
 Fallender Stein
-Feuerwerk 
+Feuerwerk
 Kieferndekoration
 Baum
 Großer Baum
@@ -326,7 +326,7 @@ Surfbrett
 Sitzkissen
 Tonofen
 Dreirad
-Kinderdreirad 
+Kinderdreirad
 Papiereinkaufstüte
 Kerosinofen
 Monument
@@ -356,8 +356,8 @@ Laterne
 Taiko-Trommel
 Toilettenhäuschen
 Roller
-Feuerwerk 
-Feuerwerkbatterie 
+Feuerwerk
+Feuerwerkbatterie
 Hotelschild
 Souvenirteller
 Jumboman-Figur
@@ -494,7 +494,7 @@ Schwarzes Schaf
 Giraffe
 Krokodil
 Affenfahrzeug
-Mann 
+Mann
 Krähe
 Spatz
 Dummy-Hit 02
@@ -624,7 +624,7 @@ Sardinen-Gebäude
 Lachs-Gebäude
 Brassen-Gebäude
 Korallengebäude
-Frachtschiff 
+Frachtschiff
 Baseballschläger
 Landebahn
 Roter Regenschirm
@@ -711,7 +711,7 @@ Sonnenblume
 Riesiges Windrad
 Stadion
 Bowlingbahn
-Riesiger Bowling-Pin 
+Riesiger Bowling-Pin
 Startrampe
 Kran (S)
 Warnung
@@ -1079,7 +1079,7 @@ Geist der Trauer
 Geist des Spaßes
 Tankstelle
 Zapfsäule
-Auto-Waschanlage 
+Auto-Waschanlage
 Tankstellenschild
 Spielstand
 Base
@@ -1136,7 +1136,7 @@ Silo
 Roter Klotz
 Gelber Klotz
 Grüner Klotz
-Balancierbalken 
+Balancierbalken
 Kinoschild
 Kinoschild
 Schuhschachtel
@@ -1164,7 +1164,7 @@ Insektenspray
 Ketchup
 Streichholz
 Brot in Scheiben
-Schuhständer 
+Schuhständer
 Pinker Heißluftballon
 Hafendammblock
 Sich öffnende Pappschachtel
@@ -1193,7 +1193,7 @@ Kokeshi-Puppe
 Große Kokeshi
 Waschmaschine
 Stereolautsprecher
-Werbung 
+Werbung
 Wäschefläche
 Wäschestange
 Wäschehänger
@@ -1302,7 +1302,7 @@ Spinne
 Windspiel
 Haken
 Feuerlöscher
-Glückskatze 
+Glückskatze
 Fahrrad
 Apfelsaft
 Sprudel-Cider
@@ -1347,7 +1347,7 @@ Stereoanlagen-Regal
 Rennstreckenbogen
 Spätkaufschild
 Möwe & Kelp
-Getrockneter Kelp 
+Getrockneter Kelp
 Schultor
 Lagerfeuer
 Großes Lagerfeuer
@@ -1971,7 +1971,7 @@ Kleine Trommel
 Becken
 Trompete
 Mundharmonika
-Gong 
+Gong
 Hängende Glocke
 Honigtube
 Reiskräcker
@@ -2012,7 +2012,7 @@ Bambus
 Tischtennisschläger
 Tennisschläger
 Tennisball
-Krummsäbel 
+Krummsäbel
 Skizzenbuch
 Kaktus
 Zimmerpflanze
@@ -2089,7 +2089,7 @@ Rotes Zelt
 Blaues Zelt
 Gelbes Zelt
 Grünes Zelt
-Hängematte 
+Hängematte
 Flacher Pilz
 Gartenwaschbecken
 Feenpilz
@@ -2268,7 +2268,7 @@ Schokoladenstäbchen
 Bitterschokolade
 Gummibonbon
 Blaues Bonbon
-Schlagsahne 
+Schlagsahne
 Kleiner Keksbaum
 Keksbaum
 Großer Keksbaum
@@ -2347,7 +2347,7 @@ Spätkaufschild
 Riesenrad
 Gondel
 Menübanner
-Observatorium 
+Observatorium
 Observatoriumsobjekt
 Kino
 Sci-Fi-Filmwerbung
@@ -2359,7 +2359,7 @@ Flunderturm
 Zahnkarpfenturm
 Gelbschwanzturm
 Seriolaturm
-Im Bau 
+Im Bau
 Feuerausbruch
 Kaffeewerbung
 Lebensversicherungswerbung
@@ -2385,7 +2385,7 @@ Schiefer Turm von Pisa
 Pierres Residenz
 Williams Residenz
 Josephs Residenz
-Europäischer Bauernhof 
+Europäischer Bauernhof
 
 Charles' Residenz
 Rudolphs Residenz
@@ -2402,7 +2402,7 @@ Boulevard-Baum
 Dunkler Nadelbaum
 Nadelbaum
 Kanalbrücke
-Europäischer Bahnhof 
+Europäischer Bahnhof
 Schokoladenfabrik
 Weingut
 Autofabrik
@@ -2548,7 +2548,7 @@ Lehrerin
 Lehrerveteran
 Entspannter Lehrer
 Rektor
-Streber 
+Streber
 Schülersprecher
 Vertrauensschülerin
 Schülerin
@@ -2574,7 +2574,7 @@ Roter Snowboarder
 Gelber Snowboarder
 Roter Skifahrer
 Lila Skifahrer
-Grüner Skifahrer 
+Grüner Skifahrer
 Camperjunge
 Pfadfinder
 Laufender Junge
@@ -2628,7 +2628,7 @@ Tintenfisch
 Perlboot
 Quastenflosser
 Tyrannosaurus Rex
-Stegosaurus 
+Stegosaurus
 Brontosaurus
 Pteranodon
 Kuhbär
@@ -2704,7 +2704,7 @@ Grüner Clownfisch
 Einsiedlerkrebs
 Mammut
 Husky
-Dobermann 
+Dobermann
 Sich entspannender Nikolaus
 Hexe
 Stellvertretender Rektor
@@ -2809,7 +2809,7 @@ Ikebana-Lehrerin
 Aushilfslehrerin
 F1-Fahrer
 Regenmantelmädchen
-Dr. Katamari 
+Dr. Katamari
 Kranichhutjunge
 Genau richtiges Mädchen
 Kuhbär-Bauer
@@ -3102,7 +3102,7 @@ Gelblaubwald
 Kirschbaumwald
 Weltraumzentrum
 Astro-Jet
-Grabhügel 
+Grabhügel
 Monas
 Aktiver Vulkan
 Geheimversteck
@@ -3138,7 +3138,7 @@ Dorneninsel
 Pappelinsel
 Südberg
 Akane-Berg
-Wasabiberg 
+Wasabiberg
 Borstenhirseninsel
 Robinson-Insel
 Pohole-Insel

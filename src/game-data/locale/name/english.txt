@@ -26,7 +26,7 @@ Telephone Book
 Mousetrap
 New Year's Cards
 Welcome Mat
-Cinder Block 
+Cinder Block
 Wooden Bench
 Barber's Pole
 Bamboo Broom
@@ -145,7 +145,7 @@ Bale of Rice
 Warning Sign
 Sedan
 Hatchback
-Van 
+Van
 Compact
 Mini-Truck
 Minivan
@@ -268,11 +268,11 @@ Cinema Marquee
 Quail River Sign
 Sword
 Bus Stop
-AAA Battery 
+AAA Battery
 Roach Motel
 Camping Tent
 Falling Rock
-Fireworks 
+Fireworks
 Pine Decoration
 Tree
 Big Tree
@@ -326,7 +326,7 @@ Surfboard
 Seat Cushion
 Clay Stove
 Tricycle
-Kid's Tricycle 
+Kid's Tricycle
 Store Paper Bag
 Kerosene Stove
 Monument
@@ -356,8 +356,8 @@ Lantern
 Taiko Drum
 Port-A-Potty
 Scooter
-Fireworks 
-Boxed Fireworks 
+Fireworks
+Boxed Fireworks
 Hotel Sign
 Novelty Plate
 Jumboman Figure
@@ -494,7 +494,7 @@ Black Sheep
 Giraffe
 Crocodile
 Monkey Ride
-Man 
+Man
 Crow
 Sparrow
 Dummy Hit 02
@@ -624,7 +624,7 @@ Pilchard Building
 Salmon Building
 Bream Building
 Coral Building
-Cargo Ship 
+Cargo Ship
 Baseball Bat
 Runway
 Red Umbrella
@@ -711,7 +711,7 @@ Sunflower
 Giant Windmill
 Stadium
 Bowling Alley
-Huge Bowling Pin 
+Huge Bowling Pin
 Launch Pad
 Crane (S)
 Caution
@@ -1040,7 +1040,7 @@ Thunder God
 Pogo Boy
 Soccer Player
 Relaxing Dude
-Abalone Diver 
+Abalone Diver
 Old Salt
 Kindergarten Hat
 Clay
@@ -1079,7 +1079,7 @@ Spirit of Sorrow
 Spirit of Fun
 Gas Station
 Gas Pump
-Car Wash 
+Car Wash
 Gas Station Sign
 Scoreboard
 Base
@@ -1136,7 +1136,7 @@ Silo
 Red Block
 Yellow Block
 Green Block
-Balance Beam 
+Balance Beam
 Movie Theater Sign
 Movie Theater Sign
 Shoe Box
@@ -1164,7 +1164,7 @@ Bug Spray
 Ketchup
 Match
 Sliced Bread
-Shoe Display Stand 
+Shoe Display Stand
 Pink Hot Air Balloon
 Breakwater Block
 Opening Cardboard Box
@@ -1193,7 +1193,7 @@ Kokeshi Doll
 Big Kokeshi
 Washing Machine
 Stereo Speaker
-Advertisement 
+Advertisement
 Laundry Deck
 Laundry Pole
 Laundry Hanger
@@ -1302,7 +1302,7 @@ Spider
 Wind Chime
 Hook
 Fire Extinguisher
-Lucky Cat 
+Lucky Cat
 Bicycle
 Apple Juice
 Fizzy Cider
@@ -1347,7 +1347,7 @@ Stereo Shelf
 Circuit Arch
 Convenience Store Sign
 Gull 'n Kelp
-Dried Kelp 
+Dried Kelp
 School Gate
 Camp Fire
 Big Camp Fire
@@ -1971,7 +1971,7 @@ Small Drum
 Cymbal
 Trumpet
 Harmonica
-Gong 
+Gong
 Hanging Bell
 Honey
 Rice Cracker
@@ -2012,7 +2012,7 @@ Bamboo
 Ping Pong Paddle
 Tennis Racket
 Tennis Ball
-Scimitar 
+Scimitar
 Sketch Book
 Cactus
 House Plant
@@ -2089,7 +2089,7 @@ Red Tent
 Blue Tent
 Yellow Tent
 Green Tent
-Hammock 
+Hammock
 Flat Mushroom
 Outdoor Sink
 Fairy Mushroom
@@ -2268,7 +2268,7 @@ Chocolate Stick
 Bitter Chocolate
 Gummy
 Blue Hard Candy
-Whipped Cream 
+Whipped Cream
 Small Cookie Tree
 Cookie Tree
 Big Cookie Tree
@@ -2347,7 +2347,7 @@ Convenience Store Sign
 Ferris Wheel
 Gondola
 Menu Banner
-Observatory 
+Observatory
 Observatory Object
 Movie Theater
 SF Movie Ad
@@ -2359,7 +2359,7 @@ Flounder Tower
 Killifish Tower
 Yellowtail Tower
 Amberjack Tower
-Under Construction 
+Under Construction
 Fire Outbreak
 Coffee Ad
 Life Insurance Ad
@@ -2385,7 +2385,7 @@ Leaning Tower of Pisa
 Pierre's Residence
 William's Residence
 Joseph's Residence
-European Farm 
+European Farm
 
 Charles' Residence
 Rudolph's Residence
@@ -2548,7 +2548,7 @@ Teacher
 Veteran Teacher
 Relaxed Teacher
 Principal
-Geek Boy 
+Geek Boy
 School Captain
 Prefect Girl
 Female Student
@@ -2574,7 +2574,7 @@ Red Boarder
 Yellow Boarder
 Red Skier
 Purple Skier
-Green Skier 
+Green Skier
 Camper Boy
 Boy Scout
 Running Boy
@@ -2628,7 +2628,7 @@ Squid
 Nautilus
 Coelacanth
 Tyrannosaurus Rex
-Stegosaurus 
+Stegosaurus
 Brontosaurus
 Pteranodon
 Cowbear
@@ -2704,7 +2704,7 @@ Green Clownfish
 Hermit Crab
 Mammoth
 Husky
-Doberman 
+Doberman
 Relaxing Santa
 Witch
 Assistant Principal
@@ -2809,7 +2809,7 @@ Ikebana Teacher
 Substitute Teacher
 F1 Racer
 Rain Coat Girl
-Dr. Katamari 
+Dr. Katamari
 Crane Hat Boy
 Just-right Girl
 Cowbear Farmer
@@ -3102,7 +3102,7 @@ Yellow Leaf Forest
 Cherry Forest
 Space Center
 Astro Jet
-Burial Mound 
+Burial Mound
 Monas
 Active Volcano
 Secret Hideout
@@ -3138,7 +3138,7 @@ Thorn Island
 Poplar Island
 Southern Mt.
 Mt. Akane
-Mt. Wasabi 
+Mt. Wasabi
 Bristlegrass Island
 Robinson Island
 Pohole Island

@@ -35,7 +35,7 @@ A box with assorted notices inside. Some people like to peek inside it several t
 A machine that removes wrinkles from flat things. It blows out steam, but that doesn't mean it's angry.
 A box that spits out balls when you spin it. A bell rings out and embarrasses you if you win first prize.
 Often reincarnated as a book or a roll of toilet paper.
-A bag filled with unwanted stuff. 
+A bag filled with unwanted stuff.
 A bowl for your dog. Food in it may look yummy, but don't be fooled. It's meant for doggy taste buds.
 A pot for flowers. Hence the name.
 It looks like a turtle egg, but actually, it's used for some kind of sport.
@@ -155,7 +155,7 @@ A very slow car. Best for leisurely people.
 It's not a boat, but it is a house. Don't be fooled.
 A solid plate with lots of depressions, used to make takoyaki. Popular with people from Osaka.
 A hollow container used to store drink. Not very conveniently shaped.
-A small shed filled with Junk. Sometimes children like to play in here. 
+A small shed filled with Junk. Sometimes children like to play in here.
 Come in here, and you get to ride in a boat. However, they won't lend you a rower.
 Very alluring, yes, but touching it results only in burnt fingers.
 A popular ingredient for Oden. A daikon radish soaked in soup is very soft.
@@ -167,7 +167,7 @@ A tool for enticing fish in assorted treacherous ways. Look out, little guys!
 Emits some type of electrical wave. They say it's safe...
 Without this, people would be tripping in the gutters all the time.
 A solid iron panel that keeps people from falling into the gutter.
-You can see through all the holes in this cover. What's on the other side? 
+You can see through all the holes in this cover. What's on the other side?
 Useful for sea voyages. It's fun to ride, but not to row.
 Some kind of invisible gas is inside. It could even be empty for all We know.
 Pound rice in this to make mochi. Apparently it's all the rage in Japan.
@@ -348,7 +348,7 @@ A rather sturdy-looking case. Want to hop up on it and start singing? No problem
 Couples carrying this will probably be feeding each other grapes before too long.
 When it rings, the fight starts. Do you have the eye of the tiger?
 Normally used for fighting, but some people like to shout into microphones here instead.
-Courageous objects that are always getting knocked over by bowling balls, but always get back up again. 
+Courageous objects that are always getting knocked over by bowling balls, but always get back up again.
 A statue of the King of Beasts. Sometimes seen drooling water into fountains.
 Apparently worth two months' salary. Certainly seems sturdy enough.
 A guy made from rolled-up snow. He will usually disappear by the afternoon.
@@ -384,8 +384,7 @@ A large building filled with people doing something called "videogame localizati
 People are working hard inside. Sometimes sleeping, too.
 For lifting big things. Some smaller ones can pick up stuffed animals and toys.
 You can't see it, but it's there. Watching you.
-Wrap this around food to keep it fresh
-longer. Some people wrap it around
+Wrap this around food to keep it fresh longer. Some people wrap it around
 their bodies.
 It's filled with powder used to clean clothes. Smells kind of fresh.
 Recommended for frequent sneezers. You always run out when you least expect it.
@@ -460,7 +459,7 @@ A pitiful machine. It often gets punched out merely for doing its job.
 If you see someone wearing a ski mask or pantyhose on their head, it's probably best to come back later.
 A slightly old-fashioned telephone. Apparently the cord is for twirling around with your fingers.
 Put bread in here, and it pops out brown and hot. The poor thing can't take the heat.
-Sort of like a cell phone, but the range of people you can talk with is pretty limited. 
+Sort of like a cell phone, but the range of people you can talk with is pretty limited.
 A tool for frying food. It sometimes flares up while cooking, so try not to peek too close inside.
 Home to a great number of cows. That would explain the smell.
 A wall built to keep cows and horses from escaping. It's no match for humans, though.
@@ -482,7 +481,7 @@ It may look cute, but you wouldn't like it when it's angry.
 A very flat creature. Not as dangerous as, say, a Martian death ray.
 Left-handed? Right-handed? With this guy, it's obvious.
 An incredibly hard little creature. He needs more exercise.
-Shaking hands with this guy is just asking for trouble. It doesn't look anything like a coconut at all... 
+Shaking hands with this guy is just asking for trouble. It doesn't look anything like a coconut at all...
 It calls itself a crab, but it doesn't really look the part.
 Captivates people with its slender legs, but it's what's inside that counts.
 Why is it blue? Maybe it's sad it will end up in some cooking pot.
@@ -718,7 +717,7 @@ Has the important responsibility of supporting the rocket before launch. After l
 A powerful machine that can lift just about anything. Unfortunately it can't compete in the Olympics.
 This sign warns of dangerous falling objects. If they knew that, why don't they prevent them from falling in the first place?
 No compliments for following the arrow, but prepare to receive criticism going in the opposite direction.
-So big that people get lost inside all the time. The owners must be rich. 
+So big that people get lost inside all the time. The owners must be rich.
 A vehicle that always moves below the surface of the water. It must be very shy.
 Turns cold water into hot water. It's pretty hot, so don't go using it in place of a bath.
 Apparently this island sinks into the ocean a few inches every year.
@@ -839,15 +838,14 @@ Mother's Favorite. She always practices moderation.
 Father loves this bowl. He says his wife's cooking always tastes better served in this.
 The son's bowl. Good little boys clean their plate.
 A tasty hunk of meat.
-A fruit that gives its eater
-tremendous power.
+A fruit that gives its eater tremendous power.
 A big bundle of energy fruit. People usually don't eat these all at once.
 Colorful, thick liquid is inside. Pour it on your head, and you'll have trouble getting it off.
 A stick with bristly hair on one end. Use it to paint things or to tickle people.
 Made for hot drinks. There are sets made for hot couples.
 Tastes great, but the ingredients are a mystery.
 The two sticks control something. Regrettably, it doesn't work with anything you want.
-The daughter enjoys her decorated bowl. The lovely design doesn't make the food taste any better, however... 
+The daughter enjoys her decorated bowl. The lovely design doesn't make the food taste any better, however...
 They're selling cars, but they seem to be out of bumper cars.
 Great to sit under during a rainstorm, but useless when it's cold.
 A refined drink. Nobody ever talks about how it's made from leaves, because that doesn't sound very tasty.
@@ -1076,8 +1074,7 @@ A stick for drawing figures. You can also stick them in your ears to accessorize
 A tool that paints colors on paper. Some people use them to clean out assorted crevices.
 Use this to drink hot things without burning your hand. Very civilized.
 A machine with money inside. The drawer opens quickly, so watch out.
-Used to hold the left and right sides
-of clothes together.
+Used to hold the left and right sides of clothes together.
 Always spouting off at someone. She really needs to chill out.
 She's always looking down glumly. She's the sort of person who can't take a compliment.
 A positive-thinking person who's always happy, come rain or shine.
@@ -1109,7 +1106,7 @@ A sign stuck to a telephone pole. A bit too high for children to see.
 A support that keeps the pole upright. Those yellow and black stripes are so stylish!
 Some sort of secret code. We wish this was a little clearer.
 We really don't like being bossed around like this.
-Willing to sacrifice its own life to keep cars from leaving the road. 
+Willing to sacrifice its own life to keep cars from leaving the road.
 Strings with little spiky bits on them. Occasionally electrified. Ouch!
 
 Can be used as a sort of cut-rate plastic surgery. It's a little pathetic when viewed from the side or rear.
@@ -1202,7 +1199,7 @@ This supports the pole you hang wet clothes from.
 Where you hang laundry after you wash it. Just leave it there to dry.
 Used to dry underpants and things. These are hung indoors on rainy days.
 Apparently this tastes even better the next day. Maybe you should just make it the night before, then.
-A pot filled with creamy white liquid. It gives you a warm happy feeling. 
+A pot filled with creamy white liquid. It gives you a warm happy feeling.
 Generally a complete waste of time, with little redeeming social value. Great fun though.
 
 A board that takes center stage when you need to get rid of wrinkles. Has no problems with scalding-hot irons.
@@ -1477,7 +1474,7 @@ There are holes in it, so it's only good for carrying large objects.
 A solid, sturdy box, but it's too low to be used as a desk or chair.
 Pronounced "na," not "nuh."
 A letter that represents many different emotions depending on how you pronounce it.
-Short for "company." Or is that "corporation"? 
+Short for "company." Or is that "corporation"?
 He's apparently good at making stars, but We can't tell for sure because he's so small.
 A slightly sunburnt cousin who enjoys going out stark naked.
 A cousin who eats too much. Although he wasn't even dieting, he says he gained it all back.
@@ -1818,8 +1815,8 @@ A large TV that has just recently started to feel its age.
 A large device teachers use to measure angles. It's probably too big to use during tests.
 A huge triangle. Someone must really love geometry.
 A tool that can draw really big circles. It's still too small to draw the Earth, however.
-This can be filled with water. You can use it as a cup, but We wouldn't want to. 
-A small wooden toy hammer used to knock over stacks of blocks. We doubt it can be used to pound nails. 
+This can be filled with water. You can use it as a cup, but We wouldn't want to.
+A small wooden toy hammer used to knock over stacks of blocks. We doubt it can be used to pound nails.
 A small child's lunch. It's very colorful, and looks quite delicious.
 The whole family can eat this lunch together. Not bringing enough side dishes may lead to arguments.
 A food made by trapping other foods between pieces of bread.
@@ -1835,8 +1832,7 @@ A pastry with chocolate cream inside. Watch out! There might be plastic film sti
 A cute little strawberry-themed pastry. The mandarin oranges really make the strawberries stand out.
 A parfait packed with chocolate. Some people claim to have a separate stomach for desserts.
 A dessert made of soft cream that rolls off the tongue. We're surprised it can roll by itself.
-A piece of ice cream you snap
-in half before eating.
+A piece of ice cream you snap in half before eating.
 Two or three scoops are best if you want lots of flavor. Four or more are best if you just want lots of color.
 A rare fish filled to the brim with sweet bean paste. It ran away from the storekeeper after an argument.
 Tasty filling wrapped in a thin covering, then baked or steamed. They make your breath stink the next day.
@@ -1870,8 +1866,7 @@ A seed from an oak tree. Carry some with you, and squirrels will be your friend.
 A small plant that grows at the side of the road. Apparently finding one with four leaves is good luck.
 Put a lot of these together, and you can make a complete picture. We think they should have just made a whole picture.
 A flower seed adored by animals with cute front teeth. Some greedy ones fill their cheeks with them.
-A drink cap. Use your teeth
-to open it with flair.
+A drink cap. Use your teeth to open it with flair.
 You can squeeze coffee essence out of this bean. Do not stick it in your nose or ears.
 A strangely-shaped stick used to open doors. Even if you put it in a door, if it doesn't have the right shape, the door won't open.
 A small but important thing. Without this pushed in, the pedals won't budge an inch.
@@ -1972,8 +1967,7 @@ This flies gently through the sky. Poking it with a needle will lead to big trou
 This car mostly creates video that's used on TV. Apparently it sometimes sends signals to space, too.
 A car that can't stop telling people its name. It didn't even bother asking Our name.
 A flute used in music. You sometimes see spit come out from the bottom, which is kind of gross.
-The larger drum in the set. Move your
-feet and practice your rhythm.
+The larger drum in the set. Move your feet and practice your rhythm.
 The smaller drum in the set. It looks terribly lonely when it's all by itself.
 The cymbal in the drum set. It would probably go really far if you threw it.
 An instrument that makes sounds when you blow into it. You need to shape your lips just right to get a good sound.
@@ -2347,7 +2341,7 @@ This schoolhouse is too new to have any urban legends yet.
 A sacred place where you recite your carefully-penned lines while watching the setting sun.
 Cars fly out of here at the first word of fire. They probably won't come to put out your candles, though.
 This fence protects things day and night. It wishes someone would protect it for a change.
-A house with a bell. It's residents must be very patient to stand the noise. 
+A house with a bell. It's residents must be very patient to stand the noise.
 People come here to break a sweat. Or maybe they've come back from breaking a sweat.
 There aren't any seats by the door, so young people often sit on the ground eating and drinking instead.
 The sign for a very convenient store. It says it's 24, so it's still young.
@@ -2377,8 +2371,7 @@ You need to pay money here to run on the special, high-speed road.
 These signs advertise all sorts of neat places. It's enough to make you feel lost.
 A light built to guide people on dark roads. It's pretty big, so We doubt anyone will get lost now.
 Liars get their hands bit by this. It hasn't found any liars yet.
-The name sounds weak, but it's a tough
-one that can handle wind and rain.
+The name sounds weak, but it's a tough one that can handle wind and rain.
 This place likes to talk about how beautiful it once was. Don't worry, We completely understand how it feels.
 A Greek family memento. Look closely, and you can see where people may have measured their heights.
 A long time ago, some guy thought these looked like giants, but they're just plain old windmills.
@@ -2563,7 +2556,7 @@ A member of a pretty precocious group. She's sick of how childish all her male c
 He's wondering how old the piece of chewing gum he found under his desk is.
 The sort of person who thinks buying candy by the box is normal.
 She's a little proud that her posture receives so much praise.
-When she draws people, she has a habit of putting stars in their eyes. 
+When she draws people, she has a habit of putting stars in their eyes.
 This guy did his homework, he just forgot to bring it in, apparently.
 A gentle person who gets involved in the affairs of the animals. The affairs of the zookeeper, too.
 He'd like to live in the cage with the animals, but that's not going to happen.
@@ -2589,7 +2582,7 @@ He is going back home to pick up something important he forgot.
 An adorable animal with long ears. Its droppings look like raisins.
 A large turtle that can grow to over a meter long. Unfortunately, its legs are still slow.
 He beat the rabbit in a race. There's some real potential here.
-A cute little animal who lives in holes he digs in the ground. 
+A cute little animal who lives in holes he digs in the ground.
 An animal with a small body and a big tail. He's quick and agile, so you shouldn't play tag with him.
 An animal good at running around with people on its back. Rich company presidents buy them.
 This is no different from other horses, but the color makes him seem a cut above the rest.
@@ -2655,7 +2648,7 @@ Get him going at a party, and he'll always impress the crowd by drawing a face o
 This wandering man travels the world after getting caught up in someone's house move.
 He takes meticulous care of his body hair.
 There's a rumor going around that he can't put his face in the water.
-He plants a tree for every one he chops down, so everyone praises him a lot. 
+He plants a tree for every one he chops down, so everyone praises him a lot.
 A great existence. Apparently he has the answers to all the questions.
 He spends every day sending up kites, believing that someday, he'll be able to fly hanging off of one.
 He's apparently in a good mood because he caught a rare bug.
@@ -3111,13 +3104,11 @@ Even one of these trees is appreciated, but all of these in one place is just ea
 A base that examines the universe. It would be better if this were closer to space.
 Apparently, the last space flight ran into trouble when someone spilled his drink.
 This isn't a keyhole, so nothing opens up if you stick something in it.
-The flame on top is made of gold.
-Watch out, if you put it on a cake,
+The flame on top is made of gold. Watch out, if you put it on a cake,
 you can never blow it out.
 It's not spitting out stuff because it saw something funny.
 Dummy
-The temple has so many windows,
-despite the cold. It must be very
+The temple has so many windows, despite the cold. It must be very
 warm inside.
 A TV station used this place for one of their "life on a deserted island" reality programs.
 Apparently there's a cave here with lots of bats inside. We want to stay as far away as possible.
@@ -3242,8 +3233,7 @@ This could be used in place of a cotton swab or ear cleaner.
 
 
 
-Put in coins and spin the lever, and
-a capsule comes out.
+Put in coins and spin the lever, and a capsule comes out.
 
 
 

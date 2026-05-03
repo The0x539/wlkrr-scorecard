@@ -6,18 +6,14 @@ Demoversion
 Überprüfe Systemdaten.Bitte beende nicht das Spiel.
 Keine Spieldaten von „We Love Katamari REROLL+ Royal Reverie".
 Losrollen?
-Es wird geladen.
-Bitte beende nicht das Spiel.
-Überprüfe Spieldaten.
-Bitte beende nicht das Spiel.
+Es wird geladen. Bitte beende nicht das Spiel.
+Überprüfe Spieldaten. Bitte beende nicht das Spiel.
 Laden fehlgeschlagen.
 Laden abbrechen?
 Laden abgeschlossen.
-Diese Speicherdaten sind beschädigt.
-
+Diese Speicherdaten sind beschädigt. 
 Bitte lösche die Daten.
-Nicht genug freier Speicherplatz.
-
+Nicht genug freier Speicherplatz. 
 {data} MB oder mehr werden benötigt, um
 
 „We Love Katamari REROLL+ Royal Reverie"-
@@ -56,35 +52,26 @@ MUSIK
 EFFEKTE
 Standard
 Zu zweit spielen
-Alle Erinnerungen werden gezeigt.
-Bitte beende nicht das Spiel.
+Alle Erinnerungen werden gezeigt. Bitte beende nicht das Spiel.
 Wenn du neue Fotos im Album platzierst, kannst du sie zum ersten Mal speichern.
-Es gibt neue, noch nicht im Album platzierte Fotos.
-Wenn du neue Fotos im Album platzierst,
+Es gibt neue, noch nicht im Album platzierte Fotos. Wenn du neue Fotos im Album platzierst,
 kannst du sie zum ersten Mal speichern.
-Im Album platzierte Fotos werden gespeichert.
-
+Im Album platzierte Fotos werden gespeichert. 
 Ist das in Ordnung?
-Keine Fotoalbum-Daten.
-
+Keine Fotoalbum-Daten. 
 Ein neues Fotoalbum erstellen?
 Speichern abbrechen?
-Fotoalbum-Speicherdaten werden überschrieben.
-
+Fotoalbum-Speicherdaten werden überschrieben. 
 Ist das in Ordnung?
-Alle Erinnerungen werden gespeichert.
-Bitte beende nicht das Spiel.
+Alle Erinnerungen werden gespeichert. Bitte beende nicht das Spiel.
 Speichern abgeschlossen.
-Fotoalbum-Speicherdaten sind beschädigt.
-
+Fotoalbum-Speicherdaten sind beschädigt. 
 Bitte lösche die Daten.
-Diese Ziege liebt Fotos.
-Wenn sie sie einmal frisst,
+Diese Ziege liebt Fotos. Wenn sie sie einmal frisst,
 siehst du sie nie wieder.
 Der Ziege das Foto geben?
 Fotoalbum-Daten
-Das Fotoalbum wird über drei geteilte Dateien gespeichert, [na], [m] und [co].
-Du kannst die Fotoalben anderer Leute ansehen, also wirst du viel Spaß haben,
+Das Fotoalbum wird über drei geteilte Dateien gespeichert, [na], [m] und [co]. Du kannst die Fotoalben anderer Leute ansehen, also wirst du viel Spaß haben,
 wenn du Fotos mit Familie und Freunden teilst.
 Aber mach anderen auf keinen Fall Ärger, indem du zum Beispiel die Fotos anderer löschst, ohne zu fragen.
 Neu
@@ -94,17 +81,14 @@ Schieß sie mit diesem Knopf.
 SPEICHERN
 LADEN
 Wo speichern?
-Neuer Speicherstand wird in {0} erstellt.
-
+Neuer Speicherstand wird in {0} erstellt. 
 Ist das in Ordnung?
 Speichern abbrechen?
-Es wird gespeichert.
-Bitte beende nicht das Spiel.
+Es wird gespeichert. Bitte beende nicht das Spiel.
 Speichern fehlgeschlagen.
 Speichern abgeschlossen.
 Spiel beenden?
-Datei {0} wird überschrieben.
-
+Datei {0} wird überschrieben. 
 Ist das in Ordnung?
 Startfilm
 Die Geschichte
@@ -170,8 +154,7 @@ Blick nach links
 Prinzensprint
 Schnellwechsel
 Umdrehen
-Nach oben halten
-Richtung Wand.
+Nach oben halten Richtung Wand.
 Drüberklettern
 Rückwärts rollen
 Panel wechseln
@@ -205,59 +188,45 @@ We Love Katamari REROLL+ Royal Reverie
 Größte Größe:
 Gesammelte Objekte insgesamt:
 {total} Arten
-Uns hat das Rollen Spaß gemacht ...
-Wieso ist es so schnell vorbei?
+Uns hat das Rollen Spaß gemacht ... Wieso ist es so schnell vorbei?
 Geh uns aus dem Weg! Komm nie wieder her!
                                             - Der König
-Och, du warst so nahe dran.
-Nur noch etwas mehr. Nur ein Bisschen. Nur ein Fitzelchen.
+Och, du warst so nahe dran. Nur noch etwas mehr. Nur ein Bisschen. Nur ein Fitzelchen.
 So ist es doch immer.
                                             - Der König
-Die Grenze ist endlich weg.
-So schön.
+Die Grenze ist endlich weg. So schön.
                                             - Der König
-Es scheint allen Spaß gemacht zu haben, aufgerollt zu werden,
-aber da draußen müssen noch Fans von Katamari Damacy sein!
+Es scheint allen Spaß gemacht zu haben, aufgerollt zu werden, aber da draußen müssen noch Fans von Katamari Damacy sein!
 Du kannst nicht nur deinen Augen trauen!
                                             - Die Königin
-Roll mehr Fans auf!
-Uns egal, wie das Personal heißt.
+Roll mehr Fans auf! Uns egal, wie das Personal heißt.
 Das ist ein Spiel, es soll uns doch Spaß machen!
                                             - Die Königin
-Die Königin ist etwas enttäuscht.
-Wie konntest du nicht alle aufrollen?
+Die Königin ist etwas enttäuscht. Wie konntest du nicht alle aufrollen?
 Nur rollende Mitwirkendennamen sind langweilig!
                                             - Die Königin
-Alle scheinen gern aufgerollt zu werden♥.
-Sogar mein Mann wurde dadrin aufgerollt.
+Alle scheinen gern aufgerollt zu werden♥. Sogar mein Mann wurde dadrin aufgerollt.
 Mein König sieht ja so gut aus♥.
                                             - Die Königin
-Die Fans haben so viel Spaß♥.
-Schließlich sind sie alle in den Katamari gerollt.
+Die Fans haben so viel Spaß♥. Schließlich sind sie alle in den Katamari gerollt.
 Das war unsere Idee. Unglaublich, oder?
                                             - Die Königin
-Erstaunlich♥ Wunderbar.
-Alle Fans wurden aufgerollt.
+Erstaunlich♥ Wunderbar. Alle Fans wurden aufgerollt.
 Alles dank unserer Anweisungen vom Ballon aus.
                                             - Die Königin
-Nicht genug freier Platz für Speicherdaten.
-
+Nicht genug freier Platz für Speicherdaten. 
 {data} KB oder mehr werden benötigt, um „We Love Katamari REROLL+ Royal Reverie"-
 
 Fotoalbum-Daten zu speichern.
-{data} KB oder mehr werden benötigt, um „We Love Katamari REROLL+ Royal Reverie"-
-
+{data} KB oder mehr werden benötigt, um „We Love Katamari REROLL+ Royal Reverie"- 
 Fotoalbum-Daten zu speichern.
-Kehre zur Auswahlwiese zurück.
-
+Kehre zur Auswahlwiese zurück. 
 Nur die ins Album geklebten Fotos werden
 
 gespeichert. Ist das in Ordnung?
-Im Album platzierte Fotos werden gespeichert.
-
+Im Album platzierte Fotos werden gespeichert. 
 Ist das in Ordnung?
-Es gibt neue halbdunkle, noch nicht im Album platzierte Fotos.
-
+Es gibt neue halbdunkle, noch nicht im Album platzierte Fotos. 
 Wenn du neue Fotos im Album platzierst, kannst du sie zum ersten Mal speichern.
 Wenn du neue Fotos im Album platzierst, kannst du sie zum ersten Mal speichern.
 Katamari Nah-Nah
@@ -331,8 +300,7 @@ Frontales Hinausdrängen
 Da kommt etwas!
 Runterstoßen
 Zur Auswahlwiese
-Zur Auswahlwiese zurückkehren?
-
+Zur Auswahlwiese zurückkehren? 
 *Du wirst deine gesammelten Rosen verlieren.
 Erneut versuchen
 Roll-Wertung
@@ -443,8 +411,7 @@ Sepia
 Schwarzweiß
 Unscharf
 Ewig
-We Love Katamari REROLL+ Royal Reverie
-
+We Love Katamari REROLL+ Royal Reverie 
 Mitwirkende
 Bis morgen.
 STEUERUNGSEINSTELLUNGEN
@@ -471,8 +438,7 @@ Abwechselnd hoch und runter
 Sternschnuppe ansehen:
 Bewegungssteuerung
 Gameplay-Tastenzuweisung
-Diese Taste ist bereits zugewiesen.
-
+Diese Taste ist bereits zugewiesen. 
 Zuweisung ändern?
 Spieldaten
 Systemdaten
@@ -480,26 +446,20 @@ Zustimmen
 Nicht zustimmen
 Controller neu verbinden
 Tastatur
-Wenn du den Joy-Con nutzt, folge bitte der
-
+Wenn du den Joy-Con nutzt, folge bitte der 
 Anleitung und nutze die Handgelenksschlaufe.
 
 Halte ihn gut fest und lass nicht los.
-Sorge dafür, dass um dich herum genügend Platz ist
-und dass keine Menschen oder Gegenstände in der Nähe sind.
+Sorge dafür, dass um dich herum genügend Platz ist und dass keine Menschen oder Gegenstände in der Nähe sind.
 Die Bewegungssteuerung kann verwendet werden, nachdem beide Joy-Con-Controller von der Konsole entfernt wurden.
-Bitte beachte, dass das Steuerungsschema auf „normale Steuerung" zurückgesetzt wird, wenn du mit angeschlossenen Joy-Con™-Controllern spielst
-oder mit dem Pro Controller spielst, selbst dann, wenn du „Bewegungssteuerung" auswählst.
-Daten können nicht geladen werden. Sie sind
-beschädigt und wurden zurückgesetzt.
+Bitte beachte, dass das Steuerungsschema auf „normale Steuerung" zurückgesetzt wird, wenn du mit angeschlossenen Joy-Con™-Controllern spielst oder mit dem Pro Controller spielst, selbst dann, wenn du „Bewegungssteuerung" auswählst.
+Daten können nicht geladen werden. Sie sind beschädigt und wurden zurückgesetzt.
 Fortsetzen
 Auswählen
 Beschädigte Daten
-Daten können nicht geladen werden. Speicherdaten
-
+Daten können nicht geladen werden. Speicherdaten 
 sind beschädigt und werden zurückgesetzt.
-Anmeldeprofil geändert.
-
+Anmeldeprofil geändert. 
 Kehre zum Titelbildschirm zurück.
 SPIEL STARTEN
 PROFIL AUSWÄHLEN
@@ -584,10 +544,8 @@ Mr. Driller
 Lieblingsmusik
 Lieblingslied
 Musikliste
-Du kannst bis zu zehn Lieblingslieder registrieren.
-Bitte lösche ein Lied, bevor du ein neues registrierst.
-{0} laden.
-Ist das OK?
+Du kannst bis zu zehn Lieblingslieder registrieren. Bitte lösche ein Lied, bevor du ein neues registrierst.
+{0} laden. Ist das OK?
 Aussehen
 Wunderschön
 Das Übliche
@@ -608,68 +566,46 @@ Automatisches Speichern
 Zur Auswahlwiese
 Autobahn
 Stelle deine Lieblingsmusik ein.
-Sieh dir deine
-fotografierten Sticker an.
-Zieh deine erhaltenen
-Geschenke an.
-Sie dir die Sachen an,
-die du aufgerollt hast.
-Sieh dir deine
-Kampfwertung an.
+Sieh dir deine fotografierten Sticker an.
+Zieh deine erhaltenen Geschenke an.
+Sie dir die Sachen an, die du aufgerollt hast.
+Sieh dir deine Kampfwertung an.
 Speichere und lade Daten.
-Ändere die
-Spieleinstellungen.
-Beende das Spiel und kehre
-zum Ladebildschirm zurück.
+Ändere die Spieleinstellungen.
+Beende das Spiel und kehre zum Ladebildschirm zurück.
 Flüchten
 Zur Königlichen Träumerei gehen?
 Zur Auswahlwiese gehen?
-Sieht aus, als wollten die Fans auf der
-Auswahlwiese den Prinzen etwas fragen.
+Sieht aus, als wollten die Fans auf der Auswahlwiese den Prinzen etwas fragen.
 Sprich mit ihnen.
-Unten auf dem Bildschirm wird
-ein Symbol angezeigt, wenn neue Fans ankommen.
+Unten auf dem Bildschirm wird ein Symbol angezeigt, wenn neue Fans ankommen.
 Mache ihre Träume wahr.
-Wenn dir eine Kamera geschenkt wird,
-kannst du Bilder mit der
+Wenn dir eine Kamera geschenkt wird, kannst du Bilder mit der
 Prinzenkamera in der Prinzensicht machen.
-Mach mit der Kamera ein Bild von
-allen Aufklebern, die du findest.
+Mach mit der Kamera ein Bild von allen Aufklebern, die du findest.
 Sammle viele, um einen Bilderrahmen zu bekommen.
-Du kannst ein Selfie mit „Selfie"
-in der Prinzenkamera machen.
-Die Lieder, die du als Hintergrundmusik wählen kannst,
-werden mehr, je mehr du spielst.
+Du kannst ein Selfie mit „Selfie" in der Prinzenkamera machen.
+Die Lieder, die du als Hintergrundmusik wählen kannst, werden mehr, je mehr du spielst.
 Wähle mit <sprite name="Y"> dein Lieblingslied.
-Registriere deine Lieblingslieder.
-Sobald du mehr als 2 Lieder registriert hast, kannst du mit „Musik wählen" dein liebstes auswählen.
-Der Kosmos glitzert vor Sternen und
-Kosmischem Staub aus Katamari. Rolle viele Katamari und
+Registriere deine Lieblingslieder. Sobald du mehr als 2 Lieder registriert hast, kannst du mit „Musik wählen" dein liebstes auswählen.
+Der Kosmos glitzert vor Sternen und Kosmischem Staub aus Katamari. Rolle viele Katamari und
 erschaffe deinen eigenen Kosmos.
-Du kannst dir die Gewinn-/Verlustdaten aller
-Charaktere unter VS-RÄNGE ansehen.
+Du kannst dir die Gewinn-/Verlustdaten aller Charaktere unter VS-RÄNGE ansehen.
 Versuche Kämpfe mit verschiedenen Charakteren.
-Erlebe die Erinnerungen des Königs.
-Du erhältst Zugriff auf mehr Erinnerungen,
+Erlebe die Erinnerungen des Königs. Du erhältst Zugriff auf mehr Erinnerungen,
 wenn du auf der Auswahlwiese Fan-Träume wahrmachst.
-Du kannst dir Gegenstände für die Prinzen holen,
-indem du in den Levels versteckte Geschenke aufrollst.
+Du kannst dir Gegenstände für die Prinzen holen, indem du in den Levels versteckte Geschenke aufrollst.
 Halte beim Rollen nach ihnen Ausschau.
-Was du in Katamari aufrollst, wird aufgezeichnet.
-Rolle alles mögliche auf und füge
+Was du in Katamari aufrollst, wird aufgezeichnet. Rolle alles mögliche auf und füge
 absolut alles deiner Sammlung hinzu.
-Im Katamari-Denkmal kannst du dir Filme
-ansehen und dir Musik anhören.
-Der Kampfmodus wurde freigeschaltet.
-Sprich mit den 1SP- und 2SP-
+Im Katamari-Denkmal kannst du dir Filme ansehen und dir Musik anhören.
+Der Kampfmodus wurde freigeschaltet. Sprich mit den 1SP- und 2SP-
 Charakteren zusammen.
 Neuer Rekord
 ???
 Spiel-TIPPS anzeigen.
-Speicherdaten für PlayStation®4 gefunden.
-Möchtest du diese Daten übertragen?
-Speicherdaten von PlayStation®4 werden nicht übertragen.
-Trotzdem fortfahren?
+Speicherdaten für PlayStation®4 gefunden. Möchtest du diese Daten übertragen?
+Speicherdaten von PlayStation®4 werden nicht übertragen. Trotzdem fortfahren?
 Navigieren
 Spiel beenden?
 <sprite name="B"> Spiel beenden?
@@ -703,14 +639,10 @@ Endbenutzer-Lizenzvereinbarung
 Datenschutzrichtlinien
 Analyse-Einstellungen
 Elftes Mal
-Bitte richte den
-Controller für 1SP ein
-Bitte richte den
-Controller für 2SP ein
-Die Bewegungssteuerung kann verwendet werden, nachdem
-beide Joy-Con-Controller von der Konsole entfernt wurden.
-Bitte beachte, dass das Steuerungsschema auf „normale Steuerung" zurückgesetzt wird,
-wenn du mit angeschlossenen Joy-Con™-Controllern spielst oder mit dem
+Bitte richte den Controller für 1SP ein
+Bitte richte den Controller für 2SP ein
+Die Bewegungssteuerung kann verwendet werden, nachdem beide Joy-Con-Controller von der Konsole entfernt wurden.
+Bitte beachte, dass das Steuerungsschema auf „normale Steuerung" zurückgesetzt wird, wenn du mit angeschlossenen Joy-Con™-Controllern spielst oder mit dem
 Pro Controller spielst, selbst dann, wenn du „Bewegungssteuerung" auswählst.
 *Dieses Produkt wurde auf Basis der 2005 veröffentlichten Multi-Plattform-Software „We Love Katamari!" entwickelt. Einige Elemente könnten anders sein.
 Änderungen speichern?
@@ -745,4 +677,4 @@ Hello World (feat. Taku-sama)
 Kostümteil: Kleiner Prinz
 Kostümteil: Kleiner König
 Katamari Damacy Series Musikpaket
-Zu Royal Reverie zurückkehren? 
+Zu Royal Reverie zurückkehren?

@@ -6,9 +6,9 @@ min
 s
 Temps
 Minus
-Petit(e) 
+Petit(e)
 Moyen(ne)
-Grand(e) 
+Grand(e)
 Énorme
 Très noir
 Noir
@@ -25,29 +25,29 @@ cm
 mm
 kg
 :
-Encore 
+Encore
 $
 0 000
- Roses
- Personne(s)
- Nuages
- Ami(s)
- Oiseaux
- Grues
- Aliments
+Roses
+Personne(s)
+Nuages
+Ami(s)
+Oiseaux
+Grues
+Aliments
 Objets
- min
- Étoiles
- Grues de papier
+min
+Étoiles
+Grues de papier
 co
- Fleurs
- Friandises
- Animaux
- Paires
- Étudiants
- Cousin(s)
- Roses
- Friandises
+Fleurs
+Friandises
+Animaux
+Paires
+Étudiants
+Cousin(s)
+Roses
+Friandises
 Petit ourson
 Ours en peluche
 Ourson
@@ -115,7 +115,7 @@ Impossible à dire...
 Nous hésitons...
 Vous pouvez encore le pousser, pas le porter.
 /
- %
+%
 Pas encore obtenu
 :
 Tête
@@ -214,7 +214,7 @@ Enrouler le Yokozuna
 Enrouler le couple
 Didacticiel
 Enrouler les amis
-Temps 
+Temps
 --
 Le plus grand possible (école)
 Le plus grand possible (course)

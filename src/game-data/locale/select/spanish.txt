@@ -25,29 +25,29 @@ cm
 mm
 kg
 :
-restante 
+restante
 $
 0.000
- Rosas
- Estudiante(s)
- Nubes
- Amigo(s)
- Pájaros
+Rosas
+Estudiante(s)
+Nubes
+Amigo(s)
+Pájaros
 Grullas
- Comidas
+Comidas
 Cosas
- min.
- Estrellas
- Pajaritas de papel
+min.
+Estrellas
+Pajaritas de papel
 co
- Flores
- Dulces
- Animales
- Parejas
- Estudiantes
- Primos
- Rosas
- Dulces
+Flores
+Dulces
+Animales
+Parejas
+Estudiantes
+Primos
+Rosas
+Dulces
 Cachorro
 Osito de peluche
 Osezno
@@ -115,7 +115,7 @@ No sabríamos decir...
 No se puede calcular...
 Demasiado grande, pero quizás puedas empujarlo.
 /
- %
+%
 No se ha recogido aún
 :
 Cabeza

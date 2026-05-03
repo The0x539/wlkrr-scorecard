@@ -25,29 +25,29 @@ cm
 mm
 kg
 :
-Verbleibend 
+Verbleibend
 $
 0,000
- Rosen
- Person(en)
- Wolken
- Freunde
- Vögel
- Kraniche
- Lebensmittel
+Rosen
+Person(en)
+Wolken
+Freunde
+Vögel
+Kraniche
+Lebensmittel
 Sachen
- Min.
- Himmelskörper
- Origamikraniche
+Min.
+Himmelskörper
+Origamikraniche
 co
- Blumen
- Süßigkeiten
- Tiere
- Paare
- Schüler
+Blumen
+Süßigkeiten
+Tiere
+Paare
+Schüler
 Cousins
- Rosen
- Süßigkeiten
+Rosen
+Süßigkeiten
 Bärchen
 Teddybär
 Bärenjunges
@@ -110,13 +110,12 @@ Könnte man vielleicht gerade noch halten.
 Zu groß, um ihn allein zu bewegen.
 So groß, dass nicht mal 100 Menschen ihn heben können.
 So groß, dass ihn kein Mensch halten kann.
-Es ist sehr, sehr groß. 
-Nicht mal Menschen können das bewegen.
+Es ist sehr, sehr groß.  Nicht mal Menschen können das bewegen.
 Wir wissen es nicht genau ...
 Wir sind uns nicht sicher ...
 Zu groß zum Halten, aber vielleicht kriegt man ihn geschoben.
 /
- %
+%
 Noch nicht gesammelt
 :
 Kopf

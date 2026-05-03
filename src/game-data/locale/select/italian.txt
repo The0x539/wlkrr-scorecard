@@ -25,29 +25,29 @@ cm
 mm
 Kg
 :
-Rimanenti 
+Rimanenti
 $
 0.000
- Rose
- Studenti
- Nuvole
- Amici
- Uccelli
- Gru
- Alimenti
+Rose
+Studenti
+Nuvole
+Amici
+Uccelli
+Gru
+Alimenti
 Cose
- min.
- Corpi celesti
- Gru di origami
+min.
+Corpi celesti
+Gru di origami
 co
- Fiori
- Dolci
- Animali
- Coppie
- Studenti
- Cugini
- Rose
- Dolci
+Fiori
+Dolci
+Animali
+Coppie
+Studenti
+Cugini
+Rose
+Dolci
 Cucciolo
 Orsacchiotto
 Cucciolo d'orso

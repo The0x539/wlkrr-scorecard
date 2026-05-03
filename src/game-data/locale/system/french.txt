@@ -3,22 +3,17 @@ Oui
 Non
 
 Version démo
-Vérification des données de jeu en cours.
-Ne quittez pas le jeu.
+Vérification des données de jeu en cours. Ne quittez pas le jeu.
 Aucune donnée de jeu "We Love Katamari REROLL+ Royal Reverie"
 Commencer à rouler ?
-Chargement en cours.
-Ne quittez pas le jeu.
-Vérification des données de jeu en cours.
-Ne quittez pas le jeu.
+Chargement en cours. Ne quittez pas le jeu.
+Vérification des données de jeu en cours. Ne quittez pas le jeu.
 Échec du chargement.
 Annuler le chargement ?
 Chargement terminé.
-Ces données de sauvegarde sont endommagées.
-
+Ces données de sauvegarde sont endommagées. 
 Merci de les supprimer.
-Il n'y a pas assez d'espace libre.
-
+Il n'y a pas assez d'espace libre. 
 Au moins {data} Mo sont nécessaires pour sauvegarder
 
 les données de jeu de
@@ -57,35 +52,26 @@ Musique
 Effets sonores
 Par défaut
 Jouer Joueur 2
-Révélation de tous les souvenirs en cours.
-Ne quittez pas le jeu.
+Révélation de tous les souvenirs en cours. Ne quittez pas le jeu.
 Placer de nouvelles photos dans l'album vous permettra de les sauvegarder pour la première fois.
-De nouvelles photos ne sont pas dans l'album.
-Placer les nouvelles photos dans l'album vous permettra 
+De nouvelles photos ne sont pas dans l'album. Placer les nouvelles photos dans l'album vous permettra 
 de les sauvegarder pour la première fois.
-Sauvegarder les photos placées dans l'album.
-
+Sauvegarder les photos placées dans l'album. 
 D'accord ?
-Aucune donnée d'album photo.
-
+Aucune donnée d'album photo. 
 Créer un nouvel album photo ?
 Annuler la sauvegarde ?
-Écraser les données de sauvegarde d'album photo.
-
+Écraser les données de sauvegarde d'album photo. 
 D'accord ?
-Sauvegarde de tous les souvenirs en cours.
-Ne quittez pas le jeu.
+Sauvegarde de tous les souvenirs en cours. Ne quittez pas le jeu.
 Sauvegarde terminée.
-Les données d'album photo sont endommagées.
-
+Les données d'album photo sont endommagées. 
 Merci de les supprimer.
-Cette chèvre raffole de photos.
-Quand elle les aura dévorées,
+Cette chèvre raffole de photos. Quand elle les aura dévorées,
 celles-ci disparaîtront pour toujours.
 Donner la photo à la chèvre ?
 Données Album photo
-L'album photo est sauvegardé sur trois fichiers partagés : [na], [m] et [co].
-Vous pouvez voir les albums photo d'autres personnes, donc vous pourrez 
+L'album photo est sauvegardé sur trois fichiers partagés : [na], [m] et [co]. Vous pouvez voir les albums photo d'autres personnes, donc vous pourrez 
 en profiter pour partager des photos avec votre famille et vos amis. Mais évitez 
 simplement de supprimer les photos de quelqu'un d'autre sans prévenir.
 Nouveau
@@ -95,17 +81,14 @@ Tirez-leur dessus avec ce bouton.
 Sauvegarder
 Charger
 Sauvegarder où ?
-Nouvelle sauvegarde dans {0}.
-
+Nouvelle sauvegarde dans {0}. 
 D'accord ?
 Annuler la sauvegarde ?
-Sauvegarde en cours.
-Ne quittez pas le jeu.
+Sauvegarde en cours. Ne quittez pas le jeu.
 Échec de la sauvegarde.
 Sauvegarde terminée.
 Quitter la partie ?
-Écraser le fichier {0}.
-
+Écraser le fichier {0}. 
 D'accord ?
 Film d'intro
 Résumé
@@ -171,8 +154,7 @@ Vue à gauche
 Sprint du Prince
 Vif changement
 Tour
-Maintenir
-vers le mur.
+Maintenir vers le mur.
 Escalader
 Roulade arrière
 Changer de panneau
@@ -206,57 +188,43 @@ We Love Katamari REROLL+ Royal Reverie
 Plus grand diamètre :
 Total d'objets obtenus :
 Types {total}
-Nous aimions rouler...
-Pourquoi s'arrêter si tôt ?
+Nous aimions rouler... Pourquoi s'arrêter si tôt ?
 Allez, ouste ! Et ne revenez plus jamais !
                                                                                           -Le Roi
-Oh, si près du but.
-Allez, encore un peu plus. Juste un peu. Un tout petit peu.
+Oh, si près du but. Allez, encore un peu plus. Juste un peu. Un tout petit peu.
 C'est ainsi que ça marche.
                                                                                           -Le Roi
-Plus aucune frontière.
-C'est si beau.
+Plus aucune frontière. C'est si beau.
                                                                                           -Le Roi
-Tout le monde a l'air d'aimer être enroulé,
-mais il doit rester quelques fans de Katamari Damacy là-dehors !
+Tout le monde a l'air d'aimer être enroulé, mais il doit rester quelques fans de Katamari Damacy là-dehors !
 Ne vous fiez pas aux apparences !
                                                                                           -La Reine
-Enroulez plus de fans !
-Nous ne tenons pas à voir les noms du personnel.
+Enroulez plus de fans ! Nous ne tenons pas à voir les noms du personnel.
 C'est un jeu et Nous voulons plus de divertissement !
                                                                                           -La Reine
-La Reine est un tantinet déçue.
-Pourquoi n'avez-vous pas pu tout enrouler ?!
+La Reine est un tantinet déçue. Pourquoi n'avez-vous pas pu tout enrouler ?!
 Voir défiler les crédits, c'est si ennuyeux !
                                                                                           -La Reine
-Tout le monde a l'air d'aimer être enroulé♥.
-Même mon mari s'est fait enrouler.
+Tout le monde a l'air d'aimer être enroulé♥. Même mon mari s'est fait enrouler.
 Mon Roi est si charmant♥.
                                                                                           -La Reine
-Les fans s'amusent beaucoup♥.
-Après tout, le katamari les a aussi enroulés.
+Les fans s'amusent beaucoup♥. Après tout, le katamari les a aussi enroulés.
 C'était Notre idée. Époustouflant, non ?
                                                                                           -La Reine
-Époustouflant♥ Fabuleux.
-Tous les fans ont été enroulés.
+Époustouflant♥ Fabuleux. Tous les fans ont été enroulés.
 Tout cela grâce à Nos conseils depuis la montgolfière.
                                                                                           -La Reine
-Espace libre insuffisant pour les données de sauvegarde.
-
+Espace libre insuffisant pour les données de sauvegarde. 
 Au moins {data} Ko sont nécessaires pour sauvegarder
 
 les données d'album photo de "We Love Katamari REROLL+ Royal Reverie".
-Au moins {data} Ko sont nécessaires pour sauvegarder les données d'album photo de
-
+Au moins {data} Ko sont nécessaires pour sauvegarder les données d'album photo de 
 "We Love Katamari REROLL+ Royal Reverie".
-Retour à la Prairie sélection.
-Seules les photos placées dans l'album
+Retour à la Prairie sélection. Seules les photos placées dans l'album
 seront sauvegardées. D'accord ?
-Sauvegarder les photos placées dans l'album.
-
+Sauvegarder les photos placées dans l'album. 
 D'accord ?
-De nouvelles photos sombres ne sont pas dans l'album.
-
+De nouvelles photos sombres ne sont pas dans l'album. 
 Placer les nouvelles photos dans l'album vous permettra de les sauvegarder pour la première fois.
 Placer de nouvelles photos dans l'album vous permettra de les sauvegarder pour la première fois.
 Katamari Nah-Nah
@@ -330,8 +298,7 @@ Sortie frontale
 Quelque chose approche !
 Enfoncer
 Vers la Prairie sélection
-Retour à la Prairie sélection ?
-*Vous perdrez les roses obtenues.
+Retour à la Prairie sélection ? *Vous perdrez les roses obtenues.
 Réessayer
 Classement de roulade
 Objets obtenus
@@ -441,8 +408,7 @@ Sépia
 Monochrome
 Flou
 Éternel
-Crédits du personnel
-
+Crédits du personnel 
 We Love Katamari REROLL+ Royal Reverie
 À demain.
 CONFIG DES COMMANDES
@@ -469,8 +435,7 @@ Alterner haut et bas
 Voir la comète :
 Commandes par mouvements
 Attribution des commandes de jeu
-Ce bouton est déjà attribué. 
-
+Ce bouton est déjà attribué.  
 Modifier l'attribution ?
 Données de jeu
 Données système
@@ -478,27 +443,21 @@ Accepter
 Refuser
 Reconnecter la manette
 Clavier
-En utilisant le Joy-Con, merci d'utiliser
-
+En utilisant le Joy-Con, merci d'utiliser 
 l'emplacement pour dragonne et de suivre les instructions.
 
 Tenez la manette fermement et ne la lâchez pas.
-Vous devez avoir suffisamment de place autour de vous,
-sans personne ni objet.
+Vous devez avoir suffisamment de place autour de vous, sans personne ni objet.
 Vous pouvez utiliser les commandes par mouvements après avoir détaché les deux Joy-Con de la console.
-Après avoir choisi "Commandes par mouvements", si vous jouez avec les Joy-Con attachés à la console
-ou avec la manette Pro, la configuration des
+Après avoir choisi "Commandes par mouvements", si vous jouez avec les Joy-Con attachés à la console ou avec la manette Pro, la configuration des
 commandes se réglera sur "Commandes d'usage".
-Impossible de charger les données.
-Elles ont été réinitialisées.
+Impossible de charger les données. Elles ont été réinitialisées.
 Continuer
 Choisir
 Données endommagées
-Impossible de charger les données. Les données de sauvegarde
-
+Impossible de charger les données. Les données de sauvegarde 
 sont endommagées et vont être réinitialisées.
-Changer d'identifiant.
-
+Changer d'identifiant. 
 Retour à l'écran de titre.
 COMMENCER LA PARTIE
 CHOISIR LE PROFIL
@@ -583,10 +542,8 @@ Mr. Driller
 Musique préférée
 Favoris
 Liste de musiques
-Vous pouvez enregistrer jusqu'à dix chansons préférées.
-Veuillez en supprimer une pour en enregistrer une nouvelle.
-Charger {0}.
-D'accord ?
+Vous pouvez enregistrer jusqu'à dix chansons préférées. Veuillez en supprimer une pour en enregistrer une nouvelle.
+Charger {0}. D'accord ?
 Apparence
 Magnifique
 Classique
@@ -607,73 +564,51 @@ Sauvegarde automatique
 Venir à Prairie sélect.
 Autoroute
 Choisir votre musique préférée.
-Voir les stickers
-photographiés.
-Porter les cadeaux
-obtenus.
-Voir tout ce
-que vous avez enroulé.
-Voir votre classement
-de bataille.
+Voir les stickers photographiés.
+Porter les cadeaux obtenus.
+Voir tout ce que vous avez enroulé.
+Voir votre classement de bataille.
 Sauvegarder et charger les données.
-Modifier les
-paramètres de jeu.
-Quitter la partie et revenir
-à l'écran de chargement.
+Modifier les paramètres de jeu.
+Quitter la partie et revenir à l'écran de chargement.
 Fuite
 Accéder à la Rêverie royale ?
 Aller vers la Prairie sélection ?
-On dirait bien que les Fans à la Prairie sélection
-veulent demander quelque chose au Prince.
+On dirait bien que les Fans à la Prairie sélection veulent demander quelque chose au Prince.
 Allez leur parler.
-Une icône s'affichera en bas
-de l'écran à l'arrivée de nouveaux Fans.
+Une icône s'affichera en bas de l'écran à l'arrivée de nouveaux Fans.
 Réalisez leurs rêves.
-Si vous recevez un appareil photo en cadeau,
-vous pouvez prendre des photos avec la
+Si vous recevez un appareil photo en cadeau, vous pouvez prendre des photos avec la
 Caméra du Prince en Vue du Prince.
-Prenez une photo de n'importe quel autocollant
-que vous trouvez avec l'appareil photo.
+Prenez une photo de n'importe quel autocollant que vous trouvez avec l'appareil photo.
 Collectez-en en masse pour obtenir un cadre photo.
-Vous pouvez prendre un selfie dans le menu
-Selfie de la Caméra du Prince.
-Le nombre de musiques que
-vous pouvez choisir en musique
+Vous pouvez prendre un selfie dans le menu Selfie de la Caméra du Prince.
+Le nombre de musiques que vous pouvez choisir en musique
 de fond augmente au cours du jeu.
 Choisissez votre musique préférée avec <sprite name="Y">.
-Enregistrez vos musiques préférées.
-Une fois plus de 2 musiques enregistrées,
+Enregistrez vos musiques préférées. Une fois plus de 2 musiques enregistrées,
 vous pourrez mettre une chanson préférée
 dans Choix de la musique.
-Le cosmos brille de mille astres et poussières
-cosmiques fabriqués à l'aide de katamari. Enroulez
+Le cosmos brille de mille astres et poussières cosmiques fabriqués à l'aide de katamari. Enroulez
 des tas de katamari et créez votre
 propre cosmos.
-Vous pouvez voir le nombre de victoires et de
-défaites de tous les personnages dans
+Vous pouvez voir le nombre de victoires et de défaites de tous les personnages dans
 Classements VS. Essayez de participer
 avec différents personnages.
-Découvrez les souvenirs du Roi.
-Vous aurez accès à plus de souvenirs en
+Découvrez les souvenirs du Roi. Vous aurez accès à plus de souvenirs en
 réalisant les rêves des Fans dans la Prairie sélection.
-Vous pouvez obtenir des objets des Princes en
-enroulant des cadeaux cachés dans les niveaux.
+Vous pouvez obtenir des objets des Princes en enroulant des cadeaux cachés dans les niveaux.
 Restez attentifs lorsque vous enroulez.
-Les choses que vous enroulez dans le katamari
-seront enregistrées. Enroulez des tas de
+Les choses que vous enroulez dans le katamari seront enregistrées. Enroulez des tas de
 choses et enrichissez votre collection.
-Vous pouvez regarder des films et écouter de
-la musique dans le Mémorial Katamari.
-Le mode Bataille a été débloqué.
-Parlez aux personnages
+Vous pouvez regarder des films et écouter de la musique dans le Mémorial Katamari.
+Le mode Bataille a été débloqué. Parlez aux personnages
 J1 et J2 ensemble.
 Nouveau record
 ???
 Afficher les Conseils du jeu.
-Des données de sauvegarde pour la PlayStation®4 sont présentes.
-Voulez-vous transférer ces données sauvegardées ?
-Les données de sauvegarde de PlayStation®4 ne seront pas transférées.
-Continuer quand même ?
+Des données de sauvegarde pour la PlayStation®4 sont présentes. Voulez-vous transférer ces données sauvegardées ?
+Les données de sauvegarde de PlayStation®4 ne seront pas transférées. Continuer quand même ?
 Navigation
 Quitter la partie ?
 <sprite name="B"> Quitter la partie
@@ -707,14 +642,10 @@ CLUF
 Politique de confidentialité
 Paramètres d'analyse
 Chapitre 11
-Veuillez configurer la
-manette du J1
-Veuillez configurer la
-manette du J2
-Vous pouvez utiliser les commandes par mouvements après avoir détaché les
-deux Joy-Con de la console.
-Après avoir choisi "Commandes par mouvements", si vous
-jouez avec les Joy-Con attachés à la console ou
+Veuillez configurer la manette du J1
+Veuillez configurer la manette du J2
+Vous pouvez utiliser les commandes par mouvements après avoir détaché les deux Joy-Con de la console.
+Après avoir choisi "Commandes par mouvements", si vous jouez avec les Joy-Con attachés à la console ou
 avec la manette Pro, la configuration des commandes se réglera sur "Commandes d'usage".
 *Ce produit a été développé d'après le logiciel multi-plateforme, "We Love Katamari" sorti en 2005. Certains éléments peuvent varier.
 Sauvegarder les modifications ?

@@ -66,7 +66,7 @@ Masque oni rouge
 Masque Jumboman bleu
 Masque Jumboman jaune
 Badge de police
-Brosse 
+Brosse
 Maillet
 Marteau
 Clé
@@ -145,7 +145,7 @@ Balle de riz
 Signe "danger"
 Sedan
 Voiture bicorps
-Camionnette 
+Camionnette
 Compacte
 Camionnette
 Fourgonnette
@@ -268,11 +268,11 @@ Affiches cinéma
 Rivière Caille
 Katana
 Arrêt de bus
-Pile AAA 
+Pile AAA
 Motel cafard
 Tente
 Rocher tombant
-Feux d'artifice 
+Feux d'artifice
 Kadomatsu
 Arbre
 Grand arbre
@@ -356,8 +356,8 @@ Lanterne
 Tambour taiko
 W-C portable
 Scooter
-Feux d'artifice 
-Boîte de feux d'artifice 
+Feux d'artifice
+Boîte de feux d'artifice
 Enseigne d'hôtel
 Assiette décorative
 Jumboman réduit
@@ -383,7 +383,7 @@ Bloc bleu
 Immeuble poisson
 Immeuble anguille
 Pelle mécanique
-Satellite 
+Satellite
 Film plastique
 Lessive
 Mouchoirs
@@ -494,7 +494,7 @@ Mouton noir
 Girafe
 Crocodile
 Singe-monture
-Homme 
+Homme
 Corbeau
 Moineau
 DmyFR Hit 02
@@ -927,7 +927,7 @@ Nuage noir
 Île romantique
 Île ancrée
 Île artificielle
-Feux tricolores 
+Feux tricolores
 Feux pour piétons
 Poisson rouge
 Salon de thé
@@ -1136,7 +1136,7 @@ Silo
 Bloc rouge
 Bloc jaune
 Bloc vert
-Poutre 
+Poutre
 Enseigne de cinéma
 Enseigne de cinéma
 Boîte à chaussures
@@ -1164,7 +1164,7 @@ Insecticide
 Ketchup
 Allumette
 Pain de mie
-Présentoir à chaussures 
+Présentoir à chaussures
 Montgolfière rose
 Bloc brise-lames
 Carton entrouvert
@@ -1193,7 +1193,7 @@ Poupée kokeshi
 Grande kokeshi
 Machine à laver
 Haut-parleur
-Publicité 
+Publicité
 Base d'étendage
 Mat d'étendage
 Petit étendage
@@ -1302,7 +1302,7 @@ Araignée
 Carillon
 Crochet
 Extincteur
-Maneki-neko 
+Maneki-neko
 Bicyclette
 Jus de pomme
 Cidre à bulles
@@ -1347,7 +1347,7 @@ Meuble hi-fi
 Arche de circuit F1
 Enseigne d'épicerie
 Mouette et varech
-Varech séché 
+Varech séché
 Grille d'école
 Feu de camp
 Gros feu de camp
@@ -1971,7 +1971,7 @@ Petit tom
 Cymbale
 Trompette
 Harmonica
-Gong 
+Gong
 Cloche suspendue
 Miel
 Friandise au riz
@@ -2012,7 +2012,7 @@ Bambou
 Raquette de ping-pong
 Raquette de tennis
 Balle de tennis
-Cimeterre 
+Cimeterre
 Cahier d'esquisses
 Cactus
 Plante d'intérieur
@@ -2089,7 +2089,7 @@ Tente rouge
 Tente bleue
 Tente jaune
 Tente verte
-Hamac 
+Hamac
 Champignon plat
 Évier extérieur
 Champignon féérique
@@ -2268,7 +2268,7 @@ Bâton chocolat
 Chocolat amer
 Bonbon gélatine
 Bonbon bleu
-Crème fouettée 
+Crème fouettée
 Mini biscuit arbre
 Biscuit arbre
 Grand biscuit arbre
@@ -2347,7 +2347,7 @@ Enseigne d'épicerie
 Grande roue
 Nacelle
 Panneau menu
-Observatoire 
+Observatoire
 Sculpture de l'observatoire
 Cinéma
 Affiche de film SF
@@ -2359,7 +2359,7 @@ Tour flet
 Tour killi
 Tour limande
 Tour sériole
-Chantier 
+Chantier
 Incendie
 Pub pour le café
 Pub  pour assurance vie
@@ -2385,7 +2385,7 @@ Tour de Pise
 Maison de Pierre
 Maison de William
 Maison de Joseph
-Ferme européenne 
+Ferme européenne
 
 Maison de Charles
 Maison de Rudolph
@@ -2548,7 +2548,7 @@ Professeure
 Vieux professeur
 Professeur cool
 Principal
-Tocard 
+Tocard
 Représentant des étudiants
 Déléguée de classe
 Élève mûre
@@ -2574,7 +2574,7 @@ Snowboarder rouge
 Snowboarder jaune
 Skieur rouge
 Skieur violet
-Skieur vert 
+Skieur vert
 Campeur
 Scout
 Garçon coureur
@@ -2628,7 +2628,7 @@ Calmar
 Nautile
 Coelacanthe
 Tyrannosaure
-Stégosaure 
+Stégosaure
 Brontosaure
 Ptéranodon
 Vache-ours
@@ -2704,7 +2704,7 @@ Poisson-clown vert
 Bernard l'ermite
 Mammouth
 Husky
-Doberman 
+Doberman
 Père Noël relax
 Sorcière
 Principal adjoint
@@ -2809,7 +2809,7 @@ Prof d'ikebana
 Remplaçante
 Pilote F1
 Fille en imper
-Dr Katamari 
+Dr Katamari
 M. chapeau grue
 Fille pile-poil
 Éleveur vache-ours
@@ -2859,23 +2859,23 @@ Satellite animal
 Planète grue
 Satellite Saturne
 Satellite Saturne
-Saturne 
+Saturne
 Galaxie vache-ours
 Planète
 Planète nettoyage
-Vénus 
+Vénus
 Planète sucrée
 Satellite sucré
-Mercure 
+Mercure
 Satellite Mercure
 Satellite Mars
 Satellite Mars
-Mars 
+Mars
 Satellite sumo
 Satellite sumo
 Satellite Yokozuna
 Planète bonh. neige
-Sirius 
+Sirius
 Nouvelle Terre
 Planète cousins
 Planète cousins 2nd degré
@@ -3083,7 +3083,7 @@ Arbre papillon
 Arche de feuillage
 Chrysanthèmes blancs
 Chrysanthèmes bleus
-Cosmos  
+Cosmos
 Arbre mauve
 Arbre rose
 Arbre joyeux
@@ -3102,7 +3102,7 @@ Forêt jaune
 Forêt de cerisiers
 Centre spatial
 Navette spatiale
-Tertre funéraire 
+Tertre funéraire
 Monas
 Volcan en activité
 Repaire secret
@@ -3138,7 +3138,7 @@ Désert
 Île aux peupliers
 Mont Sud
 Mont Akane
-Mont Wasabi 
+Mont Wasabi
 Île aux herbes folles
 Île Robinson
 Île aux fougères

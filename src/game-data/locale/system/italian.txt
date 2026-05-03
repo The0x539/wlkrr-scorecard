@@ -3,22 +3,17 @@ Sì
 No
 
 Versione demo
-Verifica dati di gioco.
-Non uscire dal gioco.
+Verifica dati di gioco. Non uscire dal gioco.
 Nessun salvataggio di "We Love Katamari REROLL+ Royal Reverie".
 Vuoi iniziare a rotolare?
-Caricamento.
-Non uscire dal gioco.
-Verifica dei dati di gioco.
-Non uscire dal gioco.
+Caricamento. Non uscire dal gioco.
+Verifica dei dati di gioco. Non uscire dal gioco.
 Impossibile caricare.
 Annullare caricamento?
 Caricamento completato.
-I dati sono danneggiati.
-
+I dati sono danneggiati. 
 Elimina il salvataggio.
-Spazio insufficiente.
-Servono almeno {data} MB per salvare
+Spazio insufficiente. Servono almeno {data} MB per salvare
 i dati di gioco di
 "We Love Katamari REROLL+ Royal Reverie"
 Vuoi rotolare lo stesso?
@@ -53,35 +48,26 @@ SOTTOFONDO
 EFFETTI
 Predefinito
 Gioca in 2 giocatori
-Rivelando le memorie di tutti.
-Non uscire dal gioco.
+Rivelando le memorie di tutti. Non uscire dal gioco.
 Se aggiungi le foto nuove all'album, le salverai per la prima volta.
-Ci sono nuove foto non aggiunte all'album.
-Se aggiungi le foto nuove all'album, 
+Ci sono nuove foto non aggiunte all'album. Se aggiungi le foto nuove all'album, 
 le salverai per la prima volta.
-Salvataggio delle foto nell'album.
-
+Salvataggio delle foto nell'album. 
 Confermi?
-Nessun album di foto.
-
+Nessun album di foto. 
 Vuoi crearne uno nuovo?
 Annullare salvataggio?
-Sovrascrittura dei dati di salvataggio dell'album.
-
+Sovrascrittura dei dati di salvataggio dell'album. 
 Confermi?
-Salvataggio memorie di tutti.
-Non uscire dal gioco.
+Salvataggio memorie di tutti. Non uscire dal gioco.
 Salvataggio completato.
-I dati dell'album sono danneggiati.
-
+I dati dell'album sono danneggiati. 
 Elimina i dati.
-Questa capra adora le foto.
-Una volta che le ha mangiate, non
+Questa capra adora le foto. Una volta che le ha mangiate, non
 potrai più vederle.
 Vuoi dare la foto alla capra?
 Dati Album
-L'album è salvato in tre file condivisi, [na], [m] e [co].
-Puoi vedere gli album degli altri, quindi ti divertirai un mondo
+L'album è salvato in tre file condivisi, [na], [m] e [co]. Puoi vedere gli album degli altri, quindi ti divertirai un mondo
 a condividere le foto con i parenti e gli amici.
 Fa' solo attenzione a non fare niente di importuno: per esempio,
 non eliminare le foto degli altri senza il loro permesso.
@@ -92,17 +78,14 @@ Scattale con questo pulsante.
 SALVA
 CARICA
 Dove vuoi salvare?
-Stai per salvare in {0}.
-
+Stai per salvare in {0}. 
 Confermi?
 Annullare salvataggio?
-Salvataggio.
-Non uscire dal gioco.
+Salvataggio. Non uscire dal gioco.
 Impossibile salvare.
 Salvataggio completato.
 Uscire dal gioco?
-Sovrascrivi file {0}.
-
+Sovrascrivi file {0}. 
 Confermi?
 Filmato di apertura
 Riepilogo
@@ -168,8 +151,7 @@ Guarda a sinistra
 Corsa Principe
 Spostamento rapido
 Girare
-Premi
-verso una parete.
+Premi verso una parete.
 Arrampicata
 Rotolare indietro
 Cambia pannello
@@ -203,56 +185,42 @@ We Love Katamari REROLL+ Royal Reverie
 Diametro più ampio:
 Totale oggetti raccolti:
 {total} tipi
-Ci stavamo divertendo a rotolare...
-Perché è già tutto finito?
+Ci stavamo divertendo a rotolare... Perché è già tutto finito?
 Lasciaci in pace! Non farti più vedere!
                                              -Il Re
-Ah, c'eri quasi.
-Ancora un po', basta una briciola.
+Ah, c'eri quasi. Ancora un po', basta una briciola.
 Finisce sempre così.
                                              -Il Re
-Non c'è più la frontiera, finalmente.
-Che meraviglia.
+Non c'è più la frontiera, finalmente. Che meraviglia.
                                              -Il Re
-Rotolare sembrava piacere a tutti,
-ma deve esserci ancora qualche fan di Katamari Damacy là fuori!
+Rotolare sembrava piacere a tutti, ma deve esserci ancora qualche fan di Katamari Damacy là fuori!
 Non fidarti solo di ciò che vedono i tuoi occhi!
                                              -La Regina
-Fai rotolare altri fan!
-Non vogliamo vedere i nomi del personale.
+Fai rotolare altri fan! Non vogliamo vedere i nomi del personale.
 È un gioco e NOI dobbiamo divertirci!
                                              -La Regina
-La Regina è delusa.
-Perché non hai fatto rotolare tutti?
+La Regina è delusa. Perché non hai fatto rotolare tutti?
 Leggere dei nomi nei riconoscimenti è una vera noia!
                                              -La Regina
-A tutti piace farsi rotolare♥.
-Guarda, c'è anche mio marito.
+A tutti piace farsi rotolare♥. Guarda, c'è anche mio marito.
 Il mio Re è così bello♥.
                                              -La Regina
-I fan si stanno divertendo un mondo♥.
-Ora sono un tutt'uno con i katamari.
+I fan si stanno divertendo un mondo♥. Ora sono un tutt'uno con i katamari.
 È stata una nostra idea. Incredibile, vero?
                                              -La Regina
-Incredibile♥ Meraviglioso.
-Abbiamo fatto rotolare tutti i fan.
+Incredibile♥ Meraviglioso. Abbiamo fatto rotolare tutti i fan.
 Merito delle indicazioni che abbiamo dato dall'alto.
                                              -La Regina
-Spazio insufficiente per salvare i dati.
-Servono almeno {data} KB per salvare i dati dell'album di
+Spazio insufficiente per salvare i dati. Servono almeno {data} KB per salvare i dati dell'album di
 "We Love Katamari REROLL+ Royal Reverie".
-Servono almeno {data} KB per salvare i dati dell'album di
-"We Love Katamari REROLL+ Royal Reverie".
-Tornerai al Prato di selezione.
-
+Servono almeno {data} KB per salvare i dati dell'album di "We Love Katamari REROLL+ Royal Reverie".
+Tornerai al Prato di selezione. 
 Solo le foto aggiunte all'album
 
 verranno salvate. Confermi?
-Salvataggio delle foto nell'album.
-
+Salvataggio delle foto nell'album. 
 Confermi?
-Ci sono nuove foto fioche non aggiunte all'album.
-
+Ci sono nuove foto fioche non aggiunte all'album. 
 Se aggiungi le foto nuove all'album, le salverai per la prima volta.
 Se aggiungi le foto nuove all'album, le salverai per la prima volta.
 Katamari nah-nah
@@ -326,8 +294,7 @@ Colpo frontale
 C'è qualcosa in arrivo!
 Premi in giù
 Al Prato di selezione
-Vuoi tornare al Prato di selezione?
-*Perderai le rose che hai raccolto.
+Vuoi tornare al Prato di selezione? *Perderai le rose che hai raccolto.
 Riprova
 Classifica rotolo
 Oggetti raccolti
@@ -437,8 +404,7 @@ Seppia
 Bianco e nero
 Sfocato
 Eterno
-We Love Katamari REROLL+ Royal Reverie
-Riconoscimenti
+We Love Katamari REROLL+ Royal Reverie Riconoscimenti
 Ci vediamo domani.
 CONFIGURAZIONE COMANDI
 Giocatore
@@ -464,8 +430,7 @@ Alterna su e giù
 Mostra stella cometa:
 Comandi di movimento
 Assegnazione tasti di gioco
-Il tasto è già stato assegnato. 
-
+Il tasto è già stato assegnato.  
 Modificare l'assegnazione?
 Dati di gioco
 Dati di sistema
@@ -473,25 +438,19 @@ Accetto
 Rifiuto
 Ricollega controller
 Tastiera
-Quando usi i Joy-Con, segui
-le direzioni e usa l'attacco per il laccetto.
+Quando usi i Joy-Con, segui le direzioni e usa l'attacco per il laccetto.
 Tienili in mano e non farli cadere.
-Assicurati di avere abbastanza spazio attorno a te e che
-non ci siano oggetti vicini.
+Assicurati di avere abbastanza spazio attorno a te e che non ci siano oggetti vicini.
 Puoi usare i controlli di movimento quando scolleghi i due Joy-Con dalla console.
-Attenzione: se selezioni "controlli di movimento" ma giochi con i Joy-Con collegati alla
-
+Attenzione: se selezioni "controlli di movimento" ma giochi con i Joy-Con collegati alla 
 console o con il Pro Controller, tornerai a usare lo schema dei comandi normali.
-Impossibile caricare i dati. I dati sono
-danneggiati e sono stati ripristinati.
+Impossibile caricare i dati. I dati sono danneggiati e sono stati ripristinati.
 Continua
 Seleziona
 Dati danneggiati
-Impossibile caricare i dati. Il salvataggio è
-
+Impossibile caricare i dati. Il salvataggio è 
 danneggiato e sarà ripristinato.
-Accesso modificato.
-
+Accesso modificato. 
 Tornerai alla schermata principale.
 INIZIA PARTITA
 SELEZIONA PROFILO
@@ -576,10 +535,8 @@ Mr. Driller
 Sottofondo preferito
 Preferito
 Lista sottofondi
-Puoi scegliere fino a dieci canzoni preferite.
-Cancellane una prima di registrarne un'altra.
-Carica {0}.
-Va bene?
+Puoi scegliere fino a dieci canzoni preferite. Cancellane una prima di registrarne un'altra.
+Carica {0}. Va bene?
 Aspetto
 Meraviglioso
 Solita roba
@@ -599,72 +556,49 @@ Fase (5/5) Arrotolare {0}
 Salvataggio automatico
 Al Prato di selezione
 Superstrada
-Imposta il tuo sottofondo
-preferito.
-Guarda gli adesivi
-che hai fotografato.
-Usa i regali
-che hai ricevuto.
-Guarda le cose
-che hai arrotolato.
-Guarda la tua classifica
-di battaglia.
+Imposta il tuo sottofondo preferito.
+Guarda gli adesivi che hai fotografato.
+Usa i regali che hai ricevuto.
+Guarda le cose che hai arrotolato.
+Guarda la tua classifica di battaglia.
 Salva e carica dati.
-Cambia l'ambientazione
-di gioco.
-Esci dal gioco e torna
-alla schermata di caricamento.
+Cambia l'ambientazione di gioco.
+Esci dal gioco e torna alla schermata di caricamento.
 Fuga
 Vai al Sogno Regale?
 Vai al Prato di selezione?
-Sembra che i fan nella Piazza di selezione
-vogliano chiedere qualcosa al Principe.
+Sembra che i fan nella Piazza di selezione vogliano chiedere qualcosa al Principe.
 Parla con loro.
-Quando arrivano nuovi fan, apparirà
-un'icona in basso.
+Quando arrivano nuovi fan, apparirà un'icona in basso.
 Realizza i loro sogni.
-Se ricevi una fotocamera come regalo,
-puoi scattare foto con
+Se ricevi una fotocamera come regalo, puoi scattare foto con
 Fotocamera principe in Vista Principe.
-Scatta una foto a qualsiasi adesivo
-che trovi con la fotocamera.
+Scatta una foto a qualsiasi adesivo che trovi con la fotocamera.
 Raccogline parecchi per ottenere una cornice.
-Puoi scattarti un selfie usando
-"Selfie" da Fotocamera principe.
-Il numero di canzoni che puoi impostare come
-musica di sottofondo
+Puoi scattarti un selfie usando "Selfie" da Fotocamera principe.
+Il numero di canzoni che puoi impostare come musica di sottofondo
 aumentano a mano a mano che giochi.
 Usa <sprite name="Y"> per impostare la tua canzone preferita.
-Registra le tue canzoni preferite.
-Dopo aver registrato più di 2 canzoni,
+Registra le tue canzoni preferite. Dopo aver registrato più di 2 canzoni,
 puoi impostare una preferita in Seleziona sottofondo.
-Il cosmo risplende tra stelle e polvere cosmica
-grazie a Katamari. Arrotola tanti Katamari
+Il cosmo risplende tra stelle e polvere cosmica grazie a Katamari. Arrotola tanti Katamari
 e crea il tuo cosmo personale.
-Puoi visualizzare lo storico di vittorie e sconfitte per tutti
-i personaggi in CLASSIFICHE VS.
+Puoi visualizzare lo storico di vittorie e sconfitte per tutti i personaggi in CLASSIFICHE VS.
 Prova a combattere usando diversi personaggi.
-Gustati i ricordi del Re.
-Otterrai accesso ad altri ricordi
+Gustati i ricordi del Re. Otterrai accesso ad altri ricordi
 realizzando i desideri dei fan nel Prato di selezione.
-Puoi ottenere oggetti per il principe se arrotoli
-i regali nascosti nei livelli.
+Puoi ottenere oggetti per il principe se arrotoli i regali nascosti nei livelli.
 Tieni gli occhi aperti per trovarne quando rotoli.
-Le cose che arrotoli nel Katamari verranno
-registrate. Arrotola un sacco di cose e
+Le cose che arrotoli nel Katamari verranno registrate. Arrotola un sacco di cose e
 aggiungi tutto alla tua collezione.
-Nel Memorial Katamari
-puoi guardare filmati e ascoltare musica.
-La modalità Battaglia è stata sbloccata.
-Parla con i personaggi 1P
+Nel Memorial Katamari puoi guardare filmati e ascoltare musica.
+La modalità Battaglia è stata sbloccata. Parla con i personaggi 1P
 e 2P contemporaneamente.
 Nuova registrazione
 ???
 Visualizza i consigli di gioco.
-Trovato un salvataggio per PlayStation®4.
-Vuoi importare questo salvataggio?
-Il salvataggio per PlayStation®4 non verrà importato.
-Continuare?
+Trovato un salvataggio per PlayStation®4. Vuoi importare questo salvataggio?
+Il salvataggio per PlayStation®4 non verrà importato. Continuare?
 Esplora
 Uscire dal gioco?
 <sprite name="B"> Esci dal gioco
@@ -698,14 +632,10 @@ EULA
 Informativa sulla privacy
 Impostazioni analisi
 Capitolo 11
-Imposta il
-controller 1G.
-Imposta il
-controller 2G.
-Puoi usare i controlli di movimento quando scolleghi i
-due Joy-Con dalla console.
-Attenzione: se selezioni "controlli di movimento" ma
-giochi con i Joy-Con collegati alla console o
+Imposta il controller 1G.
+Imposta il controller 2G.
+Puoi usare i controlli di movimento quando scolleghi i due Joy-Con dalla console.
+Attenzione: se selezioni "controlli di movimento" ma giochi con i Joy-Con collegati alla console o
 con il Pro Controller, tornerai a usare lo schema dei comandi normali.
 *Questo prodotto è basato sul software multi-piattaforma "We Love Katamari", pubblicato nel 2005. Potrebbero esserci differenze.
 Salvare modifiche?

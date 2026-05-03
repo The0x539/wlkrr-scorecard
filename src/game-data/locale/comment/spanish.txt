@@ -6,7 +6,7 @@ Tu voz se oirá muy fuerte, pero también se oirá muy rara.
 ¡Y si le das la vuelta, todavía sigue haciendo ruido!
 Sirve para pelar la fruta... Pero hay fruta que está mejor con la piel.
 Un buen sitio para refrescarse las ideas.
-Aquí sirven mazorcas a la barbacoa. 
+Aquí sirven mazorcas a la barbacoa.
 Manzanas de caramelo... Qué ricas, ¡pero qué pegajosas!
 Ropa para los pies. Si los llevas mucho tiempo, huelen fatal.
 Ropa para los pies. El último grito son los calcetines con dedos.
@@ -26,14 +26,14 @@ Este libro está lleno de nombres, pero no tiene fotos ni dibujos...
 ¿Seguro que quieres ponerla dentro del tarro de las galletas?
 Es un corte cuando recibes una de alguien a quien no le has mandado ninguna.
 Sirve para no poner perdida de barro la casa y no se queja cuando lo pisan.
-Te puedes construir una pared estupenda, hasta que alguien llegue y haga un agujero. 
+Te puedes construir una pared estupenda, hasta que alguien llegue y haga un agujero.
 El sitio ideal para contarle dulzuras al oído a tu cariñito y echar miguitas a los pájaros.
 ¿Por qué será que la gente siempre parece distinta al salir de aquí?
 Asusta al polvo y lo mueve de sitio. Va mejor combinada con un recogedor.
 Sirve para lo mismo que el otro recogedor, pero este es más de lujo.
 Una caja de sorpresas, que esperemos sean buenas.
 Sirve para quitar las arrugas de la ropa. ¡No la confundas con el teléfono, que quema!
-A ver si hay suerte y salen tus números... 
+A ver si hay suerte y salen tus números...
 Al reciclarlos se reencarnan en libros o en papel higiénico.
 Una bolsa llena de cosas que no necesitas.
 Si te comes la comida del perro, luego no te quejes si te roba el bocadillo.
@@ -155,7 +155,7 @@ Este vehículo es lentísimo; mejor para la gente sin prisas.
 Flotante sobre el agua, ojo: no vayas a creer que la casa vuela.
 El takoyaki son bolitas de pulpo; el plato tiene agujeros para que no rueden por ahí.
 Sirve para guardar bebidas, pero deberían revisar el diseño, la verdad.
-Una caseta pequeña llena de trastos. A veces, los niños juegan aquí. 
+Una caseta pequeña llena de trastos. A veces, los niños juegan aquí.
 Te pasearán por el puerto, pero por más que insistas no te prestarán a un remero.
 Resulta muy práctica, pero cuidado con quemarte los deditos.
 Las señoras mayores tienen las piernas de ese mismo color blanco.
@@ -167,7 +167,7 @@ Sirve para atraer a los peces con engaños. ¡Pobrecitos pececitos!
 Emite ondas, pero nunca hemos visto ninguna.
 Si no lo hubiera, la gente se tropezaría todo el rato con las alcantarillas.
 Sirve para que la gente no se caiga por la alcantarilla.
-Se puede ver a través de los agujeros. ¿Qué habrá al otro lado? 
+Se puede ver a través de los agujeros. ¿Qué habrá al otro lado?
 Va bien para viajar por el mar. Mejor con motor, que remar es muy cansado.
 Está lleno de gas, pero como el gas es invisible, podría estar vacío.
 Sirve para desmenuzar cosas de comer que se ponen en otras cosas de comer.
@@ -203,7 +203,7 @@ Aquí vienes a cortarte el pelo; la navaja hace cosquillas en el cogote.
 Edificio lleno de todo tipo de cosas, en su mayor parte trastos.
 No está muy buena cruda, pero hervida está rica.
 Es prima de la otra calabaza. Aunque sea amarilla, no la confundas con un plátano.
-En esta casita viven felices frutas, verduras y otras plantas. 
+En esta casita viven felices frutas, verduras y otras plantas.
 Cuando se monta, todo el mundo se reúne para ver el espectáculo.
 La estructura parece endeble... Se la llevará el primer golpe de viento.
 En el fondo es una mesa normal, pero con mantel de lujo.
@@ -236,7 +236,7 @@ Es como tener una alfombra de flores en medio del jardín.
 Es bueno poner rincones verdes en la ciudad para limpiar el aire y calmar los ánimos.
 A veces contiene regalos estupendos y a veces cosas que preferirías no ver.
 Ahora mismo está todo verde, pero a ver de qué color se ponen los brotes.
-Si pones una carta aquí, aparecerá misteriosamente en la dirección que has escrito en el sobre. 
+Si pones una carta aquí, aparecerá misteriosamente en la dirección que has escrito en el sobre.
 Unas florecitas estupendas para llevárselas a casa, pero son más felices en la tierra.
 Si aparcas el coche por aquí, se lo llevarán. Luego no te quejes.
 Ilumina los caminos de noche y a los insectos les encanta volar a su alrededor.
@@ -245,7 +245,7 @@ En este sitio duermen los coches, aunque no tienen derecho a desayuno.
 Se pasa la vida en barcos y aviones, pero siempre viaja sola.
 Vende aparatos que hacen ruidos a gente que sabe hacerlos sonar bien.
 Sirve para que sepas cómo se llama la tienda de música.
-Tiene todo tipo de material escolar, pero no vende las respuestas a los exámenes. 
+Tiene todo tipo de material escolar, pero no vende las respuestas a los exámenes.
 Tiene escrito el nombre del dueño.
 Desde aquí puedes llamar a gente. También te pueden llamar a ti, pero eso ya es más raro.
 ¡Es pequeñito, pero mira qué vistas y además está tan bien situado...!
@@ -348,7 +348,7 @@ Parece sólida; si quieres subirte encima y cantar, allá tú.
 Las hormigas y los osos preparan su estrategia cuando ven llegar a alguien con una.
 ¡Cuidado de no estar detrás cuando lo toquen!
 Si te metes aquí, prepárate para luchar.
-Es de lo más valiente: por mucho que lo tire la bola, siempre vuelve a ponerse en pie. 
+Es de lo más valiente: por mucho que lo tire la bola, siempre vuelve a ponerse en pie.
 Está en honor al rey de la selva. A veces escupe chorrillos de agua.
 El contenido te puede costar varios meses de salario...
 Por mucho cariño que le cojas, en primavera tendrás que decirle adiós.
@@ -441,7 +441,7 @@ Esta pieza puede moverse en horizontal y en vertical. También hay que vigilarla
 Se mueve en diagonal. Es rival de Hisha, pero juntas son invencibles.
 Tiene un nombre muy sonoro, pero es una pieza como todas las demás.
 Esta es la pieza central del juego, aunque solo puede moverse una casilla cada vez.
-Dicen que tiene algo que ver con caballos, pero parece una pieza ordinaria. 
+Dicen que tiene algo que ver con caballos, pero parece una pieza ordinaria.
 Esta pieza siempre va hacia delante. La vida sigue...
 Esta pieza, como el peón, se mueve pasito a pasito pero puede llegar lejos.
 Mochila resistente para infantes. No hay que llevarla pasados los 15 años.
@@ -458,7 +458,7 @@ Pobre, los golpes que se lleva cada mañana... Tan solo hace su trabajo.
 Si ves entrar a alguien con una media o máscara de esquí en la cabeza, mejor lo dejas para luego.
 Aunque es un modelo antiguo, da gusto juguetear con el cable en espiral.
 ¿Cuántas veces te hemos dicho que la mantequilla se pone cuando el pan ya está tostado?
-Se parece a un móvil, pero puedes hablar con bastante menos gente. 
+Se parece a un móvil, pero puedes hablar con bastante menos gente.
 A veces se incendia mientras fríes, así que no pongas la cara encima.
 Aquí viven las vacas en alegre compañía.
 Sirve para que las vacas y los caballos no escapen; los humanos la saltan sin problema.
@@ -480,7 +480,7 @@ Será mejor que no te pille cerca cuando se enfade.
 Criatura sin mucho interés; siempre está como aplatanada.
 ¿A la izquierda? ¿A la derecha? Ay, cuánto le cuesta tomar decisiones...
 Esta criaturita está muy, muy dura. Será por las horas de gimnasio.
-No le des la mano por mucho que te dé la patita; nunca se sabe... 
+No le des la mano por mucho que te dé la patita; nunca se sabe...
 Dice que es un cangrejo, pero mucha pinta de cangrejo no tiene...
 Cautiva a la gente con sus largas piernas, pero lo interesante es lo que lleva dentro.
 Creía que en el mar azul se le vería menos, pero cuando hay hambre...
@@ -499,7 +499,7 @@ Cuando grazna, da la impresión de que se está riendo de ti.
 Este pajarito nos despierta con sus trinos mañaneros. No le gustan los espantapájaros.
 
 Es linda y fresca cual flor de primavera. O algo así.
-Lleva gafas solo para lucir sofisticada y elegante. 
+Lleva gafas solo para lucir sofisticada y elegante.
 Lleva diez años esperando a su príncipe azul. Ahí es nada.
 ¿Un perro que lleva ropa? Lo habrá aprendido en la tele...
 Ha sacado al dueño a dar su paseo vespertino.
@@ -507,7 +507,7 @@ No hay que tenerles miedo; en el fondo son buena gente..., perdón, buenos canes
 Es mejor tener un gato de yeso; ¡al menos no robará las gambas del aperitivo!
 Se comenta que son primos lejanos del tigre, pero nunca se han visto las reuniones de familia.
 Sí, muy elegante y señorial... ¡pero también roba las gambas del aperitivo!
-¿Mala suerte? ¿Brujería? ¡Un ladrón de gambas, eso es lo que es! 
+¿Mala suerte? ¿Brujería? ¡Un ladrón de gambas, eso es lo que es!
 Con lo pequeños que son, y hay que ver el miedo que les tiene alguna gente.
 Aunque siempre han tenido mala fama, algunas son excelentes mascotas.
 No lleva la casa incorporada como el caracol, pero sí lleva la ducha puesta.
@@ -552,7 +552,7 @@ No sabemos si el chico es capaz de caminar; nadie le ha visto bajarse de su tabl
 Lleva esos zapatos especiales con ruedas porque siempre va con prisas.
 Es extremadamente sensible y muy cariñoso. Le gusta abrazar la gente recién conocida, pero no pasa nada, les cae bien a todos.
 Al parecer, creía que en Japón todo el mundo lleva el pelo al estilo samurái.
-Se pasa el día salteando takoyaki. Parece fácil, pero tiene su técnica. 
+Se pasa el día salteando takoyaki. Parece fácil, pero tiene su técnica.
 Pese a su edad, tiene una audición perfecta: solo oye lo que quiere oír.
 Es tan sensible que le pone nombre a cada hortaliza que cultiva.
 Siempre vuelve de pescar con historias de peces descomunales, pero nunca trae ninguno como prueba.
@@ -565,7 +565,7 @@ El hijo mayor de los Hoshino. Detesta hacer los deberes y está impaciente por c
 Después de tomar baño le gusta andar envuelto en una toalla y beber mucha leche para refrescarse.
 No, no es un monstruo con dos cabezas; quizás necesites gafas...
 El de debajo de todo es el que ha sacado la pajita más corta.
-Esto ya es pasarse; ¿será para ahorrar espacio en el suelo? 
+Esto ya es pasarse; ¿será para ahorrar espacio en el suelo?
 Ha estado esperando el año entero para irse a la playa de nuevo.
 Ha venido a la playa buscando la magia del verano de la que hablan las canciones.
 Flotar a la deriva en el agua... He aquí alguien a quien no le gustan las ataduras.
@@ -658,7 +658,7 @@ El mando a distancia para esta tele tiene que ser grande como una mesa, por lo m
 Esta tienda parece un cuento de hadas con tantas flores, pero no hay princesitas.
 Ya sabemos lo de "díselo con flores", pero ¿seguro que un ramo de cactus es buena idea?
 Igual que las mariposas anuncian la primavera, estos anuncian un festival.
-Esta tienda vende zapatos, pero no te comprará las botas viejas que pescas. 
+Esta tienda vende zapatos, pero no te comprará las botas viejas que pescas.
 ¿De verdad la gente de tiempos antiguos tenía este aspecto?
 En esta caja viajan las verduras; en el lateral pone el sitio en el que nacieron.
 Además de fruta, esta caja puede contener muchas otras cosas; eso es el pluriempleo.
@@ -705,7 +705,7 @@ Pequeñitas, dulces y deliciosas, pero nos gustaría una variedad sin semillas d
 Por mucho que tome el sol, esta uvita dulce nunca se pone oscura.
 Aunque creas que aquí trabajas más que nunca, ya verás cuando termines.
 Si no entiendes las conversaciones de la cafetería, no te preocupes; le pasa a casi todo el mundo.
-Una prenda tradicional y muy práctica, salvo para ir a esquiar o escalar. 
+Una prenda tradicional y muy práctica, salvo para ir a esquiar o escalar.
 Cuando empieza el partido los espectadores se olvidan de él y solo miran hacia abajo.
 Siempre está mirando al sol, pero no le salen pecas.
 Aunque gire y gire al viento, no te hipnotizarás por mucho que lo mires.
@@ -716,7 +716,7 @@ Pese a estar en el mejor sitio, nunca consigue ver el despegue por culpa del hum
 Aunque tiene fuerza para levantar cualquier cosa, no le dejan participar en las Olimpiadas.
 Este rótulo avisa de que caen cosas. Si lo saben, ¿por qué no las atan para que no se caigan?
 Aunque te guste tomar tus propias decisiones, no es buena idea ir en sentido contrario.
-Es tan grande que la gente se pierde dentro y hay que enviar rescatadores. 
+Es tan grande que la gente se pierde dentro y hay que enviar rescatadores.
 O es tímido o alérgico al sol; si no, no se entiende que nunca suba a la superficie.
 Hace que el agua fría se vuelva caliente. No, no te puedes bañar.
 Dicen que esta isla se hunde en el mar poco a poco; los peces tendrán otro sitio en el que vivir.
@@ -844,7 +844,7 @@ Sirve para pintar y para hacer cosquillas a la gente (esto, mejor sin pintura).
 Para tomar bebidas calientes; acuérdate de cogerla por el asa o te quemarás igual.
 Sabe muy bien, pero preferimos no saber cómo se fabrican ni con qué.
 Por desgracia, solo controla el juguete; no puedes dominar la mente de los otros.
-A la hija le encanta el dibujo del bol, pero no le parece que mejore el sabor de la comida. 
+A la hija le encanta el dibujo del bol, pero no le parece que mejore el sabor de la comida.
 Venden coches, pero se les han acabado los coches de choque.
 Está muy bien para protegerte de las lluvias, salvo si es una tormenta eléctrica.
 Está hecho de hojas, pero es mejor no hacer infusiones con las hojas de los árboles del parque.
@@ -949,7 +949,7 @@ Parece un pepino que ha tenido un accidente...
 ¿Es una verdura o una fruta? El debate está abierto, señores.
 Hay quien dice que le repite; será que no tiene mucha imaginación...
 Cuando oyes ruidos de cortar, sabes que la cena estará lista pronto.
-Este chico siempre está corriendo de un lado para otro, buscando problemas o huyendo de ellos. 
+Este chico siempre está corriendo de un lado para otro, buscando problemas o huyendo de ellos.
 Tienen la fea costumbre de pincharse en el momento menos oportuno. Hay que ver.
 Sí, es una sensación estupenda estar aquí y sentir la adoración del público. Disfruta.
 Es un rollo que el queso se estire y se estire; ¿cómo se hace para comerla?
@@ -973,7 +973,7 @@ Venden paraguas y parasoles, pero no saben nada de paravientos. Ja, ja.
 Como todos los rótulos, sirve para que sepas dónde ir para comprar un paraguas.
 Regálale uno a tu mamá para darle las gracias por ocuparse de todo; verás qué contenta se pone.
 Acuérdate de ponerlo en agua en seguida; las flores no tienen nada de paciencia.
-Parece que tenga flores enormes, pero en realidad son muchas flores pequeñas juntas. 
+Parece que tenga flores enormes, pero en realidad son muchas flores pequeñas juntas.
 Si pones las semillas en la tierra y riegas, al cabo de un tiempo tendrás tus propias flores.
 Acuérdate de ponerlo al sol; a las flores les gusta el calorcito...
 Dale agua regularmente y verás qué jardín en miniatura tendrás.
@@ -996,11 +996,11 @@ Es tan grande que se pueden tallar figuritas en ella; por desgracia, este arte e
 Suelen venir de dos en dos pero si te las pones en las orejas se calentarán.
 Hay quien se dedica a hacer un nudo en el rabito con la lengua, pero eso es raro.
 Esta fruta peculiar lleva las semillas por fuera, pero no hace falta quitarlas. Ni escupirlas, hombre.
-Con una sola ya has comido el postre. 
+Con una sola ya has comido el postre.
 Parece que la fruta sabe mejor si la coges de un cesto; no sabemos por qué.
 Culitos de bebé juntos en una cestita. Oooh...
 No son como las uvas; aunque pises las naranjas, no conseguirás mucho zumo.
-Para hacer compañía a la talla del oso con pez. 
+Para hacer compañía a la talla del oso con pez.
 Mucho más higiénico que comerse las uñas, sobre todo las de los pies.
 
 Las hay de muchas formas, pero todas saben más o menos igual.
@@ -1045,7 +1045,7 @@ Vive por y para el mar, respira mar, bebe mar. Bueno, bebe cerveza, pero ya sabe
 Un sombrero para niños; si un adulto se lo pone, los demás le miran raro.
 Ideal para iniciarse en la escultura; deja volar la imaginación.
 Para niños pequeños que aprenden a escribir. A tu edad ya no necesitas esto.
-Para no llenar el cole con el barro y el polvo pegado a tus zapatos. 
+Para no llenar el cole con el barro y el polvo pegado a tus zapatos.
 La bolsa de la merienda. Qué recuerdos...
 No se te ocurra ponértelo entre los dedos; se quedarán pegados y habrá que cortar...
 Una pasta con forma de media luna. Si te lo comes, es como un eclipse.
@@ -1073,8 +1073,7 @@ Sirve para escribir y firmar cosas; no la uses para el disfraz de indio, es otro
 Sirve para la caligrafía con tinta, pero mi abuela lo usa para limpiar sus joyas.
 Sirve para beber cosas sin quemarte la mano. Una idea muy considerada.
 Tiene una campanita que canta cada vez que ponen dinero dentro. El cajón sale con fuerza, ten cuidado.
-Son muy prácticos, pero tienen la fea
-costumbre de caerse.
+Son muy prácticos, pero tienen la fea costumbre de caerse.
 Siempre está de mal humor; necesita una semanita en un balneario.
 Tiene tal cara de pena que te dan ganas de llorar solo de verla. Es inmune a los chistes.
 Llueva o haga sol, siempre tiene una sonrisa en la cara. Así da gusto.
@@ -1106,7 +1105,7 @@ Hay quien aprovecha los postes de teléfonos para poner anuncios, pero mucha gen
 Sirve para que el poste se mantenga en su sitio. Como no tiene brazos para equilibrarse...
 Debe de ser un código secreto, porque muchos conductores no parecen entenderlo.
 No nos gusta que nos den órdenes así, pero en este caso es mejor obedecer.
-Está dispuesto a sacrificar su propia vida por salvar a los coches. Qué héroe. 
+Está dispuesto a sacrificar su propia vida por salvar a los coches. Qué héroe.
 A veces la valla está electrificada, por si alguien se olvida de leer el rótulo.
 
 Parece una especie de cirugía plástica a bajo costo, pero es un poco patético cuando se ve desde atrás.
@@ -1155,7 +1154,7 @@ Sirve para fabricar hielo, pero antes hay que darle de beber mucho agua.
 Sirve para iluminar el camino. En días soleados es completamente inútil.
 Será mejor que uses esto para dar la vuelta a la comida; tus dedos ya se han chamuscado bastante.
 Antes era un arma letal, pero ahora solo se usa como deporte.
-Consigue que la suciedad se vaya de los sitios. Sí, sí, incluso detrás de las orejas. 
+Consigue que la suciedad se vaya de los sitios. Sí, sí, incluso detrás de las orejas.
 Es la casa en la que viven los juguetes. Sospechamos que organizan fiestas nocturnas.
 Si eres tan alto que lo tocas con las manos, llegarás a ser una gran estrella.
 Se usa para fregar los platos. No te lo recomendamos para bañarte, por mucha mugre que lleves encima.
@@ -1168,7 +1167,7 @@ Ahora lo fabrican sin los bordes para ahorrar a la gente el trabajo de cortarlos
 Hay algunos modelos que no parecen diseñados para el pie humano...
 Dicen que está lleno de aire caliente. Como el cerebro de algunos políticos...
 Un katamari gigante de cosas triangulares se hundió. No queremos tocarlo, nos da asquito.
-Otro contenedor para guardar todo tipo de cosas. 
+Otro contenedor para guardar todo tipo de cosas.
 Tiene un sonido muy musical, pero cansa si la escuchas todo el tiempo.
 Se necesita talento para tocarlas sin pillarse los dedos. Paciencia...
 Ella flota tan tranquila en el mar y eres tú quien se pega el susto. Pues vaya.
@@ -1181,14 +1180,14 @@ Es como una caja metálica pero de tamaño casa. Siempre viaja a lugares lejanos
 Aunque sea más grande que tu apartamento, no es buena idea irse a vivir allí.
 Parece un vagón de tren, pero sin ruedas ni ventanillas. O sea, no se parece a un vagón para nada.
 Aquí la gente grita bastante, pero no es porque estén enfadados. Aturde un poco, pero es divertido mirar.
-El medio de transporte ideal si te gusta ir mirando el paisaje. 
+El medio de transporte ideal si te gusta ir mirando el paisaje.
 Antes se usaba para el transporte de personas. Ahora también, pero es más cómodo.
 A medida que se quema el carbón, el tren pesa menos y por eso va más rápido.
 Es más lento que el AVE, pero más rápido que un tren normal. Si no se avería, claro.
 Lleva camas incorporadas, pero no es recomendable pasar más de una noche así.
 Aquí viajan las maletas y bultos y el héroe lucha contra el malo malísimo.
 Contiene la comida del día. ¿Qué sorpresa nos espera hoy? Mmm...
-Un tentempié muy japonés, aunque algo dulzón para nuestro gusto. Mejora con ketchup. 
+Un tentempié muy japonés, aunque algo dulzón para nuestro gusto. Mejora con ketchup.
 Desde aquí fuera ni vemos las ondas ni oímos la retransmisión. Pues vaya...
 Una muñequita tradicional encantadora. Con esos ojitos, no sabemos si ve gran cosa.
 El jefe de las muñecas kokeshi. Parece gruñón, pero en el fondo es un tierno.
@@ -1220,7 +1219,7 @@ Ducha para las flores, que se emocionan porque haya un elefante en el lugar. ¡Q
 Antes se utilizaban estos cucharones de madera para beber agua del pozo.
 Sirve para proteger las flores, pero no sería muy efectivo en caso de ataque real...
 Sabemos que en alguna parte hay un jardín que solo contiene estas flores.
-A lo mejor es blanca porque es la más anciana de todas. 
+A lo mejor es blanca porque es la más anciana de todas.
 ¿Quién iba a decir que saldría una flor tan hermosa de un brote tan feo?
 Esta debe de ser la nieta de la flor blanca, por eso tiene ese cutis.
 Especial para colocar los pastelillos de arroz del día de Año Nuevo.
@@ -1256,11 +1255,11 @@ Siempre decide florecer el día que tú no miras.
 Parece una trompetita, pero por más que soples, no hará música.
 Hay quien las prensa entre las páginas de un libro, pero es más hermoso verlas en todo su esplendor.
 Hay algunos que se comen cuando ya están todos mohosos. Para gustos...
-Una caja llena de sano y refrescante jugo de fruta. 
+Una caja llena de sano y refrescante jugo de fruta.
 Sirve para guardar bolígrafos, tijeras y esas cosas. La goma de borrar y los clips siempre, siempre están al fondo.
 Dicen que son muy laboriosas porque siempre están de acá para allá, pero más bien parece que no saben dónde van.
 Dulce, amargo, negro, blanco, con fruta, con nueces, con... ¿Qué otra comida ofrece tanta variedad?
-Aquí se reúne la comida para charlar antes de ser enviada a los mercados, tiendas y restaurantes. 
+Aquí se reúne la comida para charlar antes de ser enviada a los mercados, tiendas y restaurantes.
 Se supone que está electrificada, pero vimos un pollo andando en ella y no se convirtió en pollo frito.
 La luz que guía a los marineros para que sepan que hay alguien en casa.
 La bombilla tiene que ser enorme y, la factura de la electricidad, aún más.
@@ -1474,7 +1473,7 @@ Tiene agujeros, así que no guardes nada que sea muy secreto.
 Es muy sólida, pero demasiado baja para hacer de mesa o de silla.
 Se pronuncia "na", como su nombre indica.
 Una letra puede representar muchas emociones dependiendo de la pronunciación.
-O sea, medio coco. Ja, ja. 
+O sea, medio coco. Ja, ja.
 A pesar de su pequeño tamaño, tiene una altura moral considerable.
 El otro día se quemó en la playa; lo sabemos porque le gusta andar desnudo.
 Engorda con solo pensar en comida; el pobre tiene un problema.
@@ -1697,7 +1696,7 @@ Tiene tiendas que parecen puestos de festival todos los días del año.
 Somos lo mejor. Nuestro tamaño depende de nuestro humor y de la presión atmosférica.
 Incluso nos inclinamos la cabeza en su augusta presencia. No hay más que decir.
 Este primo segundo rompe todo lo que toca, incluso su propia persona. Lástima porque es majo.
-Es tan tímido que se sonroja si su madre le dice que le pase la sal. 
+Es tan tímido que se sonroja si su madre le dice que le pase la sal.
 Las manos no le llegan a la cara; no sabemos cómo lo hace para comer.
 Es vegetariano, pero de vez en cuando le da por comerse una costillada.
 Este primo levanta mucho polvo al moverse, así que, por cortesía, no se mueve mucho.
@@ -1710,7 +1709,7 @@ No sabemos dónde tiene el cuello. Siempre tiene problemas para ponerse la bufan
 Demuestra su enfado tan enérgicamente que hace saltar chispas. Qué miedo.
 Puede hacerse un largo de 100 metros sin sacar la cabeza para respirar.
 Es tan ligero que flota cuando hace viento. No se suele percibir su presencia.
-Es el mejor cocinero que conocemos; sus festines son legendarios. 
+Es el mejor cocinero que conocemos; sus festines son legendarios.
 Ni siquiera él mismo sabe cuál es su cara verdadera. Le gusta confundir a la gente.
 Aquí vive la ropa sucia. A algunos gatos les encanta dormir en ella.
 Empieza a temblar como loca cada vez que llevas botellas o vasos largos en ella.
@@ -1815,8 +1814,8 @@ Este aparato en concreto empieza a sentir el peso de los años.
 Los profesores lo usan para medir ángulos, pero es demasiado grande para usar en un examen.
 Un triángulo enorme. Eso sí que es dedicación al trabajo.
 Puede trazar círculos muy grandes, pero no hay ninguno lo bastante grande para trazar la Tierra.
-Se puede beber en él, pero no lo recomendamos. 
-Es de juguete, no te servirá para clavar nada en ninguna parte. 
+Se puede beber en él, pero no lo recomendamos.
+Es de juguete, no te servirá para clavar nada en ninguna parte.
 Parece de lo más apetitoso; será por los colorines.
 Para toda la familia; no os vayáis a pelear por las salsas.
 Esta comida se hace poniendo cosas de comer entre rebanadas de pan. Fácil, ¿eh?
@@ -1866,7 +1865,7 @@ Ponte algunas en el bolsillo y ya verás cómo atraes a las ardillas.
 Se dice que encontrar uno de 4 hojas trae buena suerte. Aún estamos buscando...
 No le acabamos de ver la gracia a romper una imagen en trocitos para luego volverla a componer.
 Al parecer, a las ardillas les encanta. Las muy tragonas se las guardan en las mejillas.
-Hay quien las arranca con los dientes; nos parece una soberana tontería. 
+Hay quien las arranca con los dientes; nos parece una soberana tontería.
 ¿Quitarán el sueño igual si se mastican?
 Utensilio para abrir puertas, aunque hay quien se las apaña con un clip de papel.
 Si te empeñas en tenerlo apretado, no conseguirás arrancar.
@@ -1909,14 +1908,14 @@ No le vemos la gracia a arrancar árboles sanos para cortarlos y volverlos a cla
 Nadie se pelea en el perímetro de esta valla. Y si lo hacen, parece que estén jugando.
 Un apoyo sólido para perder el miedo al vacío.
 Cruza el dintel y llegarás a un mundo salvaje. No te equivoques de camino...
-Aquí puedes trabar amistad con animalitos, aunque no irán a merendar a tu casa. 
+Aquí puedes trabar amistad con animalitos, aunque no irán a merendar a tu casa.
 Creíamos que esta puerta llevaba a la aventura, pero todo está señalizado.
 Eso significa este rótulo. Pero no sabemos de quién es la madre.
 Si supieras japonés, lo escribirías así.
 Otro rótulo para que sepas dónde vas, si es que sabes leer japonés.
 Este símbolo significa "moverse".
 Este kanji significa "cosa". Si lo pones junto al anterior, significa "animal".
-Este kanji significa "parque". ¡Ya lo tienes! Todos estos kanji juntos significan "zoo". 
+Este kanji significa "parque". ¡Ya lo tienes! Todos estos kanji juntos significan "zoo".
 Es tan bonita que nadie se da cuenta de que no tiene patas.
 Puedes moverle las alas con las manos, pero no volará.
 Más que pajarita de papel, debería llamarse lorito de papel.
@@ -2010,7 +2009,7 @@ Sirve para que la ropa no salga volando cuando se tiende a secar. Qué represora
 El "ping" que hace te anuncia que la comida está lista.
 Cuando crece y se pone más duro solo es apto para pandas.
 Un cuento japonés dice que una princesa nació de un brote de bambú, pero no hemos encontrado ninguna en el plato.
-Usarla como remo resulta muy cansado; mejor aprovéchala como abanico. 
+Usarla como remo resulta muy cansado; mejor aprovéchala como abanico.
 Para jugar bien al tenis, hay que gruñir y gritar cada vez que golpeas la pelota.
 Soporta los golpes que recibe con dignidad y sin dar ni un grito.
 Muy vistosa para el combate, pero muy poco práctica para cortar tomates.
@@ -2146,7 +2145,7 @@ Su efecto secundario es provocar gran cansancio, así que procura no sentarte mu
 Soporte del alimento para los cerebros estudiantes; aunque no te guste, nunca te dejas nada.
 Sirve para sujetar las puertas que, de lo contrario, tendrían que flotar.
 Las puertas sin cerrojo que se abren mientras estás dentro suelen causar pánico.
-Aquí aparecen las metas a alcanzar. Seguro que lo conseguirán si trabajan unidos. 
+Aquí aparecen las metas a alcanzar. Seguro que lo conseguirán si trabajan unidos.
 Al parecer, el hecho de encontrar un objetivo ya es un objetivo en sí mismo.
 Está lleno de kanji. No comprendemos cómo puede haber gente que los recuerde todos.
 La mayor parte de la gente se avergüenza de su peinado de la época cuando mira estos libros.
@@ -2169,7 +2168,7 @@ Los personajes que aparecen en las ilustraciones ya tienen bigote y barba, no se
 Aunque te guste mucho borrar pizarras, si quitas el menú los demás no sabrán qué hay para comer.
 Todo el mundo se lava las sucias manos en él. ¿Hará falta jabón para lavar el jabón?
 Por mucha curiosidad que tengas, utilizarlo no tiene ningún encanto.
-La mera persuasión no surte efecto; hay que retorcerlo para que suelte agua. 
+La mera persuasión no surte efecto; hay que retorcerlo para que suelte agua.
 El tejado sirve para que no entre nieve en la casa, no para que esquíes en él.
 Ahora es muy sólido, pero sabemos que no durará.
 Debe de ser terrible trabajar en la fábrica enrollándolo alrededor del tubo de cartón.
@@ -2341,7 +2340,7 @@ Este edificio es demasiado nuevo para que haya leyendas de la mano negra y simil
 Aquí se celebran ceremonias con gente que dice que se quiere mucho y para siempre.
 Por mucho que insistas, llamar para que apaguen tus velas de cumpleaños es una broma pesada.
 Pese a su apariencia invulnerable, le gustaría que, por una vez, alguien la protegiera a ella.
-Tiene una campanilla; los residentes deben de ser sordos. 
+Tiene una campanilla; los residentes deben de ser sordos.
 A día de hoy, todavía no comprendemos el dudoso placer de corretear tras una pelota bajo el sol.
 Como no hay mesas, la juventud suele sentarse por el suelo para comer de madrugada.
 Para que sepas que está ahí en todo momento.
@@ -2371,8 +2370,7 @@ No vayas a equivocarte de carril, que se montan unos follones increíbles.
 Algunos coches pasan a tal velocidad que no llegan ni a leerlos, con la de información interesante que tienen.
 Se encendía para guiar a la gente en la noche. Es bastante grande, así que no debía de perderse nadie.
 Dicen que se come la mano de los mentirosos. ¿Ya has mirado si aún tienes las dos?
-El nombre parece débil, pero es muy duro y
-puede soportar viento y marea.
+El nombre parece débil, pero es muy duro y puede soportar viento y marea.
 Si ya es bonito así, imagínate cuando tenía techo y pinturas en las paredes...
 Por desgracia, ya en aquella época había vándalos que hacían pintadas.
 Hubo una vez un hombre que confundió los molinos con gigantes; quizás necesitaba gafas.
@@ -2513,7 +2511,7 @@ Se ha puesto una camiseta demasiado corta y ahora anda con el ombliguito al aire
 Como un hermano mayor, nunca dice que no aunque quiera.
 Al parecer, su idea de comodidad es llevar las camisetas más viejas y roñosas que encuentre.
 Está enamorada y no deja de pensar en su chico; se le nota en la cara.
-Intenta no moverse para que los voraces mosquitos no detecten su presencia. 
+Intenta no moverse para que los voraces mosquitos no detecten su presencia.
 Mírala, qué tierna parece ahí, tan concentrada en las flores...
 Su comunión con la naturaleza es digna de admirar.
 No es cierto que todos sepan kung-fu.
@@ -2542,7 +2540,7 @@ Le gustaría componer una canción que expresara lo que siente, pero no tiene ni
 No recuerda si cerró el gas en casa, así que tiene prisa por llegar a tierra.
 Le gusta tanto que está pensando volver a casa así.
 Este luchador de sumo acaba de empezar su carrera. Se nota que tiene cara de inocentón.
-Los luchadores de sumo son muy coquetos; este lleva el mawashi de diseño. 
+Los luchadores de sumo son muy coquetos; este lleva el mawashi de diseño.
 Este campeón de sumo no conoce la derrota ni el dolor. O eso dice.
 Tiene mucho cuidado de quitarse de en medio cuando empieza el combate.
 Siempre está hablando de disciplina y esfuerzo, pero no para él, sino para los demás.
@@ -2557,7 +2555,7 @@ Está aburrida de lo infantiles que son los chicos de su edad.
 Está intentando calcular la edad del chicle que se ha encontrado pegado bajo la mesa.
 Está acostumbrado a conseguir lo que quiere a base de pataletas.
 Aprovecha la ocasión para enderezar la columna; es más importante de lo que cree la gente.
-Cuando hace retratos de la gente, suele dibujarles estrellitas en los ojos. 
+Cuando hace retratos de la gente, suele dibujarles estrellitas en los ojos.
 Jura y perjura que hizo los deberes, es solo que se los ha dejado en casa.
 Tiene un alma sensible y le gusta cuidar de los animales. Los visitantes humanos ya le molestan más.
 Le gustaría vivir en el recinto de los animales, pero la dirección no da permiso.
@@ -2583,7 +2581,7 @@ Acaba de darse cuenta de que está a muchos kilómetros del cuarto de baño y de
 Un animalito de compañía adorable, pero se niega a aprender a dar la patita.
 Aunque pueda llegar a ser muy grande, no consigue mejorar su marca de velocidad.
 Ganó una carrera a una liebre; aquí hay mucho potencial.
-Dicen que es casi ciego, pero debe de ser que se deslumbra porque sale poco al sol. 
+Dicen que es casi ciego, pero debe de ser que se deslumbra porque sale poco al sol.
 Hay algunas que aprovechan para birlarte el reloj mientras les das avellanas. Vigila.
 Nadie les ha preguntado nunca si les molesta llevar gente encima; no es justo.
 Es igual que los demás caballos, pero ha tomado menos el sol.
@@ -2649,7 +2647,7 @@ En las fiestas se entretiene en dibujarse caras en la frente. Los demás se deso
 Se quedó encerrado en una caja durante una mudanza y ahora anda de un lado a otro del planeta.
 Después de volver de la piscina tarda tres horas en su rutina de cuidado de cabello.
 Dicen que tiene un problema cutáneo y por eso no puede poner la cara en el agua.
-Planta un árbol nuevo por cada uno que tala; eso sí que es coherencia. 
+Planta un árbol nuevo por cada uno que tala; eso sí que es coherencia.
 Vive como sí mismo. Ya quisiéramos todos.
 Todavía está en edad de creer que podrá salir volando colgado de una.
 Este tipo de persona se emociona con cualquier bicho repugnante que le traigas.
@@ -2761,7 +2759,7 @@ Le gustaría tener las orejas grandes como su primo africano. Qué se le va a ha
 Ya sea para cambiar bombillas o bajar cajas, siempre le están pidiendo favores.
 Siente que puede ver mucho mejor cuando se pone las gafas.
 El jefe de todo el colegio. Le gusta jugar al fútbol y cantar.
-Sabe que debería salir más, pero cuando lo invitan a una fiesta siempre dice que ya tiene otros planes. 
+Sabe que debería salir más, pero cuando lo invitan a una fiesta siempre dice que ya tiene otros planes.
 Su madre ya ha guardado la ropa de invierno, así que tiene que ir en camiseta.
 Toca el piano y su cabello huele a jazmines. Es el sueño de cualquier romántico.
 Opina que ya ha hecho suficiente por hoy y que ya es hora de echarse una siesta.
@@ -2932,7 +2930,7 @@ Los paraguas no protegen de su impacto; ándate con cuidado.
 Si algún día colisionara con algún planeta, sería un desastre inimaginable.
 Está deseando caer en alguna parte; mira de vez en cuando hacia arriba.
 La mires como la mires, es una gran esfera.
-Empezó su carrera como pieza de un juego de bloques infantiles. 
+Empezó su carrera como pieza de un juego de bloques infantiles.
 Quizá lo utilicen en las carreteras intergalácticas.
 No se rompería ni bajo el peso de un elefante.
 Parece una rosquilla, pero hemos averiguado que no es comestible.
@@ -3039,7 +3037,7 @@ Nos agrada; pero no conocemos al autor, por lo que no podemos felicitarlo.
 Hay que ascender muy alto para poder verla; eso limita bastante el turismo.
 Se rumorea que contiene un mensaje en código, pero es tan secreto que nadie sabe nada.
 Los antiguos habitantes debieron de mudarse a terreno más llano.
-¿No es una delicia admirarla? 
+¿No es una delicia admirarla?
 Estas flores tienen alma de hierbajo; crecen en cualquier sitio.
 Como son fáciles de cuidar, suelen verse en los jardines de los colegios.
 Como el blanco solo quedaba muy soso, ha añadido la mancha de color.
@@ -3105,13 +3103,11 @@ Uno solo de estos árboles ya es hermoso, pero cuando hay tantos juntos, es..., 
 Desde esta base se estudia el universo. Sería más fácil si estuviera más cerca del universo.
 Al parecer, hubo problemas en el último vuelo porque a alguien se le derramó la bebida.
 Esto no tiene puerta; si te ves aquí dentro, estarás en serios problemas.
-La llama superior está hecha de oro.
-Cuidado: si lo pones en una tarta,
+La llama superior está hecha de oro. Cuidado: si lo pones en una tarta,
 nunca podrás soplarla.
 La Tierra nos da una muestra de su poder; mejor lo observas de (muy) lejos.
 DmySP
-El templo tiene muchas ventanas,
-a pesar del frío. Dentro
+El templo tiene muchas ventanas, a pesar del frío. Dentro
 se estará calentito.
 Sirvió de escenario para uno de esos programas de supervivencia.
 Dicen que tiene cuevas de murciélagos, razón por la cual no visitaremos la isla jamás.
@@ -3122,7 +3118,7 @@ Dicen que se desplaza unos 5 cm hacia el Sur cada año.
 Se pregunta si no ha llegado el momento de aceptar que se ha extraviado y preguntar el camino.
 Aquí crece una curiosa hierba azul; si estás en un prado, no se distingue el cielo de la tierra.
 Aquí solo vive el señor Tanaka; lo justo sería que la isla se llamara como él.
-Los turistas solo vienen para hacer submarinismo, así que la isla se siente sola. 
+Los turistas solo vienen para hacer submarinismo, así que la isla se siente sola.
 Dicen que las setas que crecen en los precipicios de esta isla son deliciosas.
 Si le das una patada a una piedra, sale un montón de bichos de debajo; por eso la gente no las toca.
 Antes, los samuráis venían aquí para seguir planes de entrenamiento intensivo.
@@ -3236,8 +3232,7 @@ Se podría usar como bastoncillo para los oídos.
 
 
 
-Si pones una moneda y giras la palanca,
-hace ruidos muy divertidos.
+Si pones una moneda y giras la palanca, hace ruidos muy divertidos.
 Y además te dará un juguete.
 
 
@@ -3386,7 +3381,7 @@ Este primo segundo rompe todo lo que toca, incluso su propia persona. Lástima p
 Es tan ligero que flota cuando hace viento. No se suele percibir su presencia.
 Se está haciendo viejo; el volcán de su cabeza cada vez está menos activo.
 Le gusta salir cuando llueve; o quizás es que llueve cada vez que sale.
-Es el mejor cocinero que conocemos; sus festines son legendarios. 
+Es el mejor cocinero que conocemos; sus festines son legendarios.
 A pesar de su pequeño tamaño, tiene una altura moral considerable.
 El otro día se quemó en la playa; lo sabemos porque le gusta andar desnudo.
 Engorda con solo pensar en comida; el pobre tiene un problema.
@@ -3412,7 +3407,7 @@ Se ha colocado ruedas para desplazarse mejor y pilas alcalinas para tener más e
 Le gusta pasar desapercibido, pero luego se queja de que la gente no le recuerda.
 No le gusta hacer deporte, pero se lo perdonamos porque nos encanta su perfume.
 Este primo segundo rompe todo lo que toca, incluso su propia persona. Lástima porque es majo.
-Es tan tímido que se sonroja si su madre le dice que le pase la sal. 
+Es tan tímido que se sonroja si su madre le dice que le pase la sal.
 Las manos no le llegan a la cara; no sabemos cómo lo hace para comer.
 Es vegetariano, pero de vez en cuando le da por comerse una costillada.
 Este primo levanta mucho polvo al moverse, así que, por cortesía, no se mueve mucho.
@@ -3425,7 +3420,7 @@ No sabemos dónde tiene el cuello. Siempre tiene problemas para ponerse la bufan
 Demuestra su enfado tan enérgicamente que hace saltar chispas. Qué miedo.
 Puede hacerse un largo de 100 metros sin sacar la cabeza para respirar.
 Es tan ligero que flota cuando hace viento. No se suele percibir su presencia.
-Es el mejor cocinero que conocemos; sus festines son legendarios. 
+Es el mejor cocinero que conocemos; sus festines son legendarios.
 Ni siquiera él mismo sabe cuál es su cara verdadera. Le gusta confundir a la gente.
 A pesar de su pequeño tamaño, tiene una altura moral considerable.
 El otro día se quemó en la playa; lo sabemos porque le gusta andar desnudo.
@@ -3452,7 +3447,7 @@ Se ha colocado ruedas para desplazarse mejor y pilas alcalinas para tener más e
 Le gusta pasar desapercibido, pero luego se queja de que la gente no le recuerda.
 No le gusta hacer deporte, pero se lo perdonamos porque nos encanta su perfume.
 Este primo segundo rompe todo lo que toca, incluso su propia persona. Lástima porque es majo.
-Es tan tímido que se sonroja si su madre le dice que le pase la sal. 
+Es tan tímido que se sonroja si su madre le dice que le pase la sal.
 Las manos no le llegan a la cara; no sabemos cómo lo hace para comer.
 Es vegetariano, pero de vez en cuando le da por comerse una costillada.
 Este primo levanta mucho polvo al moverse, así que, por cortesía, no se mueve mucho.
@@ -3465,7 +3460,7 @@ No sabemos dónde tiene el cuello. Siempre tiene problemas para ponerse la bufan
 Demuestra su enfado tan enérgicamente que hace saltar chispas. Qué miedo.
 Puede hacerse un largo de 100 metros sin sacar la cabeza para respirar.
 Es tan ligero que flota cuando hace viento. No se suele percibir su presencia.
-Es el mejor cocinero que conocemos; sus festines son legendarios. 
+Es el mejor cocinero que conocemos; sus festines son legendarios.
 Ni siquiera él mismo sabe cuál es su cara verdadera. Le gusta confundir a la gente.
 A pesar de su pequeño tamaño, tiene una altura moral considerable.
 El otro día se quemó en la playa; lo sabemos porque le gusta andar desnudo.
@@ -3492,7 +3487,7 @@ Se ha colocado ruedas para desplazarse mejor y pilas alcalinas para tener más e
 Le gusta pasar desapercibido, pero luego se queja de que la gente no le recuerda.
 No le gusta hacer deporte, pero se lo perdonamos porque nos encanta su perfume.
 Este primo segundo rompe todo lo que toca, incluso su propia persona. Lástima porque es majo.
-Es tan tímido que se sonroja si su madre le dice que le pase la sal. 
+Es tan tímido que se sonroja si su madre le dice que le pase la sal.
 Las manos no le llegan a la cara; no sabemos cómo lo hace para comer.
 Es vegetariano, pero de vez en cuando le da por comerse una costillada.
 Este primo levanta mucho polvo al moverse, así que, por cortesía, no se mueve mucho.
@@ -3505,5 +3500,5 @@ No sabemos dónde tiene el cuello. Siempre tiene problemas para ponerse la bufan
 Demuestra su enfado tan enérgicamente que hace saltar chispas. Qué miedo.
 Puede hacerse un largo de 100 metros sin sacar la cabeza para respirar.
 Es tan ligero que flota cuando hace viento. No se suele percibir su presencia.
-Es el mejor cocinero que conocemos; sus festines son legendarios. 
+Es el mejor cocinero que conocemos; sus festines son legendarios.
 Ni siquiera él mismo sabe cuál es su cara verdadera. Le gusta confundir a la gente.

@@ -26,7 +26,7 @@ Listín de teléfonos
 Ratonera
 Tarjetas de Navidad
 Felpudo
-Bloque de obra 
+Bloque de obra
 Banco de madera
 Poste de barbero
 Escoba de bambú
@@ -111,7 +111,7 @@ Barril
 Bota
 Casa
 Papá Noel
-Estrella 
+Estrella
 Robot de tráfico
 Adorno azul
 Adorno rojo
@@ -134,7 +134,7 @@ Atún de lata
 Estación meteorológica
 Bidón rojo
 Bidón verde
-Bidón azul 
+Bidón azul
 Golpe maniquí 12
 Silla escolar
 Pupitre
@@ -145,7 +145,7 @@ Bala de arroz
 Señal de peligro
 Sedán
 Coche hatchback
-Furgoneta 
+Furgoneta
 Coche compacto
 Camioneta
 Monovolumen
@@ -268,11 +268,11 @@ Rótulo de cine
 Señal del río Codorniz
 Espada
 Parada de autobús
-Pila alcalina 
+Pila alcalina
 Hotel Ucho
 Tienda de campaña
 Desprendimiento
-Fuegos artificiales 
+Fuegos artificiales
 Adornos de pino
 Arbol
 Arbol alto
@@ -326,7 +326,7 @@ Tabla de surf
 Almohadón
 Horno de arcilla
 Triciclo
-Triciclo infantil 
+Triciclo infantil
 Bolsa de papel
 Estufa de queroseno
 Monumento
@@ -356,8 +356,8 @@ Farolillo
 Tambor taiko
 Lavabo portátil
 Ciclomotor
-Fuegos artificiales 
-Caja de fuegos artificiales 
+Fuegos artificiales
+Caja de fuegos artificiales
 Rótulo de hotel
 Plato de regalo
 Figurita de Jumbomán
@@ -383,7 +383,7 @@ Bloque azul
 Edificio Pecera
 Edificio Anguila
 Pala hidráulica
-Satélite 
+Satélite
 Film de cocina
 Detergente para la ropa
 Pañuelos de papel
@@ -494,7 +494,7 @@ Oveja negra
 Jirafa
 Cocodrilo
 Mono balancín
-Hombre 
+Hombre
 Cuervo
 Gorrión
 Golpe maniquí 02
@@ -624,7 +624,7 @@ Edificio Sardineta
 Edificio Salmón
 Edificio Besugo
 Edificio Coral
-Carguero 
+Carguero
 Bate de béisbol
 Pista
 Paraguas rojo
@@ -711,7 +711,7 @@ Girasol
 Molino de viento gigante
 Estadio
 Bolera
-Bolo enorme 
+Bolo enorme
 Plataforma de lanzamiento
 Grúa (P)
 Precaución
@@ -720,7 +720,7 @@ Edificio Calamar
 Submarino
 Jarra térmica
 Isla menguante
-Castillo 
+Castillo
 Seta (G)
 Seta monstruosa
 Antena parabólica
@@ -1040,7 +1040,7 @@ Dios del trueno
 Chico saltador
 Jugador de fútbol
 Hombre relajado
-Buceadora 
+Buceadora
 Marinero
 Sombrerito infantil
 Arcilla
@@ -1079,7 +1079,7 @@ Espíritu de la pena
 Espíritu de la risa
 Gasolinera
 Manguera
-Túnel de lavado 
+Túnel de lavado
 Rótulo de gasolinera
 Marcador electrónico
 Base
@@ -1136,7 +1136,7 @@ Silo
 Bloque rojo
 Bloque amarillo
 Bloque verde
-Barra de equilibrios 
+Barra de equilibrios
 Rótulo de cine
 Rótulo de cine
 Caja de zapatos
@@ -1164,7 +1164,7 @@ Insecticida
 Ketchup
 Cerilla
 Pan rebanado
-Escaparate de zapatería 
+Escaparate de zapatería
 Globo aerostático rosa
 Rompeolas
 Caja multiusos
@@ -1193,7 +1193,7 @@ Muñeca kokeshi
 Kokeshi Mayor
 Lavadora
 Altavoz
-Anuncio 
+Anuncio
 Base de tendedero
 Cuerda de tender
 Tendedero
@@ -1302,7 +1302,7 @@ Araña
 Carillón
 Gancho
 Extintor
-Gato de la suerte 
+Gato de la suerte
 Bicicleta
 Zumo de manzana
 Sidra espumosa
@@ -1347,7 +1347,7 @@ Estantería
 Circuito
 Rótulo de tienda 24 horas
 La gaviota viajera
-Algas secas 
+Algas secas
 Entrada de colegio
 Hoguera
 Hoguera (G)
@@ -1971,7 +1971,7 @@ Tambor (P)
 Platillo
 Trompeta
 Armónica
-Gong 
+Gong
 Campanilla
 Miel
 Galleta de arroz
@@ -2012,7 +2012,7 @@ Bambú
 Pala de ping pong
 Raqueta de tenis
 Pelota de tenis
-Cimitarra 
+Cimitarra
 Bloc de dibujo
 Cactus
 Planta de interior
@@ -2089,7 +2089,7 @@ Tienda roja
 Tienda azul
 Tienda amarilla
 Tienda verde
-Hamaca 
+Hamaca
 Seta plana
 Lavadero
 Seta mágica
@@ -2268,7 +2268,7 @@ Bastón de chocolate
 Chocolate amargo
 Gominola
 Caramelo azul
-Nata montada 
+Nata montada
 Galleta árbol (P)
 Galleta árbol
 Galleta árbol (G)
@@ -2347,7 +2347,7 @@ Rótulo tienda 24 horas
 Noria
 Góndola
 "Plato recomendado"
-Observatorio 
+Observatorio
 Letrero de observatorio
 Cine
 Rótulo de cine
@@ -2359,7 +2359,7 @@ Torre Palometa
 Torre Plancton
 Torre Cabracho
 Torre Pargo
-Desvío por obras 
+Desvío por obras
 Incendio
 Anuncio de café
 Anuncio de aseguradora
@@ -2385,7 +2385,7 @@ Torre de Pisa
 Casa de Pierre
 Casa de William
 Casa de Joseph
-Granja europea 
+Granja europea
 
 Casa de Charles
 Casa de Rudolf
@@ -2445,7 +2445,7 @@ Gyoza
 Buda
 Pagoda de 5 pisos
 Edificio de la Dieta
-Castillo 
+Castillo
 Villa Uguisu
 Villa Hototogisu
 Moái
@@ -2548,7 +2548,7 @@ Profesora
 Profesor veterano
 Profesor informal
 Director de colegio
-Chico torpe 
+Chico torpe
 Delegado de clase
 Encargada de clase
 Alumna
@@ -2574,7 +2574,7 @@ Snowboarder rojo
 Snowboarder amarillo
 Esquiador rojo
 Esquiador morado
-Esquiador verde 
+Esquiador verde
 Chico de campamento
 Boy scout
 Chico corriendo
@@ -2628,7 +2628,7 @@ Calamar
 Nautilo
 Celacanto
 Tiranosaurio Rex
-Estegosaurio 
+Estegosaurio
 Brontosaurio
 Pteranodon
 Oso-vaca
@@ -2704,7 +2704,7 @@ Pez payaso verde
 Cangrejo ermitaño
 Mamut
 Husky
-Dóberman 
+Dóberman
 Papá Noel descansando
 Bruja
 Director adjunto
@@ -2782,7 +2782,7 @@ Corredor morado
 Corredor azul
 Casa del Príncipe
 La Reina en globo
-Castillo 
+Castillo
 Chico
 Chica
 Agujero
@@ -2809,7 +2809,7 @@ Profesora de ikebana
 Profesora suplente
 Piloto F1
 Chica con impermeable
-Dr. Katamari 
+Dr. Katamari
 Chico con sombrero de papel
 Chica perfeccionista
 Oso-vaquero
@@ -2835,17 +2835,17 @@ Punzón ninja
 Esfera
 Anillo
 Sol
-Planeta 
-Urano 
+Planeta
+Urano
 Satélite de Urano
-Neptuno 
+Neptuno
 Satélite de Neptuno
-Plutón 
+Plutón
 Satélite de Plutón
-Júpiter 
+Júpiter
 Satélite de Júpiter
-Big Bang 
-Mini Bang 
+Big Bang
+Mini Bang
 Galaxia Flor
 Satélite Flor
 Planeta Colegio
@@ -2859,23 +2859,23 @@ Satélite Animal
 Planeta Pajarita
 Satélite de Saturno
 Satélite de Saturno
-Saturno 
+Saturno
 Galaxia Oso-vaca
-Planeta 
+Planeta
 Planeta Aspirador
-Venus 
+Venus
 Planeta Golosina
 Satélite Golosina
-Mercurio 
+Mercurio
 Satélite de Mercurio
 Satélite de Marte
 Satélite de Marte
-Marte 
+Marte
 Satélite Sumo
 Satélite Sumo
 Satélite Yokozuna
 Planeta Nieve
-Sirio 
+Sirio
 Nueva Tierra
 Planeta Primos
 Planeta Primos Segundos
@@ -2926,7 +2926,7 @@ Casiopea
 Orión
 Ovni
 Estación espacial
-Meteorito 
+Meteorito
 Meteorito seta
 Meteorito picudo
 Esfera (G)
@@ -3102,7 +3102,7 @@ Bosque amarillo
 Bosque de cerezos
 Centro Espacial
 Astro Jet
-Túmulo 
+Túmulo
 Monas
 Volcán en activo
 Escondite secreto
@@ -3138,7 +3138,7 @@ Isla Espina
 Isla Chopo
 Monte del Sur
 Monte Akane
-Monte Wasabi 
+Monte Wasabi
 Isla Hierbajo
 Isla Robinsón
 Isla Osea

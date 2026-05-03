@@ -155,7 +155,7 @@ Voiture très lente, convenant très bien à ceux qui aiment prendre leur temps.
 C'est la demeure terrestre d'un bateau.
 Cette assiette rigide pleine de trous est utilisée pour faire du takoyaki. Les gens d'Osaka en raffolent.
 Récipient servant à stocker des liquides. Il n'est généralement pas très pratique.
-Petite remise fourre-tout. Les enfants viennent parfois jouer à l'intérieur. 
+Petite remise fourre-tout. Les enfants viennent parfois jouer à l'intérieur.
 Rendez-vous ici pour voguer dans un bateau que vous n'aurez pas l'autorisation de piloter.
 Objet très classe, c'est sûr, mais gardez-vous de le toucher, à moins d'aimer vous brûler les doigts.
 Légume blanc, de la belle couleur que prennent les jambes des vieilles dames.
@@ -167,7 +167,7 @@ Objet pernicieux utilisé pour attirer le poisson. La poiscaille n'a qu'à bien 
 Émet une onde électrique. Il paraît que c'est sans danger...
 Sans ça, on n'en finirait pas de trébucher sur les rigoles.
 Panneau de fer qui empêche les gens de tomber dans la rigole.
-On peut voir de l'autre côté des petits trous de ce panneau. Mais quoi ? 
+On peut voir de l'autre côté des petits trous de ce panneau. Mais quoi ?
 Véhicule assez intéressant pour voyager sur l'eau. Il fait bon monter à bord, sauf si c'est pour ramer.
 Elle contient un gaz invisible, mais pourrait tout aussi bien être vide.
 Pilez-y du riz pour faire du mochi. C'est très tendance en ce moment, au Japon.
@@ -348,7 +348,7 @@ Cette caisse a l'air plutôt solide, c'est pourquoi elle peut être utilisée co
 Les couples vus avec ce genre de panier finissent fatalement par becqueter des raisins dans la main de leur partenaire.
 Quand il sonne, c'est l'heure du combat. Prêt à en découdre ?
 On l'utilise normalement pour les combats, mais certains préfèrent s'y promener en hurlant dans des micros.
-Qu'elles sont courageuses ! Sans cesse renversées par des boules de bowling, elles se relèvent toujours. 
+Qu'elles sont courageuses ! Sans cesse renversées par des boules de bowling, elles se relèvent toujours.
 Statue du roi des animaux, qui bave parfois de l'eau dans les fontaines.
 Il semble que cela vaille deux mois de salaire. C'est vrai qu'elle semble plutôt solide.
 Ce type est givré. Mais rassurez-vous, il disparaît généralement dans l'après-midi.
@@ -458,7 +458,7 @@ Une pauvre machine, injustement frappée parce qu'elle fait correctement son tra
 Si vous y voyez quelqu'un dont le visage est caché par un collant ou une cagoule, il vaut mieux revenir plus tard.
 Téléphone au charme vieillot. Son fil semble conçu pour être enroulé autour de vos doigts.
 Vous pouvez y regarder rôtir une innocente tranche de pain, jusqu'à ce qu'elle s'enfuie en sautant, parce qu'elle craint la chaleur.
-Une sorte de téléphone cellulaire, mais qui ne permet pas d'appeler tous ses amis. 
+Une sorte de téléphone cellulaire, mais qui ne permet pas d'appeler tous ses amis.
 Permet de faire revenir des aliments. Il arrive qu'elle crache des flammes, alors attention à ne pas vous en approcher trop près.
 Sorte de dortoir pour les troupeaux de bovidés, ce qui expliquerait l'odeur.
 Mur empêchant les vaches et les chevaux de s'enfuir. Les hommes le franchissent allègrement.
@@ -480,7 +480,7 @@ Ne vous fiez pas à son air débonnaire. Il est vraiment hideux quand il est en 
 Créature très plate, à ne pas confondre avec la tapenade.
 Gaucher ou droitier ? Avec ce gars-là, pas de doute possible.
 Petit arthropode à la chair extrêmement dure. Il a besoin d'exercice.
-Pas la peine de lui serrer la pince, ou vous vous en mordrez les doigts. 
+Pas la peine de lui serrer la pince, ou vous vous en mordrez les doigts.
 Il soutient être un crabe, mais il joue plutôt mal son rôle.
 Ses pattes graciles sont fascinantes. Elles n'en sont pas moins mues par de puissants muscles.
 Pourquoi est-il bleu ? Peut-être a-t-il le blues de la casserole.
@@ -716,7 +716,7 @@ On y trouve la rampe qui soutient la fusée avant le décollage. Après, c'est t
 Engin très fort, capable de soulever presque tout. Hélas, il n'a pas le droit de participer aux compétitions d'haltérophilie.
 Ce signe vous prévient de la chute d'objets dangereux. Si on connaît ce risque, pourquoi n'y remédie-t-on pas en premier lieu ?
 On ne vous félicitera pas pour avoir suivi la flèche, mais attendez-vous à des remontrances si vous allez dans l'autre sens.
-Tellement grand que les gens s'y perdent tout le temps. Les propriétaires doivent être milliardaires. 
+Tellement grand que les gens s'y perdent tout le temps. Les propriétaires doivent être milliardaires.
 Navire qui se déplace toujours sous l'eau. Il doit être très timide.
 Rend l'eau froide chaude. C'est très chaud, alors ne l'utilisez pas pour prendre un bain.
 Apparemment, cette île s'enfonce chaque année de quelques centimètres dans l'océan.
@@ -844,7 +844,7 @@ Bâtonnet, poilu d'un côté. Permet de peindre ou de chatouiller les gens.
 Conçu pour des brevages chauds. On en fabrique aussi par paires pour réchauffer le cœur des couples.
 Goût délicieux, mais composé de mystérieux ingrédients.
 Les deux manettes contrôlent quelque chose, mais cela ne marche pas avec ce que vous voulez.
-La fille aime beaucoup son bol décoré. Hélas, les jolies décorations ne rendent pas la nourriture meilleure. 
+La fille aime beaucoup son bol décoré. Hélas, les jolies décorations ne rendent pas la nourriture meilleure.
 Ils vendent des voitures, mais ils font face à une pénurie d'autos tamponneuses.
 Offre une protection excellente pendant les orages, mais allez voir ailleurs s'il fait froid.
 Boisson raffinée. Personne ne dit jamais que c'est fait à partir de feuilles, parce que c'est moins raffiné.
@@ -1105,10 +1105,10 @@ Signe planté dans un poteau téléphonique. Un peu trop haut pour que les enfan
 Tuteur permettant au poteau téléphonique de se tenir bien droit. Ces rayures jaunes et noires sont très classes !
 Sorte de code secret. Nous aimerions que ce soit plus compréhensible.
 Ce panneau ose Nous donner des ordres. Quelle impudence !
-Elle est prête à sacrifier sa vie pour que les voitures ne quittent pas la route. 
+Elle est prête à sacrifier sa vie pour que les voitures ne quittent pas la route.
 Fils avec de petites épines, parfois électrifiés. Aïe !
 
-Peut servir de chirurgie esthétique à moindres frais. En revanche, évitez de vous montrer de dos ou de côté. 
+Peut servir de chirurgie esthétique à moindres frais. En revanche, évitez de vous montrer de dos ou de côté.
 Appartenait autrefois à un arbre. Font d'excellents radeaux ou de belles cabanes de bûcheron.
 Maison en bois, écologique. Elle est froide en été et chaude en hiver.
 Maison des montagnes. Il n'y a pas de nom sur la porte, puisqu'elle change tout le temps d'occupants.
@@ -1420,7 +1420,7 @@ Très doué pour balancer les gens dans tous les sens. Il ne pourra pas le faire
 De drôles de gens qui prennent plaisir à tourner en tous sens. Ne les regardez pas trop, vous pourriez en être tout retourné.
 Le beau-frère des jumbomen rouge et jaune.
 Il est à son affaire sous terre, mais ce monstre a l'honnêteté de sortir de son trou pour se battre.
-Ne le répétez pas, mais il porte des chaussures plateforme ! 
+Ne le répétez pas, mais il porte des chaussures plateforme !
 Un animal dont le corps est fait de tissu. Ce sont tous les gens qu'il a mangés qui le font bouger.
 Il paraît que c'est facile de les monter une fois qu'on les a domptées. Les chutes restent douloureuses.
 Un animal pas très adroit, qui titube en marchant ; on s'attendrait pourtant au contraire, avec toutes ces jambes !
@@ -1455,8 +1455,7 @@ Le grand patron est quelque part à l'intérieur. Et après ?
 Nous Nous demandons si certains bâtiments ne sont pas comme les icebergs, avec une partie émergée minuscule.
 Un ballon vert. Il était sans doute d'un vert plus vif avant de prendre de l'embonpoint.
 Si l'on en achète beaucoup, on dit qu'on peut léviter...
-Même quand le goût n'est plus là, le chewing-gum demeure.
-Très économique !
+Même quand le goût n'est plus là, le chewing-gum demeure. Très économique !
 
 Jetez-vous dedans et faites-vous tirer le portrait gratuitement !
 Neige qui s'est solidifiée en un katamari. Les enfants adorent l'écraser en passant à côté.
@@ -1474,7 +1473,7 @@ Elle est trouée, alors ne transportez pas de petits objets avec !
 Une cagette solide, hélas trop petite pour faire une chaise.
 On prononce "na", comme dans "nananère".
 Selon la façon de la prononcer, cette lettre peut faire changer d'humeur.
-Ce coco-là semble perdu... 
+Ce coco-là semble perdu...
 Il est assez doué pour faire des planètes, mais Nous ne savons pas pourquoi il est si petit. C'est l'un de nos grands soucis.
 Cousin légèrement bronzé qui aime bien se promener nu.
 Il mange trop. Il ne faisait pas de régime, mais il se plaint d'avoir tout repris.
@@ -1483,8 +1482,7 @@ Ce cousin-là ressemble étrangement au Prince, vu sous certains angles. Une foi
 Ça fait un moment que ce cousin ne s'était plus tenu debout. Il a grandi depuis la dernière fois, alors il n'a plus besoin de flotter.
 Nous pensons que ce cousin vieillit. Le volcan perché sur sa tête n'entre pas souvent en éruption, mais il est encore actif.
 Cousin qui est toujours dans vos pattes quand vous vous tenez à côté de lui. La fumée des cigares le rend nostalgique.
-Ce cousin rêve des étoiles. Il a abandonné la danse et
-s'est mis au golf, c'est plus chic.
+Ce cousin rêve des étoiles. Il a abandonné la danse et s'est mis au golf, c'est plus chic.
 Cousin qui passe son temps à regarder la télé. Il regarde ailleurs pendant les émissions effrayantes. C'est pour ça que sa tête est comme ça.
 Il est très coquet et très fier de sa taille, mais n'est pas de taille à devenir mannequin.
 Il est très doué pour rater tout ce qu'il entreprend... Sauf quand on ne le regarde pas.
@@ -1510,8 +1508,7 @@ Petite île des Caraïbes. L'air est plein de l'odeur des noix de muscade fraîc
 La monnaie de ce pays est le colon. Il doit être très peuplé.
 Un pays où le café est délicieux.
 Pays constitué de l'île Saint Kitts et de l'île Nevis. On ne s'y complique pas la vie.
-Ce n'est sans doute pas Nos royaux
-oignons, mais ton nom est trop long.
+Ce n'est sans doute pas Nos royaux oignons, mais ton nom est trop long.
 Et si on t'appelait Saint Dine ?
 Une mignonne île, très "petites Antilles".
 Son drapeau arbore un magnifique perroquet. Nous en voulons un qui soit identique !
@@ -1574,8 +1571,7 @@ Célèbre pour son thé au beurre de yack. Et, accessoirement, pour ses montagne
 Petit pays du Golfe persique. Un pont de 25 km le relie à l'Arabie saoudite.
 Ça s'appelle les ruines d'Harappa. Sympa comme nom.
 Un petit pays qui regorge de monde. On dirait qu'il y a encore de la place à l'intérieur.
-Son nom est au pluriel car le pays compte plus de
-7 000 îles. Comment se rappeler de tous leurs noms ?
+Son nom est au pluriel car le pays compte plus de 7 000 îles. Comment se rappeler de tous leurs noms ?
 Ce royaume est très haut et très enclavé, mais ses habitants ne boudent personne.
 Le roi de ce pays est connu pour sa richesse phénoménale. Nous devons admettre que Nous sommes assez jaloux.
 L'áo dài est la robe traditionnelle du Viêt Nam. Nous aimerions beaucoup l'essayer un jour.
@@ -1651,7 +1647,7 @@ S'il vous endort, c'est parce qu'il vous fait rêver. Essayez quand même de res
 Ici tout le monde porte un chapeau et se promène avec un parapluie noir. Comme ça, ils sont doublement protégés de la pluie !
 Ce pays a la forme d'une botte géante avec un très haut talon. Attention à ne pas tomber !
 L'un des trois pays baltes. C'est celui le plus au nord.
-Ce pays est plein de montagnes enneigées sur lesquelles les gens montent pour en redescendre très, très vite. 
+Ce pays est plein de montagnes enneigées sur lesquelles les gens montent pour en redescendre très, très vite.
 Tulipes, bicyclettes et moulins sont typiques de ce petit pays qui produit aussi de drôles de fromages tout ronds.
 Ce pays a douze dieux et au moins autant de philosophes. On doit y être heureux.
 Il faut croire que dans le temps, ce pays était peuplé de corbeaux.
@@ -1740,8 +1736,7 @@ Il a l'air très méchant, alors n'essayez pas de jouer avec.
 Il attaque les choses qui sortent du lot. Il n'aime pas les grands.
 Il est tellement en colère qu'il assombrit la ville tout entière.
 Il verse de la pluie. Les grenouilles l'adorent. Il est presque beau quand il est petit.
-On Nous dit qu'il est constitué de gouttelettes de pluie. Pourquoi ne tombe-t-il pas avec la
-pluie ?
+On Nous dit qu'il est constitué de gouttelettes de pluie. Pourquoi ne tombe-t-il pas avec la pluie ?
 Il jette des cordes sur le sol. Nous ne pensons pas que ce soit pour qu'on le rejoigne.
 Joli petit nuage. Il est plutôt commun.
 Il se casse et se reforme en prenant des formes inimaginables. C'est le cinéma du ciel.
@@ -1820,8 +1815,8 @@ Ce poste de télévision a récemment commencé à se sentir vieux.
 Grand objet que les professeurs utilisent pour mesurer les angles. Pas très pratique pour les examens.
 Grand triangle. Son propriétaire doit vraiment adorer la géométrie.
 Cet insecte à deux jambes trace des cercles très larges. Quand même un peu petit pour dessiner la Terre.
-Peut être rempli d'eau. Nous dédaignons de Nous en servir de tasse. 
-Petit jouet de bois utilisé pour taper sur des tas de bois. Peu utile pour planter des clous. 
+Peut être rempli d'eau. Nous dédaignons de Nous en servir de tasse.
+Petit jouet de bois utilisé pour taper sur des tas de bois. Peu utile pour planter des clous.
 Adorable déjeuner d'enfant. Plein de couleurs, il a l'air délicieux.
 Suffit pour que toute la famille déjeune ensemble. Mais s'il n'y a pas suffisamment de plats, attendez-vous à des jalousies.
 Aliment cannibale qui naît en avalant ses semblables entre ses mâchoires de pain.
@@ -1871,7 +1866,7 @@ Graine de chêne. Ayez-en toujours sur vous pour vous mettre les écureuils dans
 Petite plante qui grandit au bord de la route. Si vous en trouvez un à quatre feuilles, conservez-le précieusement.
 Mettez-en beaucoup ensemble et vous verrez apparaître une image. Il serait plus simple de ne pas diviser l'image, en premier lieu.
 Graine de fleur très appréciée des animaux à dents de lapin. Certains gourmands les stockent même dans leurs joues.
-Ferme les bouteilles. Les gens très forts, ou idiots, les enlèvent avec les dents. 
+Ferme les bouteilles. Les gens très forts, ou idiots, les enlèvent avec les dents.
 En serrant très fort cette graine, vous obtiendrez de l'essence de café. Ce n'est pas un bon carburant.
 Étrange baguette utilisée pour ouvrir les portes. N'essayez pas de la marier à une serrure qu'elle n'aime pas, elle est têtue.
 Petit objet important. Il adore mettre des bâtons dans les roues des voleurs.
@@ -1946,7 +1941,7 @@ Fil entourant un objet cylindrique. Si vous le faites tomber, la ficelle se dér
 Nous trouvons le trou au milieu très utile. L'objet évoque un rouleau de papier toilette.
 Très douée pour rouler sur le sol. Celles qui rebondissent se sont fait rouler.
 Nos yeux pleurent à force de chercher où finit le bout pointu.
-Il se projette, mais géométriquement, alors ne vous inquiétez pas. 
+Il se projette, mais géométriquement, alors ne vous inquiétez pas.
 Son désir le plus cher : prendre un peu de poids.
 Objet très facétieux, qu'on voit souvent poursuivre les héros dans les grottes.
 Il est énorme, mais Nous ne voyons toujours pas où se termine son bout pointu.
@@ -1972,8 +1967,7 @@ Vole gracieusement dans le ciel. Ne le percez pas avec une aiguille, vous seriez
 Étrange insecte roulant plein d'antennes, qui fabrique des films qui passent à la télé.
 Voiture qui adore crier son nom aux gens. Elle ne Nous a même pas demandé le Nôtre. Quelle impudence !
 Flûte qui fait de la musique. Quand de la salive en sort, c'est que le musicien n'est pas doué.
-Le plus gros fût de la batterie.
-Les élèves qui tapent du pied pendant
+Le plus gros fût de la batterie. Les élèves qui tapent du pied pendant
 les cours rêvent sûrement de lui.
 Le plus petit tambour de la batterie. Il n'aime pas qu'on le voie tout seul.
 La cymbale de la batterie. Ne la frappez pas trop fort, elle résonne.
@@ -2135,7 +2129,7 @@ Si vous jouez à cache-cache, évitez cette cachette cadenassée qui pourrait bi
 Il y a peu de cahiers et de livres à l'intérieur. Il les emporte avec lui, car il ne peut pas s'en passer.
 Si vous aimez les cours, vous pouvez toujours l'éteindre.
 Vous aurez des soucis si vous l'utilisez comme toge ou cape.
-Elle éclaire la classe. Lorsqu'elle grille, le garçon le plus grand se retrouve sous les feux de la rampe. 
+Elle éclaire la classe. Lorsqu'elle grille, le garçon le plus grand se retrouve sous les feux de la rampe.
 Ces matelas sont posés sur le sol des maisons japonaises. Vous pouvez essayer de compter leurs rides pour vous endormir.
 Ils sont pliés avec art. La bonne odeur de la lessive a remplacé celle de la sueur...
 Montrez ça à vos parents et vous aurez une petite récompense. Dommage que ce soit si difficile à obtenir.
@@ -2348,7 +2342,7 @@ Cette école est trop récente pour porter les cicatrices d'une quelconque histo
 Lieu sacré où vous lisez un texte soigneusement préparé tout en regardant le soleil couchant.
 Des véhicules en sortent toutes sirènes hurlantes en cas d'incendie, mais ils ne viendront pas moucher votre chandelle.
 Cette barrière protège jour et nuit. Nous aimerions que quelqu'un la protège, pour changer.
-Maison avec une cloche. Ses habitants doivent être très patients pour supporter ces bruits de cloche. 
+Maison avec une cloche. Ses habitants doivent être très patients pour supporter ces bruits de cloche.
 Les gens y viennent se préparer à transpirer, ou après avoir transpiré.
 Il n'y a pas de sièges près de la porte, alors les jeunes s'assoient souvent par terre pour manger.
 Enseigne pour un magasin très utile, tout le temps ouvert. Il doit vraiment aimer travailler.
@@ -2378,8 +2372,7 @@ Vous devrez sortir votre porte-monnaie ici afin de rouler sur la route rapide.
 Ces signes indiquent des tas d'endroits. Ils suffisent à vous donner l'impression que vous êtes perdu.
 Lumière érigée pour guider les gens sur les routes sombres. Comme elle est très grande, peu de gens doivent se perdre.
 Mord les mains des menteurs. Elle a très faim, en ce moment.
-Derrière un nom peu imposant, se cache
-quelqu'un capable de gérer le vent et la pluie.
+Derrière un nom peu imposant, se cache quelqu'un capable de gérer le vent et la pluie.
 Cet endroit adore parler de sa splendeur passée. Comme Nous le comprenons !
 Autrefois très utilisé par les familles grecques pour mesurer leurs enfants. Aujourd'hui encore, on y voit des marques.
 Il y a fort longtemps, un fou croyait que c'étaient des géants. Mais ce ne sont que des moulins.
@@ -2564,7 +2557,7 @@ Elle est de celles qui mûrissent avant les autres... Elle en a assez de tous ce
 Il cherche à savoir l'âge du morceau de chewing-gum qu'il a trouvé sous son bureau.
 Il ne sait pas que les bonbons peuvent s'acheter à l'unité.
 Elle est contente de faire tant d'effet rien qu'en s'asseyant.
-Lorsqu'elle dessine les gens, elle leur met des étoiles dans les yeux. 
+Lorsqu'elle dessine les gens, elle leur met des étoiles dans les yeux.
 Il a bien fait ses devoirs, c'est juste qu'il les a oubliés.
 Il se mêle de la vie des bêtes du zoo, et aussi de celle du gardien du zoo.
 Il aimerait vivre en cage comme ses animaux, mais il n'en a pas le droit.
@@ -2590,7 +2583,7 @@ Il retourne chez lui prendre quelque chose d'important qu'il a oublié.
 Un animal aux longues oreilles craquantes et dont les dents sont la terreur des carottes.
 Grande tortue qui peut atteindre plus d'un mètre de long, mais sa lenteur reste phénoménale.
 Elle a vaincu le lièvre à la course. Elle a un mental de fer.
-Joli petit animal qui vit dans des trous qu'il creuse dans le sol. 
+Joli petit animal qui vit dans des trous qu'il creuse dans le sol.
 Très agile, rapide et grimpant aux arbres ; inutile d'essayer de jouer à chat avec lui.
 Il est très fort pour courir avec des gens sur son dos, sans jamais se plaindre.
 Il n'a rien de plus que les autres, mais sa couleur le rend un tantinet plus snob.
@@ -2656,7 +2649,7 @@ Quand il veut se faire remarquer dans une fête, il dessine un visage sur son fr
 Il parcourt le monde depuis qu'il a été mis en boîte dans un déménagement.
 Il fait très attention à ses poils.
 La rumeur veut qu'il ne puisse pas mettre la tête sous l'eau.
-Il plante une pousse pour chaque arbre qu'il abat, alors tout le monde l'aime. 
+Il plante une pousse pour chaque arbre qu'il abat, alors tout le monde l'aime.
 Une présence extraordinaire qui a réponse à toutes les questions.
 Il joue avec des cerfs-volants tout le temps en espérant qu'un jour, il pourra s'envoler, accroché à l'un d'eux.
 Il est de bonne humeur parce qu'il vient d'attraper un insecte rare.
@@ -2682,7 +2675,7 @@ Un homme tout en muscles, qui s'est forgé un corps et un esprit de fer en donna
 Il en a plus qu'assez qu'on lui demande toujours et encore si son tapis est à vendre. Personne ne l'écoute.
 Elle s'amuse en effrayant les gens. Dans sa vie terrestre, elle avait été traumatisée par un chien la poursuivant.
 Sa super coiffure n'aurait rien d'exceptionnel.
-Il se muscle les jambes et les hanches en faisant de petits sauts. Ses sandales sont faites en aluminium. 
+Il se muscle les jambes et les hanches en faisant de petits sauts. Ses sandales sont faites en aluminium.
 Homme fort qui construit des bâtiments. Il possède un chalet en montagne, qu'il a lui-même construit.
 Il n'a pas encore complètement trouvé le truc pour zoomer.
 Ils doivent être en train de se disputer.
@@ -3112,13 +3105,11 @@ Au début de chaque été, il pleut des cerises dans cette forêt.
 Centre d'observation de l'Univers. Il serait plus logique qu'il soit plus près de l'espace.
 Le dernier vol spatial a eu une avarie lorsqu'un membre de l'équipage a renversé sa boisson.
 Il n'y a pas de serrure, alors ça ne sert à rien de planter des clés dedans.
-La flamme du dessus est en or.
-Il ne faut pas la mettre sur un gâteau,
+La flamme du dessus est en or. Il ne faut pas la mettre sur un gâteau,
 car impossible à éteindre.
 Il ne crache rien parce qu'il a vu quelque chose à couper le souffle.
 DmyFR
-Malgré le froid, le temple a
-de nombreuses fenêtres. Il doit faire
+Malgré le froid, le temple a de nombreuses fenêtres. Il doit faire
 très chaud à l'intérieur.
 Une chaîne de télé y a filmé l'une de ses émissions de télé-réalité sur la vie sur une île déserte.
 On y trouve une grotte peuplée de chauves-souris. Nous préférons ne pas nous en approcher.
@@ -3400,8 +3391,7 @@ Ce cousin-là ressemble étrangement au Prince, vu sous certains angles. Une foi
 Ça fait un moment que ce cousin ne s'était plus tenu debout. Il a grandi depuis la dernière fois, alors il n'a plus besoin de flotter.
 Nous pensons que ce cousin vieillit. Le volcan perché sur sa tête n'entre pas souvent en éruption, mais il est encore actif.
 Cousin qui est toujours dans vos pattes quand vous vous tenez à côté de lui. La fumée des cigares le rend nostalgique.
-Ce cousin rêve des étoiles. Il a abandonné la danse et
-s'est mis au golf, c'est plus chic.
+Ce cousin rêve des étoiles. Il a abandonné la danse et s'est mis au golf, c'est plus chic.
 Cousin qui passe son temps à regarder la télé. Il regarde ailleurs pendant les émissions effrayantes. C'est pour ça que sa tête est comme ça.
 Il est très coquet et très fier de sa taille, mais n'est pas de taille à devenir mannequin.
 Il est très doué pour rater tout ce qu'il entreprend... Sauf quand on ne le regarde pas.
@@ -3441,8 +3431,7 @@ Ce cousin-là ressemble étrangement au Prince, vu sous certains angles. Une foi
 Ça fait un moment que ce cousin ne s'était plus tenu debout. Il a grandi depuis la dernière fois, alors il n'a plus besoin de flotter.
 Nous pensons que ce cousin vieillit. Le volcan perché sur sa tête n'entre pas souvent en éruption, mais il est encore actif.
 Cousin qui est toujours dans vos pattes quand vous vous tenez à côté de lui. La fumée des cigares le rend nostalgique.
-Ce cousin rêve des étoiles. Il a abandonné la danse et
-s'est mis au golf, c'est plus chic.
+Ce cousin rêve des étoiles. Il a abandonné la danse et s'est mis au golf, c'est plus chic.
 Cousin qui passe son temps à regarder la télé. Il regarde ailleurs pendant les émissions effrayantes. C'est pour ça que sa tête est comme ça.
 Il est très coquet et très fier de sa taille, mais n'est pas de taille à devenir mannequin.
 Il est très doué pour rater tout ce qu'il entreprend... Sauf quand on ne le regarde pas.
@@ -3482,8 +3471,7 @@ Ce cousin-là ressemble étrangement au Prince, vu sous certains angles. Une foi
 Ça fait un moment que ce cousin ne s'était plus tenu debout. Il a grandi depuis la dernière fois, alors il n'a plus besoin de flotter.
 Nous pensons que ce cousin vieillit. Le volcan perché sur sa tête n'entre pas souvent en éruption, mais il est encore actif.
 Cousin qui est toujours dans vos pattes quand vous vous tenez à côté de lui. La fumée des cigares le rend nostalgique.
-Ce cousin rêve des étoiles. Il a abandonné la danse et
-s'est mis au golf, c'est plus chic.
+Ce cousin rêve des étoiles. Il a abandonné la danse et s'est mis au golf, c'est plus chic.
 Cousin qui passe son temps à regarder la télé. Il regarde ailleurs pendant les émissions effrayantes. C'est pour ça que sa tête est comme ça.
 Il est très coquet et très fier de sa taille, mais n'est pas de taille à devenir mannequin.
 Il est très doué pour rater tout ce qu'il entreprend... Sauf quand on ne le regarde pas.
