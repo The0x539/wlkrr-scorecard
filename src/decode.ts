@@ -2,6 +2,7 @@ export class BinaryReader<T extends ArrayBufferLike = ArrayBuffer>
   extends DataView<T> {
   private i = 0;
   littleEndian = true;
+  version = 0;
 
   constructor(buffer: T) {
     super(buffer);

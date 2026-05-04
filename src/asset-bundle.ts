@@ -9,6 +9,7 @@ export class BundleHeader extends Decodable {
   archiveSize = this.r.u64();
   infoBlockCompressedSize = this.r.u32();
   infoBlockSize = this.r.u32();
+
   flags = (() => {
     const raw = this.r.u32();
     return {
@@ -90,6 +91,7 @@ export class BundleFile {
     r.littleEndian = false;
     this.data = r;
     this.header = new BundleHeader(r);
+    r.version = this.header.fileVersion;
     this.alignBlock();
 
     r.seek(this.header.getInfoBlockOffset());
@@ -149,19 +151,11 @@ export class BundleFile {
   }
 }
 
-export class AssetHeader {
-  metadataSize: number;
-  fileSize: number;
-  version: number;
-  dataOffset: number;
-
-  constructor(r: BinaryReader) {
-    r.littleEndian = false;
-    this.metadataSize = r.u32();
-    this.fileSize = r.u32();
-    this.version = r.u32();
-    this.dataOffset = r.u32();
-  }
+export class AssetHeader extends Decodable {
+  metadataSize = this.r.u32();
+  fileSize = this.r.u32();
+  version = this.r.u32();
+  dataOffset = this.r.u32();
 }
 
 export class Asset {
@@ -180,6 +174,7 @@ export class Asset {
     r.littleEndian = false;
 
     const h = this.header = new AssetHeader(r);
+    r.version = h.version;
 
     if (h.version >= 9) {
       this.bigEndian = r.bool32(); // looks to be big-endian for this game
@@ -202,7 +197,7 @@ export class Asset {
 
     this.types = r.array(
       r.i32(),
-      (r) => new SerializedType(r, h.version, this.enableTypeTree),
+      (r) => new SerializedType(r, this.enableTypeTree),
     );
     for (const ty of this.types) this.typeMap.set(ty.classID, ty);
 
@@ -224,11 +219,8 @@ export class SerializedType {
     deps: number[];
   } | null = null;
 
-  constructor(
-    r: BinaryReader,
-    version: number,
-    enableTypeTree: boolean,
-  ) {
+  constructor(r: BinaryReader, enableTypeTree: boolean) {
+    const version = r.version;
     this.classID = r.i32();
 
     if (version >= 16) this.isStrippedType = r.bool();
@@ -261,14 +253,14 @@ export class TypeTree {
   nodes: TypeTreeNode[];
   stringBuffer = new ArrayBuffer(0);
 
-  constructor(r: BinaryReader, version: number) {
+  constructor(r: BinaryReader) {
     const nodeCount = r.i32();
     const stringBufferSize = r.i32();
 
     this.nodes = [];
 
     for (let i = 0; i < nodeCount; i++) {
-      const node = new TypeTreeNode(r, version);
+      const node = new TypeTreeNode(r);
       this.nodes.push(node);
     }
 
@@ -303,7 +295,7 @@ export class TypeTreeNode {
   name: string;
   refTypeHash: bigint | null = null;
 
-  constructor(r: BinaryReader, version: number) {
+  constructor(r: BinaryReader) {
     this.version = r.u16();
     this.level = r.u8();
     this.typeFlag = r.u8();
@@ -315,7 +307,7 @@ export class TypeTreeNode {
     this.type = "";
     this.name = "";
 
-    if (version >= 19) this.refTypeHash = r.big_u64();
+    if (r.version >= 19) this.refTypeHash = r.big_u64();
   }
 }
 
@@ -373,6 +365,8 @@ export class ObjectInfo {
     const end = start + this.bytesSize;
     const chunk = buf.slice(start, end) as T;
     console.assert(chunk.constructor === buf.constructor);
-    return new BinaryReader(chunk);
+    const reader = new BinaryReader(chunk);
+    reader.version = this.version;
+    return reader;
   }
 }

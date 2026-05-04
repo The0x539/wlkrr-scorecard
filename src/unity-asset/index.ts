@@ -8,9 +8,9 @@ export class PPtr {
   fileID: number;
   pathID: number;
 
-  constructor(r: BinaryReader, version: number) {
+  constructor(r: BinaryReader) {
     this.fileID = r.i32();
-    this.pathID = version < 14 ? r.i32() : r.i64();
+    this.pathID = r.version < 14 ? r.i32() : r.i64();
   }
 }
 
