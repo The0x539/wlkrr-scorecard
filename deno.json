@@ -5,6 +5,7 @@
     "run": "deno run -A npm:@rsbuild/core dev",
     "dump-locale": "deno -RW src/dump-locale.ts",
     "dump": "deno task dump-locale",
+    "sandbox": "deno -R src/sandbox.ts",
 
     "deploy": "deno task build --base /~the0x539/wlkrr && rsync -r dist/ lcolonq:public_html/wlkrr"
   },

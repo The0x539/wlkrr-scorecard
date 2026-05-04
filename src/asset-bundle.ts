@@ -1,5 +1,6 @@
 import { BinaryReader, Decodable } from "./decode.ts";
 import * as lz4 from "@denosaurs/lz4";
+import { commonStrings } from "./unity-asset/common-strings.ts";
 
 export class BundleHeader extends Decodable {
   signature = this.r.string(); // "UnityFS"
@@ -240,7 +241,7 @@ export class SerializedType {
         throw new Error(`Unsupported asset version: ${version}`);
       }
 
-      this.typeTree = { tree: new TypeTree(r, version), deps: [] };
+      this.typeTree = { tree: new TypeTree(r), deps: [] };
 
       if (version >= 21) {
         this.typeTree.deps = r.array(r.i32(), r.i32);
@@ -265,50 +266,50 @@ export class TypeTree {
     }
 
     const stringBuffer = r.bytes(stringBufferSize);
-    function readString(offset: number): string {
-      if (offset >= 0) {
-        const end = stringBuffer.indexOf(0, offset);
-        const bytes = stringBuffer.slice(offset, end);
+    function readString(id: TypeStrId): string {
+      if (id.custom) {
+        const end = stringBuffer.indexOf(0, id.offset);
+        const bytes = stringBuffer.slice(id.offset, end);
         return new TextDecoder().decode(bytes);
       } else {
-        return "todo";
+        return commonStrings.get(id.idx)!;
       }
     }
 
     for (const node of this.nodes) {
-      node.type = readString(node.typeStrOffset);
-      node.name = readString(node.nameStrOffset);
+      node.type = readString(node.typeStr);
+      node.name = readString(node.nameStr);
     }
   }
 }
 
-export class TypeTreeNode {
-  version: number;
-  level: number;
-  typeFlag: number;
-  typeStrOffset: number;
-  nameStrOffset: number;
-  size: number;
-  index: number;
-  metaFlag: number;
-  type: string;
-  name: string;
-  refTypeHash: bigint | null = null;
+export type TypeStrId = { custom: false; idx: number } | {
+  custom: true;
+  offset: number;
+};
 
-  constructor(r: BinaryReader) {
-    this.version = r.u16();
-    this.level = r.u8();
-    this.typeFlag = r.u8();
-    this.typeStrOffset = r.u32();
-    this.nameStrOffset = r.u32();
-    this.size = r.i32();
-    this.index = r.i32();
-    this.metaFlag = r.i32();
-    this.type = "";
-    this.name = "";
-
-    if (r.version >= 19) this.refTypeHash = r.big_u64();
+const typeStr = (r: BinaryReader): TypeStrId => {
+  const n = r.u32();
+  const flag = 0x8000_0000;
+  if (n & flag) {
+    return { custom: false, idx: n & ~flag };
+  } else {
+    return { custom: true, offset: n };
   }
+};
+
+export class TypeTreeNode extends Decodable {
+  version = this.r.u16();
+  level = this.r.u8();
+  typeFlag = this.r.u8();
+  typeStr = typeStr(this.r);
+  nameStr = typeStr(this.r);
+  size = this.r.i32();
+  index = this.r.i32();
+  metaFlag = this.r.i32();
+  refTypeHash: bigint | null = this.r.version >= 19 ? this.r.big_u64() : null;
+  type = "";
+  name = "";
 }
 
 export class ObjectInfo {
