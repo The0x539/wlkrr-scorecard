@@ -1,18 +1,16 @@
 import { BinaryReader, Decodable } from "../decode.ts";
 
-export * from "./mono-behaviour.ts";
-
 export abstract class AssetBase extends Decodable {
   abstract readonly typeID: AssetType;
 }
 
 export class PPtr {
   fileID: number;
-  pathID: bigint;
+  pathID: number;
 
   constructor(r: BinaryReader, version: number) {
     this.fileID = r.i32();
-    this.pathID = version < 14 ? BigInt(r.i32()) : r.big_i64();
+    this.pathID = version < 14 ? r.i32() : r.i64();
   }
 }
 

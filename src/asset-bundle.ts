@@ -9,11 +9,56 @@ export class BundleHeader extends Decodable {
   archiveSize = this.r.u64();
   infoBlockCompressedSize = this.r.u32();
   infoBlockSize = this.r.u32();
-  flags = this.r.u32();
+  flags = (() => {
+    const raw = this.r.u32();
+    return {
+      raw,
+      compressionMode: raw & 0x3F,
+      hasDirectoryInfo: !!(raw & 0x40),
+      infoBlockAtEnd: !!(raw & 0x80),
+      oldWebPluginCompat: !!(raw & 0x100),
+      blockInfoNeedPaddingAtStart: !!(raw & 0x200),
+    };
+  })();
 
-  compressionMode = this.flags & 0x3F;
-  hasDirectoryInfo = !!(this.flags & 0x40);
-  infoBlockAtEnd = !!(this.flags & 0x80);
+  private getHeaderEnd(): number {
+    let pos = this.minPlayerVersion.length + this.fileEngineVersion.length;
+    pos += 0x1a;
+
+    if (this.flags.oldWebPluginCompat) {
+      pos += 0x0a;
+    } else {
+      pos += this.signature.length + 1;
+    }
+
+    if (this.fileVersion >= 7) {
+      while (pos % 16 !== 0) pos++;
+    }
+
+    return pos;
+  }
+
+  getInfoBlockOffset(): number {
+    if (this.flags.infoBlockAtEnd) {
+      return -this.infoBlockCompressedSize;
+    } else {
+      return this.getHeaderEnd();
+    }
+  }
+
+  getFileDataOffset(): number {
+    let pos = this.getHeaderEnd();
+
+    if (!this.flags.infoBlockAtEnd) {
+      pos += this.infoBlockCompressedSize;
+    }
+
+    if (this.flags.blockInfoNeedPaddingAtStart) {
+      while (pos % 16 !== 0) pos++;
+    }
+
+    return pos;
+  }
 }
 
 export class BundleInfoBlock extends Decodable {
@@ -32,7 +77,7 @@ export class PathInfo extends Decodable {
   location = this.r.u64();
   uncompressedSize = this.r.u64();
   flags = this.r.u32();
-  filepath = new TextDecoder().decode(this.r.bytes(37)).replace(/\0+$/, "");
+  filepath = this.r.string();
 }
 
 export class BundleFile {
@@ -40,31 +85,17 @@ export class BundleFile {
   infoBlock: BundleInfoBlock;
 
   private readonly data: BinaryReader;
-  private readonly dataStart: number;
-  private readonly alignedBlocks: boolean;
 
   constructor(r: BinaryReader) {
     r.littleEndian = false;
     this.data = r;
     this.header = new BundleHeader(r);
+    this.alignBlock();
 
-    this.alignedBlocks = this.header.fileVersion >= 7;
-    this.dataStart = r.pos();
+    r.seek(this.header.getInfoBlockOffset());
+    let infoBlockData = r.bytes(this.header.infoBlockCompressedSize);
 
-    let infoBlockData: Uint8Array<ArrayBuffer>;
-    if (this.header.infoBlockAtEnd) {
-      r.seek(-this.header.infoBlockCompressedSize);
-    }
-    infoBlockData = r.bytes(this.header.infoBlockCompressedSize);
-    if (this.header.infoBlockAtEnd) {
-      r.seek(this.dataStart);
-    }
-
-    if (this.alignedBlocks) {
-      r.align(16);
-    }
-
-    const mode = this.header.compressionMode;
+    const mode = this.header.flags.compressionMode;
     if (mode === 2 || mode === 3) {
       infoBlockData = lz4.decompress(infoBlockData) as Uint8Array<ArrayBuffer>;
     }
@@ -77,25 +108,44 @@ export class BundleFile {
     const metadata = this.infoBlock.paths[index];
     const data = new Uint8Array(metadata.uncompressedSize);
 
-    this.data.seek(this.dataStart);
-    if (this.alignedBlocks) {
-      this.data.align(16);
-    }
+    this.data.seek(this.header.getFileDataOffset());
 
-    let i = 0, j = 0;
-    // TODO: For files other than the first, seek to the appropriate position in the block list.
-    // The only bundle I'm working with and can manage to successfully parse only has one file in it.
+    let srcPos = 0, blockIdx = 0, dstPos = 0;
 
-    for (; j < metadata.uncompressedSize; i++) {
-      const blockInfo = this.infoBlock.blocks[i];
+    while (dstPos < metadata.uncompressedSize) {
+      const blockInfo = this.infoBlock.blocks[blockIdx];
+      const blockEnd = srcPos + blockInfo.uncompressedSize;
 
-      const compressedBlock = this.data.bytes(blockInfo.compressedSize);
-      const block = lz4.decompress(compressedBlock);
-      data.set(block, j);
-      j += blockInfo.uncompressedSize;
+      if (blockEnd <= metadata.location) {
+        this.data.skip(blockInfo.compressedSize);
+        blockIdx += 1;
+        srcPos = blockEnd;
+        continue;
+      }
+
+      let blockData = this.data.bytes(blockInfo.compressedSize);
+      blockData = lz4.decompress(blockData) as Uint8Array<ArrayBuffer>;
+      console.assert(blockData.length === blockInfo.uncompressedSize);
+
+      const start = metadata.location + dstPos - srcPos;
+      const desiredLength = metadata.uncompressedSize - dstPos;
+      const end = Math.min(blockData.length, start + desiredLength);
+      const chunk = blockData.slice(start, end);
+
+      data.set(chunk, dstPos);
+      dstPos += chunk.length;
+
+      blockIdx += 1;
+      srcPos = blockEnd;
     }
 
     return data;
+  }
+
+  private alignBlock(): void {
+    if (this.header.fileVersion >= 7) {
+      this.data.align(16);
+    }
   }
 }
 
@@ -126,7 +176,8 @@ export class Asset {
   objectInfos: ObjectInfo[] = [];
 
   constructor(readonly buf: ArrayBuffer) {
-    const r = new BinaryReader(buf, false);
+    const r = new BinaryReader(buf);
+    r.littleEndian = false;
 
     const h = this.header = new AssetHeader(r);
 
@@ -322,6 +373,6 @@ export class ObjectInfo {
     const end = start + this.bytesSize;
     const chunk = buf.slice(start, end) as T;
     console.assert(chunk.constructor === buf.constructor);
-    return new BinaryReader(chunk, false);
+    return new BinaryReader(chunk);
   }
 }
