@@ -1,6 +1,7 @@
 * {
   font-family: inherit;
   font-size: inherit;
+  box-sizing: border-box;
 }
 
 :root {
@@ -31,6 +32,11 @@ select-meadow {
   background-size: auto 50lvh, auto 45lvh, auto 28lvh;
   background-repeat: repeat-x;
   background-position-y: bottom, top 20lvh, top;
+}
+
+body {
+  margin: 0;
+  height: 100%;
 }
 
 ol.missions {

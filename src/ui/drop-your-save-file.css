@@ -1,0 +1,169 @@
+.letters-container {
+  /* width: 100%; */
+  /* height: 100svh; */
+  padding-block: 10rem;
+  margin-inline: auto;
+  width: max-content;
+}
+
+.letter > img {
+  height: 100%;
+}
+
+.letter {
+  display: inline-block;
+  height: 100px;
+  position: relative;
+
+  animation: calc(10 * var(--rate)) ease-in-out calc(2 * var(--rate)) infinite alternate bob;
+
+  &:nth-child(01) {
+    height: 60px;
+    --rate: 0.25s;
+    &::before {
+      background-image: url("../assets/birds/01.png");
+      left: -4px;
+      top: -28px;
+    }
+  }
+  &:nth-child(02) {
+    height: 75px;
+    top: 15px;
+    --rate: 0.15s;
+    &::before {
+      background-image: url("../assets/birds/02.png");
+      top: -10px;
+      left: -2px;
+    }
+  }
+  &:nth-child(03) {
+    height: 65px;
+    top: 25px;
+    --rate: 0.32s;
+    &::before {
+      background-image: url("../assets/birds/03.png");
+      top: -25px;
+      left: -28px;
+    }
+  }
+  &:nth-child(04) {
+    height: 90px;
+    top: 25px;
+    margin-inline: 20px -10px;
+    --rate: 0.17s;
+    &::before {
+      background-image: url("../assets/birds/04.png");
+      top: -24px;
+      left: 19px;
+    }
+  }
+  &:nth-child(05) {
+    height: 55px;
+    top: 25px;
+    --rate: 0.21s;
+    &::before {
+      background-image: url("../assets/birds/05.png");
+      top: -28px;
+      left: -32px;
+    }
+  }
+  &:nth-child(06) {
+    height: 55px;
+    top: 15px;
+    margin-inline: 40px 0;
+    --rate: 0.3s;
+    &::before {
+      background-image: url("../assets/birds/06.png");
+      top: -25px;
+      left: -9px;
+    }
+  }
+  &:nth-child(07) {
+    height: 55px;
+    top: 15px;
+    --rate: 0.14s;
+    &::before {
+      background-image: url("../assets/birds/07.png");
+      top: -27px;
+      left: 4px;
+    }
+  }
+  &:nth-child(08) {
+    height: 90px;
+    top: 40px;
+    right: 10px;
+    --rate: 0.22s;
+    &::before {
+      background-image: url("../assets/birds/08.png");
+      top: -19px;
+      left: 13px;
+    }
+  }
+  &:nth-child(09) {
+    height: 85px;
+    top: 10px;
+    --rate: 0.25s;
+    &::before {
+      background-image: url("../assets/birds/09.png");
+      top: -28px;
+      left: 31px;
+    }
+  }
+  &:nth-child(10) {
+    height: 75px;
+    top: 15px;
+    right: 10px;
+    --rate: 0.18s;
+    &::before {
+      background-image: url("../assets/birds/10.png");
+      top: -22px;
+      left: -26px;
+    }
+  }
+  &:nth-child(11) {
+    height: 85px;
+    top: 15px;
+    --rate: 0.23s;
+    &::before {
+      background-image: url("../assets/birds/11.png");
+      top: -22px;
+      left: -26px;
+    }
+  }
+}
+
+.letter::before {
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  --width: 80px;
+  --height: calc(var(--width) * 310 / 726);
+
+  width: var(--width);
+  height: var(--height);
+
+  content: " ";
+  display: block;
+  position: absolute;
+  z-index: 1;
+
+  animation: var(--rate) steps(2, jump-none) 0s infinite alternate flap;
+}
+
+@keyframes flap {
+  from {
+    background-position-y: 0;
+  }
+  to {
+    background-position-y: calc(-1 * var(--height));
+  }
+}
+
+@keyframes bob {
+  from {
+    translate: 0 0;
+  }
+  to {
+    translate: 0 15px;
+  }
+}

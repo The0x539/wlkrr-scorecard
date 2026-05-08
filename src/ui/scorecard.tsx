@@ -14,6 +14,7 @@ import {
   recordCategoryId,
 } from "../game-data/fans.ts";
 import { missions } from "../game-data/missions.ts";
+import { DropYourSaveFile } from "./drop-your-save-file.tsx";
 
 const durFmt = new Intl.DurationFormat(undefined, {
   style: "digital",
@@ -48,11 +49,7 @@ const useMeadowOrder = signal(true);
 export function Scorecard(): JSX.Element {
   const save = fileState.save.value;
   if (!save) {
-    return (
-      <>
-        No save file loaded.
-      </>
-    );
+    return DropYourSaveFile();
   }
 
   const slot = save.users[0];
