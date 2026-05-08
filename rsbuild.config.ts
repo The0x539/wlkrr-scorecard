@@ -18,6 +18,7 @@ export default defineConfig({
       module: {
         rules: [
           { test: /\.json$/, type: "asset/resource" },
+          { test: /\.txt$/, type: "asset/resource" },
         ],
       },
     },
@@ -33,6 +34,7 @@ export default defineConfig({
               // TODO: Figure out a good way to just properly isolate these so they're not type-checked with the web stuff
               "./src/dump-locale.ts",
               "./src/asset-bundle.ts",
+              "./src/sandbox.ts",
               "./src/unity-asset/mono-behaviour.ts",
               "./src/unity-asset/index.ts",
             ],

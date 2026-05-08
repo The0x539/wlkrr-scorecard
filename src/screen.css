@@ -1,0 +1,63 @@
+* {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+:root {
+  font-family: Segoe UI, sans-serif;
+}
+
+/*
+:root {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
+
+select-meadow {
+  width: 100lvw;
+  height: 100lvh;
+  position: fixed;
+  top: 0;
+}
+*/
+
+:root {
+  height: 100lvh;
+
+  background-image: url('./assets/re-back.png'), url('./assets/sky.png'), url('./assets/sky2.png');
+  background-size: auto 70lvh, auto 30lvh, auto 28lvh;
+  background-repeat: repeat-x;
+  background-position-y: bottom, top 20lvh, top;
+}
+
+ol.missions {
+  background: white;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  & > ol {
+    border: 1px solid gray;
+    padding: 1rem;
+  }
+}
+
+li {
+  list-style: none;
+}
+
+li > label {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+li * {
+  font-size: 1rem;
+}
+
+dt::after {
+  content: ':';  
+}

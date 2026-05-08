@@ -3,11 +3,13 @@ import { fileState, Scorecard } from "./ui/scorecard.tsx";
 
 import { createElement, render } from "preact";
 
+import "./screen.css";
+
 if (!window["Temporal"]) {
   await import("temporal-polyfill/global");
 }
 
-render(createElement(Scorecard, {}), document.body);
+render(createElement(Scorecard, {}), document.querySelector("main")!);
 
 document.addEventListener("dragover", (e: DragEvent) => {
   if (!e.dataTransfer) return;

@@ -10,6 +10,7 @@ import {
   gameMission2Fan,
   recordCategoryId,
 } from "./game-data/fans.ts";
+import { missions } from "./game-data/missions.ts";
 
 const steamDir = [
   "C:/Program Files (x86)/Steam",
@@ -63,12 +64,16 @@ for (const x of recordCategoryId) {
   console.log(x.map((i) => select[i]));
 }
 
-console.log(gameFan2Mission.length);
-console.log(gameMission2Fan.length);
+for (const i in recordCategoryId) {
+  for (const j in recordCategoryId[i]) {
+    const k = recordCategoryId[i][j];
+    console.log(k, select[k]);
+    console.log("\t\t", missions[i][j]);
+  }
+  console.log();
+}
 
 // Next area of research:
-// SelectHiroba_TalkOption.sRecord
-// Game.mYm_GiMi_StarID
-// SelectHiroba_TalkOption.u8MisNo
-//
-// Do "missions" correspond to a map and props within it, and then a stage is, like, large vs. fast?
+// Figure out how the save file slots are correlated with fans and missions.
+// This will probably involve looking into the code that looks up the scores.
+// Annoyingly, this is obfuscated behind the way that save data is converted between two different data types.
