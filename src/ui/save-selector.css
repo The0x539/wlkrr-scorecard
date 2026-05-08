@@ -1,0 +1,46 @@
+.save-slot {
+  display: inline-block;
+
+  background-image: url('../assets/namco.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  --height: 100;
+
+  &:nth-child(1) {
+    --width: 1200px;
+  }
+  &:nth-child(2) {
+    --width: 830px;
+    --offset: 1200px;
+  }
+  &:nth-child(3) {
+    --width: 1236px;
+    --offset: 2030px;
+  }
+
+  height: calc(1px * var(--height));
+  width: calc(var(--width) * var(--height) / 620);
+  background-position-x: calc(-1 * var(--offset) * var(--height) / 620);
+
+  &:has(input:not(:checked)) {
+    opacity: 0.333;
+
+    &:hover {
+      opacity: 0.667;
+    }
+  }
+
+  & > label {
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  & > input {
+    position: absolute;
+    opacity: 0;
+  }
+}

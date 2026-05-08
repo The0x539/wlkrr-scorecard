@@ -27,6 +27,26 @@ export default class SaveFile extends Decodable {
       .toSorted(Temporal.PlainDateTime.compare)
       .toReversed()[0];
   }
+
+  indexOfNewestSave(): number {
+    const timestamps = this.users.map((s) => s.sys.timestamp());
+
+    let ret = 0;
+    for (const i of [0, 1, 2]) {
+      const challenger = timestamps[i];
+      const incumbent = timestamps[ret];
+      if (challenger === null) continue;
+      if (incumbent === null) {
+        ret = i;
+        continue;
+      }
+
+      if (Temporal.PlainDateTime.compare(incumbent, challenger) < 0) {
+        ret = i;
+      }
+    }
+    return ret;
+  }
 }
 
 export class SaveInfo extends Decodable {

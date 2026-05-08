@@ -1,4 +1,4 @@
-import { effect, signal } from "@preact/signals";
+import { effect, signal, useSignal } from "@preact/signals";
 
 import SaveFile from "../save-file.ts";
 import decrypt from "../decrypt.ts";
@@ -15,6 +15,7 @@ import {
 } from "../game-data/fans.ts";
 import { missions } from "../game-data/missions.ts";
 import { DropYourSaveFile } from "./drop-your-save-file.tsx";
+import { SaveSelector } from "./save-selector.tsx";
 
 const durFmt = new Intl.DurationFormat(undefined, {
   style: "digital",
@@ -52,7 +53,12 @@ export function Scorecard(): JSX.Element {
     return DropYourSaveFile();
   }
 
-  const slot = save.users[0];
+  const selectedSlot = useSignal(-1);
+  if (selectedSlot.value === -1) {
+    selectedSlot.value = save.indexOfNewestSave();
+  }
+
+  const slot = save.users[selectedSlot.value];
   const game = slot.game;
 
   const list: JSX.Element[] = [];
@@ -117,6 +123,7 @@ export function Scorecard(): JSX.Element {
 
   return (
     <>
+      {SaveSelector(selectedSlot)}
       <ol class="missions">
         {list}
       </ol>
