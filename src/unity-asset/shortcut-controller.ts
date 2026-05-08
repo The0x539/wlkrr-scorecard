@@ -25,6 +25,7 @@ export class ShortcutFan extends Decodable {
   disp_flg = this.r.bool32();
   fan_index = this.r.i32();
   new_flg = this.r.bool32();
+  // initialized later to fan_index + 2800, or fan_index + 233 for Royal Reverie
   string_index = this.r.i32();
   back = new PPtr(this.r);
   image = new PPtr(this.r);

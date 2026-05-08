@@ -33,6 +33,7 @@ export default defineConfig({
             exclude: [
               // TODO: Figure out a good way to just properly isolate these so they're not type-checked with the web stuff
               "./src/dump-locale.ts",
+              "./src/dump-fan-order.ts",
               "./src/asset-bundle.ts",
               "./src/sandbox.ts",
               "./src/unity-asset/mono-behaviour.ts",

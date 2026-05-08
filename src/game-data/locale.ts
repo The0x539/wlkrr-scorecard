@@ -6,11 +6,12 @@ async function load(signal: Signal<string[]>, url: URL): Promise<void> {
   signal.value = text.split("\n");
 }
 
-export const names = signal([]);
-load(names, new URL("./locale/name/english.txt", import.meta.url));
+export const english = {
+  names: signal([]),
+  suffixes: signal([]),
+  select: signal([]),
+};
 
-export const suffixes = signal([]);
-load(suffixes, new URL("./locale/suffix/english.txt", import.meta.url));
-
-export const select = signal([]);
-load(select, new URL("./locale/select/english.txt", import.meta.url));
+load(english.names, new URL("./locale/name/english.txt", import.meta.url));
+load(english.suffixes, new URL("./locale/suffix/english.txt", import.meta.url));
+load(english.select, new URL("./locale/select/english.txt", import.meta.url));

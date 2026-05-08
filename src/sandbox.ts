@@ -5,11 +5,7 @@ import { BinaryReader } from "./decode.ts";
 import * as fs from "@std/fs";
 import { GameObject } from "./unity-asset/game-object.ts";
 import { ShortcutController } from "./unity-asset/shortcut-controller.ts";
-import {
-  gameFan2Mission,
-  gameMission2Fan,
-  recordCategoryId,
-} from "./game-data/fans.ts";
+import { recordCategoryId } from "./game-data/fans.ts";
 import { missions } from "./game-data/missions.ts";
 
 const steamDir = [
@@ -44,6 +40,14 @@ const scene = new Asset(bundle.getFile(2).buffer);
 // scripts.objectInfos.unshift(null!);
 scene.objectInfos.unshift(null!);
 
+const loadLocale = (s: string) =>
+  Deno.readTextFileSync(`src/game-data/locale/${s}/english.txt`).split("\n");
+
+const english = {
+  select: loadLocale("select"),
+  name: loadLocale("name"),
+};
+
 for (const oi of scene.objectInfos) {
   if (!oi) continue;
   if (oi.classID !== GameObject.typeID) continue;
@@ -52,22 +56,20 @@ for (const oi of scene.objectInfos) {
   if (obj.name !== "Shortcut") continue;
 
   const ci = scene.objectInfos[obj.components[3].pathID];
-  const _sc = new ShortcutController(ci.getReader(scene.buf));
+  const sc = new ShortcutController(ci.getReader(scene.buf));
+  for (const fan of sc.select_fan_list) {
+    const fi = fan.fan_index;
+    const si = fi + 2800;
+    console.log(fi, si, english.name[si]);
+  }
 
   break;
-}
-
-const select = Deno.readTextFileSync("src/game-data/locale/select/english.txt")
-  .split("\n");
-
-for (const x of recordCategoryId) {
-  console.log(x.map((i) => select[i]));
 }
 
 for (const i in recordCategoryId) {
   for (const j in recordCategoryId[i]) {
     const k = recordCategoryId[i][j];
-    console.log(k, select[k]);
+    console.log(k, english.select[k]);
     console.log("\t\t", missions[i][j]);
   }
   console.log();

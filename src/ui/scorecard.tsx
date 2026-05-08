@@ -5,8 +5,14 @@ import decrypt from "../decrypt.ts";
 
 import type { JSX } from "preact";
 
-import { select } from "../game-data/locale.ts";
-import { recordCategoryId } from "../game-data/fans.ts";
+import { english } from "../game-data/locale.ts";
+import {
+  gameFan2Mission,
+  gameMission2Fan,
+  meadowOrder,
+  memoryOrder,
+  recordCategoryId,
+} from "../game-data/fans.ts";
 import { missions } from "../game-data/missions.ts";
 
 const durFmt = new Intl.DurationFormat(undefined, {
@@ -37,6 +43,8 @@ function record(n: number, i: number): string {
   }
 }
 
+const useMeadowOrder = signal(true);
+
 export function Scorecard(): JSX.Element {
   const save = fileState.save.value;
   if (!save) {
@@ -51,13 +59,17 @@ export function Scorecard(): JSX.Element {
   const game = slot.game;
 
   const list: JSX.Element[] = [];
-  for (const i in recordCategoryId) {
+
+  const order = useMeadowOrder.value
+    ? meadowOrder.flat().concat(memoryOrder).map((i) => gameFan2Mission[i])
+    : gameFan2Mission;
+
+  for (const i of order) {
     const sublist: JSX.Element[] = [];
     for (const j in recordCategoryId[i]) {
-      const name = select.value[recordCategoryId[i][j]];
       const info = missions[i][j];
 
-      if (info.star === 0) continue;
+      //if (info.star === 0) continue;
       const star = game.star[info.star];
 
       const records = [...star.record];
@@ -66,31 +78,44 @@ export function Scorecard(): JSX.Element {
       }
 
       // this seems to be incorrect
-      //const name = names.value[star.name] + ' ' + suffixes.value[star.star_suffix];
+      //const name = english.names.value[star.name] + ' ' + english.suffixes.value[star.star_suffix];
 
+      const levelName = english.select.value[recordCategoryId[i][j]];
       sublist.push(
         <li>
-          {name}
+          <h3>{levelName}</h3>
           <dl>
-            <dt>Record</dt>
-            <dd>
-              <ol>
-                {records.map((n, i) => (
-                  <li key={i}>
-                    {record(n, i)}
-                  </li>
-                ))}
-              </ol>
-            </dd>
-
             <dt>Rank</dt>
             <dd>{star.rank}</dd>
+
+            {records.length > 0 && (
+              <>
+                <dt>Record</dt>
+                <dd>
+                  <ol>
+                    {records.map((n, i) => (
+                      <li key={i}>
+                        {record(n, i)}
+                      </li>
+                    ))}
+                  </ol>
+                </dd>
+              </>
+            )}
           </dl>
         </li>,
       );
     }
-    if (sublist.length === 0) continue;
-    list.push(<ol>{sublist}</ol>);
+    //if (sublist.length === 0) continue;
+
+    const fanIndex = gameMission2Fan[i];
+    const fanName = english.names.value[2800 + fanIndex];
+    list.push(
+      <li>
+        <h2>{fanName}</h2>
+        <ol>{sublist}</ol>
+      </li>,
+    );
   }
 
   return (

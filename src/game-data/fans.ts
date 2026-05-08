@@ -1,3 +1,13 @@
+export const meadowOrder = [
+  [6, 0, 21, 15, 29],
+  [1, 18, 12, 10, 27],
+  [19, 20, 9, 4],
+  [5, 3, 17, 13],
+  [7, 2, 23, 22],
+  [16, 8, 11, 14, 26, 24],
+];
+export const memoryOrder = [30, 31, 32, 33, 34];
+
 // deno-fmt-ignore
 export const gameFan2Mission = [
   4, 5, 6, 7, 8, 1, 3, 9, 0, 11,

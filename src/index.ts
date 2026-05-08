@@ -9,7 +9,7 @@ if (!window["Temporal"]) {
   await import("temporal-polyfill/global");
 }
 
-render(createElement(Scorecard, {}), document.querySelector("main")!);
+render(createElement(Scorecard, {}), document.body);
 
 document.addEventListener("dragover", (e: DragEvent) => {
   if (!e.dataTransfer) return;

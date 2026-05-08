@@ -28,20 +28,20 @@ select-meadow {
   height: 100lvh;
 
   background-image: url('./assets/re-back.png'), url('./assets/sky.png'), url('./assets/sky2.png');
-  background-size: auto 70lvh, auto 30lvh, auto 28lvh;
+  background-size: auto 50lvh, auto 45lvh, auto 28lvh;
   background-repeat: repeat-x;
   background-position-y: bottom, top 20lvh, top;
 }
 
 ol.missions {
-  background: white;
   display: flex;
-  flex-wrap: wrap;
   gap: 1rem;
+  width: max-content;
 
-  & > ol {
-    border: 1px solid gray;
-    padding: 1rem;
+  & > li {
+    background: rgb(255, 255, 255, 0.5);
+    padding: 0.5rem;
+    height: min-content;
   }
 }
 
@@ -60,4 +60,8 @@ li * {
 
 dt::after {
   content: ':';  
+}
+
+h2 {
+  text-decoration: underline;
 }
