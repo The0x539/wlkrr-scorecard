@@ -34,6 +34,7 @@ async function* findKatamariSave(
   name?: string,
 ): AsyncGenerator<File> {
   name ??= parent.name;
+  if (name === "C_drive") name = "C:";
 
   if (name === "Users" || name === "SaveGames") {
     const pseudoName = name === "Users" ? "<user>" : "<steam>";
