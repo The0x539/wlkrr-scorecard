@@ -4,7 +4,7 @@ import { Star } from "./star.tsx";
 import { english } from "../game-data/locale.ts";
 
 import "./fan.css";
-import { cousinIds } from "../game-data/fans.ts";
+import { cousinIds, stickerIds } from "../game-data/fans.ts";
 
 export function Fan(
   props: {
@@ -33,8 +33,6 @@ export function Fan(
     }
   }
 
-  const cousins = cousinIds[props.missionIdx];
-
   return (
     <>
       <h2>{name}</h2>
@@ -50,7 +48,7 @@ export function Fan(
       </ol>
 
       <ol class="cousins">
-        {cousins.map((id) => (
+        {cousinIds[props.missionIdx].map((id) => (
           <li
             key={id}
             role="img"
@@ -59,6 +57,22 @@ export function Fan(
             data-collected={props.save.ouji_get[id] ? "" : null}
             title={english.names.value[3381 + id]}
           />
+        ))}
+      </ol>
+
+      <ol class="stickers">
+        {stickerIds[props.missionIdx].map((id) => (
+          <li
+            key={id}
+            class="sticker-icon"
+            data-collected={props.save.stamp_get[id] ? "" : null}
+            title={english.system.value[469 + id]}
+          >
+            <img
+              src={new URL(`../assets/stickers/${id + 1}.png`, import.meta.url)
+                .toString()}
+            />
+          </li>
         ))}
       </ol>
 

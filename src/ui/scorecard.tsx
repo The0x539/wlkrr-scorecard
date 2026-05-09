@@ -17,7 +17,7 @@ import { DropYourSaveFile } from "./drop-your-save-file.tsx";
 import { SaveSelector } from "./save-selector.tsx";
 import { Fan } from "./fan.tsx";
 
-const useMeadowOrder = signal(false);
+const useMeadowOrder = signal(true);
 
 export function Scorecard(): JSX.Element {
   const save = fileState.save.value;

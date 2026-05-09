@@ -21,10 +21,17 @@ dt::after {
   bottom: 60px;
 }
 
-.cousin-icon {
+.cousin-icon,
+.sticker-icon {
   display: inline-block;
   margin-inline: 0.25rem;
-  
+
+  &:not([data-collected]) {
+    filter: contrast(0) brightness(0) opacity(0.5);
+  }
+}
+
+.cousin-icon {
   --width: 50px;
   --height: calc(var(--width) * 620 / 454);
 
@@ -37,8 +44,19 @@ dt::after {
   /* For some reason, Ace shows some slight sprite leakage if I use exactly 1/9 */
   background-position-x: calc(mod(var(--id), 10) * 11.125%);
   background-position-y: calc(round(down, var(--id) / 10) * 100% / 3);
+}
 
-  &:not([data-collected]) {
-    filter: contrast(0) brightness(0) opacity(0.5);
+.sticker-icon {
+  width: 40px;
+  height: 40px;
+
+  border: 2px solid rgb(255, 255, 255, 0.5);
+  border-radius: 4px;
+  padding: 4px;
+
+  & > img {
+    display: block;
+    height: 100%;
+    width: auto;
   }
 }
