@@ -8,22 +8,27 @@ import "./fan.css";
 export function Fan(
   props: { index: number; stars: SaveInfoMission[]; starNames: number[] },
 ): JSX.Element {
-  // Something's going wrong with Michiru and the mission labeled "Earth".
-
   let imgUrl: URL | null = null;
-  if (props.index <= 28) {
+  let name = "";
+  try {
+    name = english.names.value[2800 + props.index];
     imgUrl = new URL(`../assets/fans/${props.index + 1}.png`, import.meta.url);
-  } else {
-    console.log(props.index);
-    // imgUrl = new URL(
-    // `../assets/fans/k${props.index - 28}.png`,
-    //   import.meta.url,
-    // );
+  } catch {
+    try {
+      // Fall back to Royal Reverie icons
+      imgUrl = new URL(
+        `../assets/fans/k${props.index - 29}.png`,
+        import.meta.url,
+      );
+      name = english.select.value[233 + props.index - 30];
+    } catch {
+      // whatever. Michiru and "Earth" are still acting weird.
+    }
   }
 
   return (
     <>
-      <h2>{english.names.value[2800 + props.index]}</h2>
+      <h2>{name}</h2>
       <ol class="stars">
         {props.starNames.map((name, i) => (
           <li key={i}>

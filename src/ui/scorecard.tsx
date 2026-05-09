@@ -17,7 +17,7 @@ import { DropYourSaveFile } from "./drop-your-save-file.tsx";
 import { SaveSelector } from "./save-selector.tsx";
 import { Fan } from "./fan.tsx";
 
-const useMeadowOrder = signal(true);
+const useMeadowOrder = signal(false);
 
 export function Scorecard(): JSX.Element {
   const save = fileState.save.value;
@@ -43,7 +43,6 @@ export function Scorecard(): JSX.Element {
       <ol class="fans">
         {order.map((i) => (
           <li>
-            {i}
             <Fan
               index={gameMission2Fan[i]}
               stars={missions[i].map((info) => game.star[info.star])}
