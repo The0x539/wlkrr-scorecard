@@ -1,9 +1,11 @@
+
 .letters-container {
-  /* width: 100%; */
-  /* height: 100svh; */
-  padding-block: 10rem;
+  --scale: 1;
+  padding-block-start: 5rem;
   margin-inline: auto;
   width: max-content;
+  height: calc(100px * var(--scale));
+  box-sizing: content-box;
 }
 
 .letter > img {
@@ -12,122 +14,121 @@
 
 .letter {
   display: inline-block;
-  height: 100px;
   position: relative;
 
   animation: calc(10 * var(--rate)) ease-in-out calc(2 * var(--rate)) infinite alternate bob;
 
   &:nth-child(01) {
-    height: 60px;
+    height: 60%;
     --rate: 0.25s;
     &::before {
       background-image: url("../assets/birds/01.png");
-      left: -4px;
-      top: -28px;
+      left: calc(-4px * var(--scale));
+      top: calc(-28px * var(--scale));
     }
   }
   &:nth-child(02) {
-    height: 75px;
-    top: 15px;
+    height: 75%;
+    top: calc(15px * var(--scale));
     --rate: 0.15s;
     &::before {
       background-image: url("../assets/birds/02.png");
-      top: -10px;
-      left: -2px;
+      top: calc(-10px * var(--scale));
+      left: calc(-2px * var(--scale));
     }
   }
   &:nth-child(03) {
-    height: 65px;
-    top: 25px;
+    height: 65%;
+    top: calc(25px * var(--scale));
     --rate: 0.32s;
     &::before {
       background-image: url("../assets/birds/03.png");
-      top: -25px;
-      left: -28px;
+      top: calc(-25px * var(--scale));
+      left: calc(-28px * var(--scale));
     }
   }
   &:nth-child(04) {
-    height: 90px;
-    top: 25px;
-    margin-inline: 20px -10px;
+    height: 90%;
+    top: calc(25px * var(--scale));
+    margin-inline: calc(20px * var(--scale)) calc(-10px * var(--scale));
     --rate: 0.17s;
     &::before {
       background-image: url("../assets/birds/04.png");
-      top: -24px;
-      left: 19px;
+      top: calc(-24px * var(--scale));
+      left: calc(19px * var(--scale));
     }
   }
   &:nth-child(05) {
-    height: 55px;
-    top: 25px;
+    height: 55%;
+    top: calc(25px * var(--scale));
     --rate: 0.21s;
     &::before {
       background-image: url("../assets/birds/05.png");
-      top: -28px;
-      left: -32px;
+      top: calc(-28px * var(--scale));
+      left: calc(-32px * var(--scale));
     }
   }
   &:nth-child(06) {
-    height: 55px;
-    top: 15px;
-    margin-inline: 40px 0;
+    height: 55%;
+    top: calc(15px * var(--scale));
+    margin-inline: calc(40px * var(--scale)) 0;
     --rate: 0.3s;
     &::before {
       background-image: url("../assets/birds/06.png");
-      top: -25px;
-      left: -9px;
+      top: calc(-25px * var(--scale));
+      left: calc(-9px * var(--scale));
     }
   }
   &:nth-child(07) {
-    height: 55px;
-    top: 15px;
+    height: 55%;
+    top: calc(15px * var(--scale));
     --rate: 0.14s;
     &::before {
       background-image: url("../assets/birds/07.png");
-      top: -27px;
-      left: 4px;
+      top: calc(-27px * var(--scale));
+      left: calc(4px * var(--scale));
     }
   }
   &:nth-child(08) {
-    height: 90px;
-    top: 40px;
-    right: 10px;
+    height: 90%;
+    top: calc(40px * var(--scale));
+    right: calc(10px * var(--scale));
     --rate: 0.22s;
     &::before {
       background-image: url("../assets/birds/08.png");
-      top: -19px;
-      left: 13px;
+      top: calc(-19px * var(--scale));
+      left: calc(13px * var(--scale));
     }
   }
   &:nth-child(09) {
-    height: 85px;
-    top: 10px;
+    height: 85%;
+    top: calc(10px * var(--scale));
     --rate: 0.25s;
     &::before {
       background-image: url("../assets/birds/09.png");
-      top: -28px;
-      left: 31px;
+      top: calc(-28px * var(--scale));
+      left: calc(31px * var(--scale));
     }
   }
   &:nth-child(10) {
-    height: 75px;
-    top: 15px;
-    right: 10px;
+    height: 75%;
+    top: calc(15px * var(--scale));
+    right: calc(10px * var(--scale));
     --rate: 0.18s;
     &::before {
       background-image: url("../assets/birds/10.png");
-      top: -22px;
-      left: -26px;
+      top: calc(-22px * var(--scale));
+      left: calc(-26px * var(--scale));
     }
   }
   &:nth-child(11) {
-    height: 85px;
-    top: 15px;
+    height: 85%;
+    top: calc(15px * var(--scale));
     --rate: 0.23s;
     &::before {
       background-image: url("../assets/birds/11.png");
-      top: -22px;
-      left: -26px;
+      top: calc(-22px * var(--scale));
+      left: calc(-26px * var(--scale));
     }
   }
 }
@@ -136,7 +137,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 
-  --width: 80px;
+  --width: calc(80px * var(--scale));
   --height: calc(var(--width) * 310 / 726);
 
   width: var(--width);
@@ -164,6 +165,6 @@
     translate: 0 0;
   }
   to {
-    translate: 0 15px;
+    translate: 0 calc(15px * var(--scale));
   }
 }
