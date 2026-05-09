@@ -1,0 +1,21 @@
+ol.fans > li {
+}
+
+h2 {
+  text-decoration: underline;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+dt::after {
+  content: ':';  
+}
+
+.fan-img {
+  position: absolute;
+  width: 20lvh;
+  bottom: 60px;
+}

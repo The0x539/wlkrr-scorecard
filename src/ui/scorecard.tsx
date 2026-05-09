@@ -5,7 +5,6 @@ import decrypt from "../decrypt.ts";
 
 import type { JSX } from "preact";
 
-import { english } from "../game-data/locale.ts";
 import {
   gameFan2Mission,
   gameMission2Fan,
@@ -43,9 +42,10 @@ export function Scorecard(): JSX.Element {
       {SaveSelector(selectedSlot)}
       <ol class="fans">
         {order.map((i) => (
-          <li key={i}>
+          <li>
+            {i}
             <Fan
-              name={english.names.value[2800 + gameMission2Fan[i]]}
+              index={gameMission2Fan[i]}
               stars={missions[i].map((info) => game.star[info.star])}
               starNames={recordCategoryId[i]}
             />
