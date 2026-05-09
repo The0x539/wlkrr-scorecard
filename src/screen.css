@@ -39,7 +39,7 @@ body {
   height: 100%;
 }
 
-ol.missions {
+ol.fans {
   display: flex;
   gap: 1rem;
   width: max-content;

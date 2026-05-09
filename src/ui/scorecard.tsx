@@ -16,34 +16,7 @@ import {
 import { missions } from "../game-data/missions.ts";
 import { DropYourSaveFile } from "./drop-your-save-file.tsx";
 import { SaveSelector } from "./save-selector.tsx";
-
-const durFmt = new Intl.DurationFormat(undefined, {
-  style: "digital",
-  hours: "narrow", // otherwise minutes get zero-padded
-  hoursDisplay: "auto",
-});
-
-function record(n: number, i: number): string {
-  if (i === 0) {
-    const parts = [];
-    if (n >= 1000) {
-      const meters = Math.floor(n / 1000);
-      parts.push(meters + "m");
-    }
-    const cm = Math.floor((n % 1000) / 10);
-    parts.push(cm + "cm");
-    const mm = n % 10;
-    parts.push(mm + "mm");
-    return parts.join(" ");
-  } else if (i === 1) {
-    const milliseconds = Math.floor(n * 1000 / 30);
-    let dur = Temporal.Duration.from({ milliseconds });
-    dur = dur.round({ largestUnit: "minute" });
-    return durFmt.format(dur);
-  } else {
-    return n.toString();
-  }
-}
+import { Fan } from "./fan.tsx";
 
 const useMeadowOrder = signal(true);
 
@@ -61,71 +34,23 @@ export function Scorecard(): JSX.Element {
   const slot = save.users[selectedSlot.value];
   const game = slot.game;
 
-  const list: JSX.Element[] = [];
-
   const order = useMeadowOrder.value
     ? meadowOrder.flat().concat(memoryOrder).map((i) => gameFan2Mission[i])
     : gameFan2Mission;
 
-  for (const i of order) {
-    const sublist: JSX.Element[] = [];
-    for (const j in recordCategoryId[i]) {
-      const info = missions[i][j];
-
-      //if (info.star === 0) continue;
-      const star = game.star[info.star];
-
-      const records = [...star.record];
-      while (records[records.length - 1] === 0) {
-        records.pop();
-      }
-
-      // this seems to be incorrect
-      //const name = english.names.value[star.name] + ' ' + english.suffixes.value[star.star_suffix];
-
-      const levelName = english.select.value[recordCategoryId[i][j]];
-      sublist.push(
-        <li>
-          <h3>{levelName}</h3>
-          <dl>
-            <dt>Rank</dt>
-            <dd>{star.rank}</dd>
-
-            {records.length > 0 && (
-              <>
-                <dt>Record</dt>
-                <dd>
-                  <ol>
-                    {records.map((n, i) => (
-                      <li key={i}>
-                        {record(n, i)}
-                      </li>
-                    ))}
-                  </ol>
-                </dd>
-              </>
-            )}
-          </dl>
-        </li>,
-      );
-    }
-    //if (sublist.length === 0) continue;
-
-    const fanIndex = gameMission2Fan[i];
-    const fanName = english.names.value[2800 + fanIndex];
-    list.push(
-      <li>
-        <h2>{fanName}</h2>
-        <ol>{sublist}</ol>
-      </li>,
-    );
-  }
-
   return (
     <>
       {SaveSelector(selectedSlot)}
-      <ol class="missions">
-        {list}
+      <ol class="fans">
+        {order.map((i) => (
+          <li key={i}>
+            <Fan
+              name={english.names.value[2800 + gameMission2Fan[i]]}
+              stars={missions[i].map((info) => game.star[info.star])}
+              starNames={recordCategoryId[i]}
+            />
+          </li>
+        ))}
       </ol>
     </>
   );
