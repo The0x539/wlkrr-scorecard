@@ -44,9 +44,11 @@ export function Scorecard(): JSX.Element {
         {order.map((i) => (
           <li>
             <Fan
-              index={gameMission2Fan[i]}
+              missionIdx={i}
+              fanIdx={gameMission2Fan[i]}
               stars={missions[i].map((info) => game.star[info.star])}
               starNames={recordCategoryId[i]}
+              save={game}
             />
           </li>
         ))}

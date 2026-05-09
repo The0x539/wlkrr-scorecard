@@ -1,30 +1,39 @@
 import type { JSX } from "preact/jsx-runtime";
-import type { SaveInfoMission } from "../save-file.ts";
+import type { SaveInfoGame, SaveInfoMission } from "../save-file.ts";
 import { Star } from "./star.tsx";
 import { english } from "../game-data/locale.ts";
 
 import "./fan.css";
+import { cousinIds } from "../game-data/fans.ts";
 
 export function Fan(
-  props: { index: number; stars: SaveInfoMission[]; starNames: number[] },
+  props: {
+    fanIdx: number;
+    missionIdx: number;
+    stars: SaveInfoMission[];
+    starNames: number[];
+    save: SaveInfoGame;
+  },
 ): JSX.Element {
   let imgUrl: URL | null = null;
   let name = "";
   try {
-    name = english.names.value[2800 + props.index];
-    imgUrl = new URL(`../assets/fans/${props.index + 1}.png`, import.meta.url);
+    name = english.names.value[2800 + props.fanIdx];
+    imgUrl = new URL(`../assets/fans/${props.fanIdx + 1}.png`, import.meta.url);
   } catch {
     try {
       // Fall back to Royal Reverie icons
       imgUrl = new URL(
-        `../assets/fans/k${props.index - 29}.png`,
+        `../assets/fans/k${props.fanIdx - 29}.png`,
         import.meta.url,
       );
-      name = english.select.value[233 + props.index - 30];
+      name = english.select.value[233 + props.fanIdx - 30];
     } catch {
       // whatever. Michiru and "Earth" are still acting weird.
     }
   }
+
+  const cousins = cousinIds[props.missionIdx];
 
   return (
     <>
@@ -37,6 +46,19 @@ export function Fan(
               data={props.stars[i]}
             />
           </li>
+        ))}
+      </ol>
+
+      <ol class="cousins">
+        {cousins.map((id) => (
+          <li
+            key={id}
+            role="img"
+            class="cousin-icon"
+            style={`--id: ${id}`}
+            data-collected={props.save.ouji_get[id] ? "" : null}
+            title={english.names.value[3381 + id]}
+          />
         ))}
       </ol>
 

@@ -39,6 +39,10 @@ body {
   height: 100%;
 }
 
+ol {
+  padding: 0;
+}
+
 ol.fans {
   display: flex;
   gap: 1rem;
