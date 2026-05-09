@@ -6,7 +6,7 @@ import "./save-selector.css";
 export function SaveSelector(selection: Signal<number>): JSX.Element {
   const slots = ["na", "m", "co"];
   return (
-    <>
+    <div role="presentation" class="save-selector">
       {slots.map((s, i) => (
         <div role="presentation" class="save-slot">
           <label for={`slot-${s}`}>{s}</label>
@@ -21,6 +21,6 @@ export function SaveSelector(selection: Signal<number>): JSX.Element {
         </div>
       ))}
       <img />
-    </>
+    </div>
   );
 }
