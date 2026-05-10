@@ -12,6 +12,11 @@ export default defineConfig({
   output: {
     cleanDistPath: true,
     target: "web",
+    filenameHash: false,
+    filename: {
+      image: (pathData) => pathData.filename!.replace(/^src\/assets\//, ""),
+      assets: (pathData) => pathData.filename!.replace(/^src\/game-data\//, ""),
+    },
   },
   tools: {
     rspack: {
