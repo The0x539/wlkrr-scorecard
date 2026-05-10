@@ -1,23 +1,26 @@
 import type { JSX } from "preact/jsx-runtime";
 import type { SaveInfoMission } from "../save-file.ts";
+import { type MissionInfo, rankTable } from "../game-data/missions.ts";
 
 export function Star(
-  props: { name: string; data: SaveInfoMission },
+  props: { name: string; data: SaveInfoMission; info: MissionInfo },
 ): JSX.Element {
   const records = [...props.data.record];
   while (records[records.length - 1] === 0) {
     records.pop();
   }
 
-  // this seems to be incorrect
+  // TODO: Half of this seems to be incorrect
   //const name = english.names.value[star.name] + ' ' + english.suffixes.value[star.star_suffix];
+
+  const ranks = rankTable[props.info.game] ?? [];
 
   return (
     <>
       <h3>{props.name}</h3>
       <dl>
         <dt>Rank</dt>
-        <dd>{props.data.rank}</dd>
+        <dd>{props.data.rank} ({ranks.map((n) => <>{n},</>)})</dd>
 
         {records.length > 0 && (
           <>

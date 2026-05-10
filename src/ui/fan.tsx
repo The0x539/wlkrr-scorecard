@@ -5,6 +5,7 @@ import { english } from "../game-data/locale.ts";
 
 import "./fan.css";
 import { cousinIds, stickerIds } from "../game-data/fans.ts";
+import { missions } from "../game-data/missions.ts";
 
 export function Fan(
   props: {
@@ -42,6 +43,7 @@ export function Fan(
             <Star
               name={english.select.value[name]}
               data={props.stars[i]}
+              info={missions[props.missionIdx][i]}
             />
           </li>
         ))}
