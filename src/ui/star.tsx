@@ -19,6 +19,9 @@ export function Star(
     <>
       <h3>{props.name}</h3>
       <dl>
+        <dt>Objective</dt>
+        <dd>{props.info.proc}</dd>
+
         <dt>Rank</dt>
         <dd>{props.data.rank} ({ranks.map((n) => <>{n},</>)})</dd>
 
