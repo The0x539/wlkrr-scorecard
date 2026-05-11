@@ -38,15 +38,17 @@ export function Fan(
     <>
       <h2>{name}</h2>
       <ol class="stars">
-        {props.starNames.map((name, i) => (
-          <li key={i}>
-            <Star
-              name={english.select.value[name]}
-              data={props.stars[i]}
-              info={missions[props.missionIdx][i]}
-            />
-          </li>
-        ))}
+        {props.starNames.map((name, i) =>
+          !english.select.value[name]?.includes("Eternal") && (
+            <li key={i}>
+              <Star
+                name={english.select.value[name]}
+                data={props.stars[i]}
+                info={missions[props.missionIdx][i]}
+              />
+            </li>
+          )
+        )}
       </ol>
 
       <ol class="cousins">

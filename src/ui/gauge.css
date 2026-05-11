@@ -1,0 +1,74 @@
+figure.gauge {
+  width: 100%;
+  margin: 0;
+
+  .meter-container {
+    position: relative;
+  }
+
+  meter {
+    width: 100%;
+  }
+}
+
+figcaption.marker {
+  position: absolute;
+  display: flex;
+  color: transparent;
+  flex-direction: column-reverse;
+  align-items: center;
+  width: 0;
+  inset-inline-start: calc(100% * (var(--marker-pos) - var(--meter-min, 0)) / (var(--meter-max) - var(--meter-min, 0)));
+  inset-block-end: 0;
+
+  --marker-color: white;
+
+  &:nth-last-of-type(1) {
+    --marker-color: gold;
+  }
+  &:nth-last-of-type(2) {
+    --marker-color: silver;
+  }
+  &:nth-last-of-type(3) {
+    --marker-color: sienna;
+  }
+  &:nth-last-of-type(4) {
+    --marker-color: dimgray;
+  }
+  &:nth-last-of-type(5) {
+    --marker-color: darkgreen;
+  }
+
+  &.meteor {
+    --marker-color: lightseagreen;
+  }
+
+  & > .marker-text {
+    border-radius: 0.5em;
+    padding: 0.125em 0.25em;
+    text-wrap: nowrap;
+    user-select: none;
+  }
+
+  &:hover {
+    color: revert;
+    & > .marker-text {
+      background: white;
+    }
+  }
+
+  &::before {
+    content: '';
+    width: 0px;
+    height: 1lh;
+    border-inline: 2px solid var(--marker-color);
+    border-radius: 5px;
+  }
+
+  &::after {
+    height: 2lh;
+    content: '';
+    width: 30px;
+    position: absolute;
+  }
+}
