@@ -3,6 +3,8 @@ import type { SaveInfoMission } from "../save-file.ts";
 import { type MissionInfo, rankTable } from "../game-data/missions.ts";
 import { Gauge } from "./gauge.tsx";
 import { Dimension, Measurement } from "./measurement.tsx";
+import { english } from "../game-data/locale.ts";
+import type { TargetedEvent } from "preact";
 
 export function Star(
   props: { name: string; data: SaveInfoMission; info: MissionInfo },
@@ -10,6 +12,10 @@ export function Star(
   const records = [...props.data.record];
   while (records[records.length - 1] === 0) {
     records.pop();
+  }
+
+  if (records.length === 0) {
+    return <h3>{props.name}</h3>;
   }
 
   // TODO: Half of this seems to be incorrect
@@ -91,6 +97,22 @@ export function Star(
         <Gauge value={records[0]} ranks={ranks} unit={Dimension.Price} />,
       );
       break;
+    case Objective.CowBear: {
+      const id = records[2];
+
+      const imgSrc = new URL(`../assets/cowbear/${id}.png`, import.meta.url);
+      const name = english.names.value[id];
+      const size = english.select.value[7 + records[3]];
+
+      gauges.push(
+        <figure>
+          <img src={imgSrc.toString()} onLoad={setSize} />
+          <figcaption>{name} ({size})</figcaption>
+        </figure>,
+        <Measurement value={records[0]} unit={Dimension.Length} />,
+      );
+      break;
+    }
     default:
       gauges.push(
         <dl>
@@ -124,6 +146,11 @@ export function Star(
       {gauges}
     </>
   );
+}
+
+function setSize(event: TargetedEvent<HTMLImageElement>): void {
+  const img = event.currentTarget;
+  img.style.height = `${img.clientHeight / 15}px`;
 }
 
 export const enum Objective {

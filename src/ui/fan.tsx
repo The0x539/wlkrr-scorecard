@@ -34,6 +34,12 @@ export function Fan(
     }
   }
 
+  // No idea why "apprehended" and "apprehended size" are represented as secondary/tertiary requests for the Cowbear Farmer.
+  // Weird hack in the game itself begets a weird hack in this project.
+  if (missions[props.missionIdx][0].proc === 12) {
+    props.starNames = [props.starNames[0]];
+  }
+
   return (
     <>
       <h2>{name}</h2>
