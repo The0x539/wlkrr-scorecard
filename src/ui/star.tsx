@@ -141,6 +141,12 @@ export function Star(
       );
   }
 
+  if (props.data.shooting_star) {
+    const prefix = getStarName(props.data.shooting_star_name);
+    const suffix = english.suffixes.value[16];
+    gauges.push(<>{`${prefix} ${suffix}`}</>);
+  }
+
   return (
     <>
       <h3>{props.name}</h3>
