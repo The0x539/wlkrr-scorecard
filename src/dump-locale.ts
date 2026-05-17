@@ -55,7 +55,7 @@ for (const oi of asset.objectInfos) {
   if (oi.classID !== MonoBehaviour.typeID) {
     continue;
   }
-  const mb = new MonoBehaviour(oi.getReader(asset.buf), oi);
+  const mb = new MonoBehaviour(oi.getReader(asset.buf));
   behaviours.set(mb.name, mb);
 }
 
@@ -67,6 +67,7 @@ const categories = [
   "select",
   "general",
   "suffix",
+  "special",
 ];
 
 for (const category of categories) {

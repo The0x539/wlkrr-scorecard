@@ -17,4 +17,6 @@ export const english = {
   suffixes: make(new URL("./locale/suffix/english.txt", import.meta.url)),
   select: make(new URL("./locale/select/english.txt", import.meta.url)),
   system: make(new URL("./locale/system/english.txt", import.meta.url)),
+  star_general: make(new URL("./locale/general/english.txt", import.meta.url)),
+  star_special: make(new URL("./locale/special/english.txt", import.meta.url)),
 };

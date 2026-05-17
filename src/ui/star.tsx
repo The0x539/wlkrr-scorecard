@@ -18,8 +18,9 @@ export function Star(
     return <h3>{props.name}</h3>;
   }
 
-  // TODO: Half of this seems to be incorrect
-  //const name = english.names.value[star.name] + ' ' + english.suffixes.value[star.star_suffix];
+  const prefix = getStarName(props.data.name);
+  const suffix = english.suffixes.value[props.data.star_suffix];
+  const name = `${prefix} ${suffix}`;
 
   const ranks = rankTable[props.info.game] ?? [];
 
@@ -143,6 +144,7 @@ export function Star(
   return (
     <>
       <h3>{props.name}</h3>
+      {name}
       {gauges}
     </>
   );
@@ -151,6 +153,51 @@ export function Star(
 function setSize(event: TargetedEvent<HTMLImageElement>): void {
   const img = event.currentTarget;
   img.style.height = `${img.clientHeight / 15}px`;
+}
+
+// deno-fmt-ignore
+const su8StarNameNumTbl = [
+  1, 10, 10, 10, 10, 10, 10, 10, 9, 10,
+  10, 10, 10, 10, 10, 10, 10, 10, 8, 8,
+  10, 10, 8, 5, 9, 6, 6, 10, 6, 7,
+  10, 10, 9, 7, 10, 9, 9, 10, 9, 9,
+  5, 6, 6, 10, 6, 8, 7, 5, 10, 6,
+  10, 7, 10, 4, 10, 10, 3, 10, 10, 8,
+  10, 10, 8, 10, 10, 6, 10, 3, 4, 10,
+  10, 10, 8, 6, 1, 10, 10, 10, 10, 10,
+  10, 10, 10, 10, 10, 10, 1, 7, 10, 10,
+  1, 1, 1,
+];
+
+const su8StarSpecialNumTbl = [5, 5, 5, 5, 5, 5, 5, 5, 1, 5];
+
+// Why is this so complicated?
+// Why wasn't it just storing a direct localization lookup like the suffix?
+// The world may never know.
+function getStarName(name_id: number): string {
+  // This is wrong for:
+  // - Cowbear Farmer
+  // - Excited Baby
+  // This code is assuming type = 0, which is what the prefix part uses.
+  const type = name_id >> 12 & 0xf;
+
+  let numTbl: number[];
+  let nameTbl: string[];
+  if (type === 1) {
+    numTbl = su8StarSpecialNumTbl;
+    nameTbl = english.star_special.value;
+  } else {
+    numTbl = su8StarNameNumTbl;
+    nameTbl = english.star_general.value;
+  }
+
+  const row = name_id >> 4 & 0xff;
+  const col = name_id & 0xf;
+  let base = numTbl.slice(0, row).reduce((a, b) => a + b, 0);
+  if (type === 0) {
+    base -= 1; // ???????????????????
+  }
+  return nameTbl[base + col];
 }
 
 export const enum Objective {
