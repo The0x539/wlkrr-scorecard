@@ -148,6 +148,63 @@ export function Star(
       );
       break;
     }
+    case Objective.Tutorial:
+      gauges.push(
+        <dl>
+          <dt>Size</dt>
+          <dd>
+            <Measurement value={records[0]} unit={Dimension.Length} />
+          </dd>
+          <dt>Time</dt>
+          <dd>
+            <Measurement value={records[1]} unit={Dimension.Time} />
+          </dd>
+        </dl>,
+      );
+      break;
+    case Objective.Snowman:
+      gauges.push(
+        <dl>
+          <dt>Size</dt>
+          <dd>
+            <Measurement value={records[2]} unit={Dimension.Length} />
+          </dd>
+        </dl>,
+      );
+      break;
+    case Objective.Sun: {
+      // For this level:
+      // - Your katamari core is the Earth.
+      // - records[0] measures YmCore.u32Diameter.
+      // - u32Diameter starts at 1000.
+      // - The Earth is assumed to be a sphere with a diameter of 12,742 kilometers.
+      gauges.push(
+        <dl>
+          <dt>Size</dt>
+          <dd>
+            <Measurement
+              value={records[0] * 12742}
+              unit={Dimension.AstronomicalLength}
+            />
+          </dd>
+          <dt>Time</dt>
+          <dd>
+            <Measurement value={records[1]} unit={Dimension.Time} />
+          </dd>
+          <dt>Objects</dt>
+
+          <dd>
+            {/*Due to stardust, it's normal for this to exceed 100%.*/}
+            <Measurement
+              value={records[2]}
+              unit={Dimension.Count}
+              extra={records[3]}
+            />
+          </dd>
+        </dl>,
+      );
+      break;
+    }
     default:
       gauges.push(
         <dl>

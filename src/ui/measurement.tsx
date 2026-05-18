@@ -10,6 +10,7 @@ export const enum Dimension {
   Mass,
   Price,
   Fireflies,
+  AstronomicalLength,
 }
 
 export function Measurement(
@@ -78,6 +79,25 @@ export function Measurement(
       const i = props.extra ?? 0;
       text = `${english.select.value[i + 13]} (${n})`;
       break;
+    }
+    case Dimension.AstronomicalLength: {
+      const [mantissa, exponent] = n.toExponential(3).split(/e\+?/);
+      return (
+        <data value={n} className={props.className}>
+          <math>
+            <mrow>
+              <mn>{mantissa}</mn>
+              <mo>&middot;</mo>
+              <msup>
+                <mn>10</mn>
+                <mn>{exponent}</mn>
+              </msup>
+              <mo rspace="thickmathspace">&#x2062;</mo>
+              <mi mathvariant="normal">m</mi>
+            </mrow>
+          </math>
+        </data>
+      );
     }
     case Dimension.Count:
     default: {
