@@ -119,6 +119,35 @@ export function Star(
         <SaturnGauge value={records[0]} target={records[3]} ranks={ranks} />,
       );
       break;
+    case Objective.Fireflies: {
+      const amounts = [];
+      const amountRanks = [];
+      for (let i = 2; i < ranks.length; i++) {
+        const n = ranks[i];
+        if (n < 0) break;
+        if (i % 2 === 0) {
+          amounts.push(n);
+        } else {
+          amountRanks.push(n);
+        }
+      }
+      gauges.push(
+        <Gauge
+          value={records[2]}
+          ranks={amounts}
+          rankRanks={amountRanks}
+          unit={Dimension.Fireflies}
+        />,
+        <Gauge
+          value={records[1]}
+          meteor={meteor}
+          unit={Dimension.Time}
+          max={props.info.time}
+        />,
+        <Measurement value={records[0]} unit={Dimension.Length} />,
+      );
+      break;
+    }
     default:
       gauges.push(
         <dl>

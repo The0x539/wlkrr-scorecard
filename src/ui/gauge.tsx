@@ -2,11 +2,13 @@ import type { JSX } from "preact/jsx-runtime";
 import { Dimension, Measurement } from "./measurement.tsx";
 
 import "./gauge.css";
+import { english } from "../game-data/locale.ts";
 
 export function Gauge(
   props: {
     value: number;
     ranks?: number[];
+    rankRanks?: number[];
     meteor?: number;
     max?: number;
     unit: Dimension;
@@ -59,13 +61,25 @@ export function Gauge(
     }
   }
 
-  return (
-    <figure class="gauge" style={{ "--meter-max": meterMax }}>
+  let label: JSX.Element;
+  if (props.unit === Dimension.Fireflies) {
+    meterValue = ranks[props.value - 1];
+    label = <>{english.select.value[props.value + 12]}</>;
+    low = ranks[ranks.length - 5];
+    high = ranks[ranks.length - 1] - 1;
+  } else {
+    label = (
       <Measurement
         value={props.value}
         unit={props.unit}
         extra={max}
       />
+    );
+  }
+
+  return (
+    <figure class="gauge" style={{ "--meter-max": meterMax }}>
+      {label}
       <div role="presentation" class="meter-container">
         <meter
           min="0"
@@ -76,12 +90,17 @@ export function Gauge(
           value={meterValue}
         />
         {ranks.map((n, i) => (
-          <figcaption key={i} class="marker" style={{ "--marker-pos": n }}>
+          <figcaption
+            key={i}
+            class="marker"
+            style={{ "--marker-pos": n }}
+            data-rank={props.rankRanks?.[i]}
+          >
             <Measurement
               value={n}
               unit={markUnit}
               className="marker-text"
-              extra={max}
+              extra={props.unit === Dimension.Fireflies ? i : max}
             />
           </figcaption>
         ))}

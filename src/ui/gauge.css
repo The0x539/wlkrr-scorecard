@@ -23,30 +23,35 @@ figcaption.marker {
 
   --marker-color: white;
 
-  &:nth-last-of-type(1),
-  &.saturn:nth-last-of-type(1),
-  &.saturn:nth-last-of-type(2) {
-    --marker-color: gold;
-  }
-  &:nth-last-of-type(2),
-  &.saturn:nth-last-of-type(3),
-  &.saturn:nth-last-of-type(4) {
-    --marker-color: silver;
-  }
-  &:nth-last-of-type(3),
-  &.saturn:nth-last-of-type(5),
-  &.saturn:nth-last-of-type(6) {
-    --marker-color: sienna;
+  &:nth-last-of-type(5),
+  &.saturn:nth-last-of-type(9),
+  &.saturn:nth-last-of-type(10),
+  &[data-rank="0"] {
+    --marker-color: darkgreen;
   }
   &:nth-last-of-type(4),
   &.saturn:nth-last-of-type(7),
-  &.saturn:nth-last-of-type(8) {
+  &.saturn:nth-last-of-type(8),
+  &[data-rank="1"] {
     --marker-color: dimgray;
   }
-  &:nth-last-of-type(5),
-  &.saturn:nth-last-of-type(9),
-  &.saturn:nth-last-of-type(10) {
-    --marker-color: darkgreen;
+  &:nth-last-of-type(3),
+  &.saturn:nth-last-of-type(5),
+  &.saturn:nth-last-of-type(6),
+  &[data-rank="2"] {
+    --marker-color: sienna;
+  }
+  &:nth-last-of-type(2),
+  &.saturn:nth-last-of-type(3),
+  &.saturn:nth-last-of-type(4),
+  &[data-rank="3"] {
+    --marker-color: silver;
+  }
+  &:nth-last-of-type(1),
+  &.saturn:nth-last-of-type(1),
+  &.saturn:nth-last-of-type(2),
+  &[data-rank="4"] {
+    --marker-color: gold;
   }
 
   &.meteor {

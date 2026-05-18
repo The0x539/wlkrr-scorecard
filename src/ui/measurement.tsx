@@ -1,4 +1,5 @@
 import type { JSX } from "preact/jsx-runtime";
+import { english } from "../game-data/locale.ts";
 
 export const enum Dimension {
   Length,
@@ -8,6 +9,7 @@ export const enum Dimension {
   Percentage,
   Mass,
   Price,
+  Fireflies,
 }
 
 export function Measurement(
@@ -70,6 +72,11 @@ export function Measurement(
     }
     case Dimension.Price: {
       text = usdFmt.format(n / 100);
+      break;
+    }
+    case Dimension.Fireflies: {
+      const i = props.extra ?? 0;
+      text = `${english.select.value[i + 13]} (${n})`;
       break;
     }
     case Dimension.Count:
