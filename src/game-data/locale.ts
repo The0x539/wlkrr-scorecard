@@ -19,4 +19,5 @@ export const english = {
   system: make(new URL("./locale/system/english.txt", import.meta.url)),
   star_general: make(new URL("./locale/general/english.txt", import.meta.url)),
   star_special: make(new URL("./locale/special/english.txt", import.meta.url)),
+  present: make(new URL("./locale/present/english.txt", import.meta.url)),
 };

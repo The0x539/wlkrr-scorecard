@@ -17,6 +17,7 @@ dt::after {
   bottom: 60px;
 }
 
+.present-icon,
 .cousin-icon,
 .sticker-icon {
   display: inline-block;
@@ -25,6 +26,18 @@ dt::after {
   &:not([data-collected]) {
     filter: contrast(0) brightness(0) opacity(0.5);
   }
+
+  & > img {
+    display: block;
+    height: 100%;
+    width: auto;
+  }
+}
+
+.present-icon {
+  margin-top: 0.5em;
+  width: 50px;
+  height: 50px;
 }
 
 .cousin-icon {
@@ -37,9 +50,20 @@ dt::after {
   background-size: 1000% 400%;
   background-repeat: no-repeat;
 
-  /* For some reason, Ace shows some slight sprite leakage if I use exactly 1/9 */
-  background-position-x: calc(mod(var(--id), 10) * 11.12%);
-  background-position-y: calc(round(down, var(--id) / 10) * 100% / 3);
+  --grid-x: calc(mod(var(--id), 10));
+  --grid-y: calc(round(down, var(--id) / 10));
+  background-position-x: calc(-1 * var(--grid-x) * var(--width));
+  background-position-y: calc(-1 * var(--grid-y) * var(--height));
+
+  /*
+   * Antialiasing plus fractional DPI scaling
+   * can cause a bit of sprite sheet leakage.
+   * This seems to help.
+   */
+  mask-composite: intersect;
+  mask-image:
+    linear-gradient(to bottom, transparent 1px, black 1px),
+    linear-gradient(to right, transparent 1px, black 1px);
 }
 
 .sticker-icon {
@@ -49,10 +73,4 @@ dt::after {
   border: 2px solid rgb(255, 255, 255, 0.5);
   border-radius: 4px;
   padding: 4px;
-
-  & > img {
-    display: block;
-    height: 100%;
-    width: auto;
-  }
 }
