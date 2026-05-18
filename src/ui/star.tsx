@@ -20,7 +20,7 @@ export function Star(
 
   const prefix = getStarName(props.data.name);
   const suffix = english.suffixes.value[props.data.star_suffix];
-  const name = `${prefix} ${suffix}`;
+  const name = (prefix && suffix) ? `${prefix} ${suffix}` : null;
 
   const ranks = rankTable[props.info.game] ?? [];
 
