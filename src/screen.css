@@ -61,3 +61,21 @@ li {
   list-style: none;
 }
 
+data[data-unit="mm"]::before { content: "📏"; }
+data[data-unit="m♁"]::before { content: "🔭"; }
+data[data-unit="kg"]::before { content: "💪"; }
+data[data-unit="$"]::before { content: "💰"; }
+data[data-unit="light"]::before { content: "🔆"; }
+time::before { content: "⏱️"; }
+
+[data-fan-id="5"] data:not([data-unit])::before { content: "🪐"; }
+[data-fan-id="7"] data:not([data-unit])::before { content: "🌼"; }
+[data-fan-id="10"] data:not([data-unit])::before { content: "🌧️"; }
+[data-fan-id="11"] data:not([data-unit])::before { content: "🐾"; }
+[data-fan-id="12"] data:not([data-unit])::before { content: "📃"; }
+[data-fan-id="18"] data:not([data-unit])::before { content: "🍬"; }
+[data-fan-id="24"] data:not([data-unit])::before { content: "🌹"; }
+[data-fan-id="26"] data:not([data-unit])::before { content: "🗾"; }
+[data-fan-id="32"] data:not([data-unit])::before { content: "🛞"; }
+[data-fan-id="34"] data:not([data-unit])::before { content: "🎵"; }
+

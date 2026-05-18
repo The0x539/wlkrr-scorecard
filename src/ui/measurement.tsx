@@ -23,9 +23,11 @@ export function Measurement(
   },
 ): JSX.Element {
   let text: string;
+  let unit: string | null = null;
   const n = props.value, extra = props.extra;
   switch (props.unit) {
     case Dimension.Length: {
+      unit = "mm";
       const parts = [];
       if (n >= 1000) {
         const meters = Math.floor(n / 1000);
@@ -39,6 +41,7 @@ export function Measurement(
       break;
     }
     case Dimension.ConciseLength: {
+      unit = "mm";
       if (n >= 1_000_000) {
         text = `${n / 1_000_000}km`;
       } else if (n >= 1_000) {
@@ -74,14 +77,17 @@ export function Measurement(
       break;
     }
     case Dimension.Mass: {
+      unit = "kg";
       text = `${n} kg`;
       break;
     }
     case Dimension.Price: {
+      unit = "$";
       text = usdFmt.format(n / 100);
       break;
     }
     case Dimension.Fireflies: {
+      unit = "light";
       text = english.select.value[n + 13];
       if (props.extra) {
         text += ` (${props.extra})`;
@@ -90,8 +96,9 @@ export function Measurement(
     }
     case Dimension.AstronomicalLength: {
       const [mantissa, exponent] = n.toExponential(3).split(/e\+?/);
+      // milli-earths
       return (
-        <data value={n} className={props.className}>
+        <data value={n} data-unit="m♁" className={props.className}>
           <math>
             <mrow>
               <mn>{mantissa}</mn>
@@ -120,7 +127,9 @@ export function Measurement(
     }
   }
 
-  return <data value={n} className={props.className}>{text}</data>;
+  return (
+    <data value={n} data-unit={unit} className={props.className}>{text}</data>
+  );
 }
 
 const durFmt = new Intl.DurationFormat(undefined, {

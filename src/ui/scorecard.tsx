@@ -43,11 +43,13 @@ export function Scorecard(): JSX.Element {
       {SaveSelector(selectedSlot)}
       <ol class="fans">
         {order.map((i) => (
-          <li>
+          <li class="fan" data-fan-id={gameMission2Fan[i]} data-mission-id={i}>
             <Fan
               missionIdx={i}
               fanIdx={gameMission2Fan[i]}
-              stars={missions[i].map((info) => game.star[info.star])}
+              stars={missions[i].map((info) =>
+                game.star[info.star]
+              )}
               starNames={recordCategoryId[i]}
               save={game}
             />
