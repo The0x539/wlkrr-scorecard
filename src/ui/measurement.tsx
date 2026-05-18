@@ -14,7 +14,13 @@ export const enum Dimension {
 }
 
 export function Measurement(
-  props: { value: number; unit: Dimension; extra?: number; className?: string },
+  props: {
+    value: number;
+    unit: Dimension;
+    extra?: number;
+    className?: string;
+    ["no-icon"]?: boolean;
+  },
 ): JSX.Element {
   let text: string;
   const n = props.value, extra = props.extra;
@@ -76,8 +82,10 @@ export function Measurement(
       break;
     }
     case Dimension.Fireflies: {
-      const i = props.extra ?? 0;
-      text = `${english.select.value[i + 13]} (${n})`;
+      text = english.select.value[n + 13];
+      if (props.extra) {
+        text += ` (${props.extra})`;
+      }
       break;
     }
     case Dimension.AstronomicalLength: {

@@ -2,7 +2,6 @@ import type { JSX } from "preact/jsx-runtime";
 import { Dimension, Measurement } from "./measurement.tsx";
 
 import "./gauge.css";
-import { english } from "../game-data/locale.ts";
 
 export function Gauge(
   props: {
@@ -61,25 +60,22 @@ export function Gauge(
     }
   }
 
-  let label: JSX.Element;
+  let labelExtra = max;
   if (props.unit === Dimension.Fireflies) {
-    meterValue = ranks[props.value - 1];
-    label = <>{english.select.value[props.value + 12]}</>;
+    props.value -= 1;
+    meterValue = ranks[props.value];
+    labelExtra = undefined;
     low = ranks[ranks.length - 5];
     high = ranks[ranks.length - 1] - 1;
-  } else {
-    label = (
-      <Measurement
-        value={props.value}
-        unit={props.unit}
-        extra={max}
-      />
-    );
   }
 
   return (
     <figure class="gauge" style={{ "--meter-max": meterMax }}>
-      {label}
+      <Measurement
+        value={props.value}
+        unit={props.unit}
+        extra={labelExtra}
+      />
       <div role="presentation" class="meter-container">
         <meter
           min="0"
@@ -89,21 +85,29 @@ export function Gauge(
           optimum={optimum}
           value={meterValue}
         />
-        {ranks.map((n, i) => (
-          <figcaption
-            key={i}
-            class="marker"
-            style={{ "--marker-pos": n }}
-            data-rank={props.rankRanks?.[i]}
-          >
-            <Measurement
-              value={n}
-              unit={markUnit}
-              className="marker-text"
-              extra={props.unit === Dimension.Fireflies ? i : max}
-            />
-          </figcaption>
-        ))}
+        {ranks.map((n, i) => {
+          let value = n;
+          let extra = max;
+          if (props.unit === Dimension.Fireflies) {
+            value = i;
+            extra = n;
+          }
+          return (
+            <figcaption
+              key={i}
+              class="marker"
+              style={{ "--marker-pos": n }}
+              data-rank={props.rankRanks?.[i]}
+            >
+              <Measurement
+                value={value}
+                unit={markUnit}
+                className="marker-text"
+                extra={extra}
+              />
+            </figcaption>
+          );
+        })}
         {props.meteor && (
           <figcaption
             key={props.meteor}
