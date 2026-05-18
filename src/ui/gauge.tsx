@@ -64,7 +64,6 @@ export function Gauge(
       <Measurement
         value={props.value}
         unit={props.unit}
-        className="gauge-label"
         extra={max}
       />
       <div role="presentation" class="meter-container">
@@ -99,6 +98,57 @@ export function Gauge(
             />
           </figcaption>
         )}
+      </div>
+    </figure>
+  );
+}
+
+export function SaturnGauge(
+  props: {
+    value: number;
+    target: number;
+    ranks: number[];
+  },
+): JSX.Element {
+  const acceptableRange = props.ranks[0];
+
+  const min = props.target - acceptableRange;
+  const max = props.target + acceptableRange;
+
+  const ranks = [];
+  for (const margin of props.ranks) {
+    if (margin >= acceptableRange) continue;
+    ranks.push(props.target - margin, props.target + margin);
+  }
+
+  return (
+    <figure class="gauge" style={{ "--meter-min": min, "--meter-max": max }}>
+      <Measurement
+        value={props.value}
+        unit={Dimension.Length}
+      />
+      <div role="presentation" class="meter-container">
+        <meter
+          min={min}
+          max={max}
+          low={ranks[ranks.length - 2]}
+          high={ranks[ranks.length - 1]}
+          optimum={props.target}
+          value={props.value}
+        />
+        {ranks.map((n, i) => (
+          <figcaption
+            key={i}
+            class="marker saturn"
+            style={{ "--marker-pos": n }}
+          >
+            <Measurement
+              value={n}
+              unit={Dimension.ConciseLength}
+              className="marker-text"
+            />
+          </figcaption>
+        ))}
       </div>
     </figure>
   );

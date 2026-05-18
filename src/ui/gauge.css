@@ -23,19 +23,29 @@ figcaption.marker {
 
   --marker-color: white;
 
-  &:nth-last-of-type(1) {
+  &:nth-last-of-type(1),
+  &.saturn:nth-last-of-type(1),
+  &.saturn:nth-last-of-type(2) {
     --marker-color: gold;
   }
-  &:nth-last-of-type(2) {
+  &:nth-last-of-type(2),
+  &.saturn:nth-last-of-type(3),
+  &.saturn:nth-last-of-type(4) {
     --marker-color: silver;
   }
-  &:nth-last-of-type(3) {
+  &:nth-last-of-type(3),
+  &.saturn:nth-last-of-type(5),
+  &.saturn:nth-last-of-type(6) {
     --marker-color: sienna;
   }
-  &:nth-last-of-type(4) {
+  &:nth-last-of-type(4),
+  &.saturn:nth-last-of-type(7),
+  &.saturn:nth-last-of-type(8) {
     --marker-color: dimgray;
   }
-  &:nth-last-of-type(5) {
+  &:nth-last-of-type(5),
+  &.saturn:nth-last-of-type(9),
+  &.saturn:nth-last-of-type(10) {
     --marker-color: darkgreen;
   }
 

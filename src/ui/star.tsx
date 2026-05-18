@@ -1,7 +1,7 @@
 import { Fragment, type JSX } from "preact/jsx-runtime";
 import type { SaveInfoMission } from "../save-file.ts";
 import { type MissionInfo, rankTable } from "../game-data/missions.ts";
-import { Gauge } from "./gauge.tsx";
+import { Gauge, SaturnGauge } from "./gauge.tsx";
 import { Dimension, Measurement } from "./measurement.tsx";
 import { english } from "../game-data/locale.ts";
 import type { TargetedEvent } from "preact";
@@ -114,6 +114,11 @@ export function Star(
       );
       break;
     }
+    case Objective.JustRight:
+      gauges.push(
+        <SaturnGauge value={records[0]} target={records[3]} ranks={ranks} />,
+      );
+      break;
     default:
       gauges.push(
         <dl>
