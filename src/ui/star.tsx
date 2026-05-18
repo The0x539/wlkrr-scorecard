@@ -249,7 +249,7 @@ export function Star(
 
 function setSize(event: TargetedEvent<HTMLImageElement>): void {
   const img = event.currentTarget;
-  img.style.height = `${img.clientHeight / 15}px`;
+  img.style.height = `${img.naturalHeight / 15}px`;
 }
 
 // deno-fmt-ignore
