@@ -18,7 +18,7 @@ import { SaveSelector } from "./save-selector.tsx";
 import { Fan } from "./fan.tsx";
 
 // TODO: expose a UI control to toggle this
-const useMeadowOrder = signal(true);
+const useMeadowOrder = signal(false);
 
 export function Scorecard(): JSX.Element {
   const save = fileState.save.value;
@@ -43,13 +43,16 @@ export function Scorecard(): JSX.Element {
       {SaveSelector(selectedSlot)}
       <ol class="fans">
         {order.map((i) => (
-          <li class="fan" data-fan-id={gameMission2Fan[i]} data-mission-id={i}>
+          <li
+            class="fan"
+            data-fan-id={gameMission2Fan[i]}
+            data-mission-id={i}
+            data-memory={gameMission2Fan[i] >= 30 ? "" : null}
+          >
             <Fan
               missionIdx={i}
               fanIdx={gameMission2Fan[i]}
-              stars={missions[i].map((info) =>
-                game.star[info.star]
-              )}
+              stars={missions[i].map((info) => game.star[info.star])}
               starNames={recordCategoryId[i]}
               save={game}
             />

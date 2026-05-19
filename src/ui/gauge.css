@@ -16,7 +16,6 @@ figure.gauge {
 figcaption.marker {
   position: absolute;
   display: flex;
-  color: transparent;
   flex-direction: column-reverse;
   align-items: center;
   width: 0;
@@ -61,17 +60,16 @@ figcaption.marker {
   }
 
   & > .marker-text {
+    background: rgb(0, 0, 0, 0.75);
     border-radius: 0.5em;
     padding: 0.125em 0.25em;
     text-wrap: nowrap;
     user-select: none;
+    z-index: 1;
   }
 
-  &:hover {
-    color: revert;
-    & > .marker-text {
-      background: white;
-    }
+  &:not(:hover) > .marker-text {
+    opacity: 0;
   }
 
   &::before {

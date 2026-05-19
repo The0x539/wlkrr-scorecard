@@ -55,72 +55,63 @@ export function Fan(
     <>
       <h2>{name}</h2>
       <ol class="stars">
-        {props.starNames.map((name, i) =>
-          !english.select.value[name]?.includes("Eternal") && (
+        {props.starNames.map((nameId, i) => {
+          const name = english.select.value[nameId];
+          return name && !name.includes("Eternal") && (
             <li key={i}>
               <Star
-                name={english.select.value[name]}
+                name={english.select.value[nameId]}
                 data={props.stars[i]}
                 info={missions[props.missionIdx][i]}
               />
             </li>
-          )
-        )}
+          );
+        })}
       </ol>
 
-      {presentIds.length > 0 && (
-        <ol class="presents">
-          {presentIds.map((id) => (
-            <li
-              key={id}
-              class="present-icon"
-              data-id={id}
-              data-collected={props.save.present[id] ? "" : null}
-              title={english.present.value[id].replaceAll("・", "")}
-            >
-              <img src={presentImg} />
-            </li>
-          ))}
-        </ol>
-      )}
+      <ol class="collectibles">
+        {presentIds.map((id) => (
+          <li
+            key={id}
+            class="present-icon"
+            data-id={id}
+            data-collected={props.save.present[id] ? "" : null}
+            title={english.present.value[id].replaceAll("・", "")}
+          >
+            <img src={presentImg} />
+          </li>
+        ))}
 
-      {cousinIds.length > 0 && (
-        <ol class="cousins">
-          {cousinIds[props.missionIdx].map((id) => (
-            <li
-              key={id}
-              role="img"
-              class="cousin-icon"
-              data-id={id}
-              style={`--id: ${id}`}
-              data-collected={props.save.ouji_get[id] ? "" : null}
-              title={english.names.value[3381 + id]}
+        {cousinIds[props.missionIdx].map((id) => (
+          <li
+            key={id}
+            role="img"
+            class="cousin-icon"
+            data-id={id}
+            style={`--id: ${id}`}
+            data-collected={props.save.ouji_get[id] ? "" : null}
+            title={english.names.value[3381 + id]}
+          />
+        ))}
+
+        {stickerIds[props.missionIdx].map((id) => (
+          <li
+            key={id}
+            class="sticker-icon"
+            data-id={id}
+            data-collected={props.save.stamp_get[id] ? "" : null}
+            title={english.system.value[469 + id]}
+          >
+            <img
+              src={new URL(
+                `../assets/stickers/${id + 1}.png`,
+                import.meta.url,
+              )
+                .toString()}
             />
-          ))}
-        </ol>
-      )}
-
-      {stickerIds.length > 0 && (
-        <ol class="stickers">
-          {stickerIds[props.missionIdx].map((id) => (
-            <li
-              key={id}
-              class="sticker-icon"
-              data-id={id}
-              data-collected={props.save.stamp_get[id] ? "" : null}
-              title={english.system.value[469 + id]}
-            >
-              <img
-                src={new URL(
-                  `../assets/stickers/${id + 1}.png`,
-                  import.meta.url,
-                )
-                  .toString()}
-              />
-            </li>
-          ))}
-        </ol>
-      )}
+          </li>
+        ))}
+      </ol>
 
       {imgUrl && <img class="fan-img" src={imgUrl.toString()} />}
     </>
