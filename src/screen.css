@@ -1,22 +1,28 @@
 * {
   font-family: inherit;
   font-size: inherit;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: Seurat Pro B;
+  src: url('./assets/FOT-SeuratPro-B.otf');
+}
+
+@font-face {
+  font-family: Rodin Pro DB;
+  src: url('./assets/FOT-RodinPro-DB.otf');
+}
+
 :root {
-  font-family: Segoe UI, sans-serif;
+  font-family: Rodin Pro DB, Segoe UI, sans-serif;
+  font-size: 14px;
 }
 
 /*
-:root {
-  margin: 0;
-}
-
-body {
-  margin: 0;
-}
-
 select-meadow {
   width: 100lvw;
   height: 100lvh;

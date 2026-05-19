@@ -58,11 +58,14 @@ export function Measurement(
       if (milliseconds !== milliseconds) {
         return <>NaN</>;
       }
-      let dur = Temporal.Duration.from({ milliseconds });
-      dur = dur.round({ largestUnit: "minute" });
+      const dur = Temporal.Duration.from({ milliseconds });
+      const rounded = dur.round({
+        largestUnit: "minutes",
+        smallestUnit: "seconds",
+      });
       return (
         <time dateTime={dur.toString()} className={props.className}>
-          {durFmt.format(dur)}
+          {durFmt.format(rounded)}
         </time>
       );
     }
@@ -134,7 +137,6 @@ export function Measurement(
 
 const durFmt = new Intl.DurationFormat(undefined, {
   style: "digital",
-  hours: "narrow", // otherwise minutes get zero-padded
   hoursDisplay: "auto",
 });
 
