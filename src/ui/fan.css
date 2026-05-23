@@ -9,9 +9,10 @@ li.fan:not(:has(> ol.stars > li)) {
 }
 
 ol.fans > li {
+  display: flex;
+  flex-direction: column;
   width: 250px;
   color: rgb(255, 255, 255, 0.85);
-  height: min-content;
 
   & > h2 {
     text-align: center;
@@ -38,26 +39,53 @@ ol.stars > li {
 }
 
 dt::after {
-  content: ':';  
+  content: ':';
 }
 
 ol.collectibles {
   display: grid;
-  grid-template-columns: repeat(auto-fit, 50px);
   justify-content: space-evenly;
-  align-items: end;
-  gap: 0.5rem;
+  place-items: end center;
+  row-gap: 0.5rem;
+  margin-bottom: 0.5rem;
+
+  grid-template-columns: repeat(auto-fit, 10%);
+
+  &:has(> li:nth-child(6):last-child) {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  &:has(> li:nth-child(7):last-child) {
+    grid-template-columns: repeat(8, 1fr);
+  }
+
+  &:has(> li:nth-child(9):last-child) {
+    grid-template-columns: repeat(10, 1fr);
+  }
+
+  & > li {
+    grid-column-end: span 2;
+  }
+
+  & > li:nth-child(5):nth-last-child(3),
+  & > li:nth-child(6):nth-last-child(4) {
+    grid-column-start: 2;
+  }
 }
 
 .fan-img {
-  position: absolute;
-  width: 20lvh;
-  bottom: 60px;
+  width: 80%;
+  align-self: center;
+  margin-block: auto 50px;
 }
 
 .present-icon,
 .cousin-icon,
 .sticker-icon {
+  --size: 40px;
+
+  user-select: none;
+  
   &:not([data-collected]) {
     filter: contrast(0) brightness(0) opacity(0.5);
   }
@@ -71,41 +99,61 @@ ol.collectibles {
 
 .present-icon {
   margin-top: 0.5em;
-  width: 56px;
-  height: 56px;
+  width: var(--size);
+  height: var(--size);
 }
 
 .cousin-icon {
-  --width: 56px;
-  --height: calc(var(--width) * 620 / 454);
+  --width: var(--size);
+  --sprite-height: calc(var(--width) * 620 / 454);
+  --height: calc(var(--width) * var(--aspect-ratio, 1));
+  --extra-height: calc(var(--sprite-height) - var(--height));
 
   background-image: url("../assets/cousins.png");
   width: var(--width);
   height: var(--height);
-  background-size: 1000% 400%;
+  background-size: calc(10 * var(--width)) calc(4 * var(--sprite-height));
   background-repeat: no-repeat;
 
   --grid-x: calc(mod(var(--id), 10));
   --grid-y: calc(round(down, var(--id) / 10));
   background-position-x: calc(-1 * var(--grid-x) * var(--width));
-  background-position-y: calc(-1 * var(--grid-y) * var(--height));
+  background-position-y: calc(-1 * var(--grid-y) * var(--sprite-height) - var(--extra-height));
+
 
   /*
-   * Antialiasing plus fractional DPI scaling
-   * can cause a bit of sprite sheet leakage.
-   * This seems to help.
+   * Instead of making *every* cousin image extra tall,
+   * default to squares and only enlarge the ones that need it.
    */
-  mask-composite: intersect;
-  mask-image:
-    linear-gradient(to bottom, transparent 1px, black 1px),
-    linear-gradient(to right, transparent 1px, black 1px);
+  &[data-id="7"],
+  &[data-id="34"] {
+    --aspect-ratio: 1.1;
+  }
+  &[data-id="14"] {
+    --aspect-ratio: 1.15;
+  }
+  &[data-id="38"],
+  &[data-id="6"] {
+    --aspect-ratio: 1.25;
+  }
+  &[data-id="35"],
+  &[data-id="30"] {
+    --aspect-ratio: 1.3;
+  }
+  &[data-id="26"],
+  &[data-id="10"],
+  &[data-id="27"] {
+    --aspect-ratio: 1.35;
+  }
 }
 
 .sticker-icon {
-  width: 56px;
-  height: 56px;
+  width: var(--size);
+  height: var(--size);
 
+  /*
   border: 2px solid rgb(255, 255, 255, 0.5);
   border-radius: 4px;
   padding: 4px;
+  */
 }

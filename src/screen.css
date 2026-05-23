@@ -33,12 +33,11 @@ select-meadow {
 */
 
 :root {
-  height: 100lvh;
-
+  min-height: 100svh;
   background-image: url('./assets/re-back.png'), url('./assets/sky.png'), url('./assets/sky2.png');
-  background-size: auto 50lvh, auto 45lvh, auto 28lvh;
+  background-size: auto 50%, auto 45%, auto 28%;
   background-repeat: repeat-x;
-  background-position-y: bottom, top 20lvh, top;
+  background-position-y: bottom 0, top 40%, top;
 }
 
 body {
@@ -52,10 +51,13 @@ ol {
 }
 
 ol.fans {
+  height: 100%;
+  min-height: 100svh;
   display: flex;
   gap: 1rem;
   padding: 1rem;
   width: max-content;
+  align-items: stretch;
 }
 
 data[data-unit="mm"]::before { content: "📏"; }
