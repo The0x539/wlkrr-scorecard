@@ -82,7 +82,7 @@ for (const category of categories) {
   for (const tc of datas) {
     for (const [language, text] of Object.entries(tc.texts)) {
       groups[language] ??= [];
-      groups[language].push(text.replace("\n", " ").trim());
+      groups[language].push(text.replaceAll("\n", " ").trim());
     }
   }
 

@@ -102,7 +102,7 @@ export function Gauge(
               <Measurement
                 value={value}
                 unit={markUnit}
-                className="marker-text"
+                class="marker-text"
                 extra={extra}
               />
             </figcaption>
@@ -117,7 +117,7 @@ export function Gauge(
             <Measurement
               value={props.meteor}
               unit={markUnit}
-              className="marker-text"
+              class="marker-text"
             />
           </figcaption>
         )}
@@ -168,7 +168,7 @@ export function SaturnGauge(
             <Measurement
               value={n}
               unit={Dimension.ConciseLength}
-              className="marker-text"
+              class="marker-text"
             />
           </figcaption>
         ))}

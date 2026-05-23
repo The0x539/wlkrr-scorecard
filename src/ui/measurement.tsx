@@ -18,10 +18,19 @@ export function Measurement(
     value: number;
     unit: Dimension;
     extra?: number;
-    className?: string;
+    class?: string;
     ["no-icon"]?: boolean;
   },
 ): JSX.Element {
+  let className = props.class;
+  if (props["no-icon"]) {
+    if (className) {
+      className += " no-icon";
+    } else {
+      className = "no-icon";
+    }
+  }
+
   let text: string;
   let unit: string | null = null;
   const n = props.value, extra = props.extra;
@@ -64,7 +73,7 @@ export function Measurement(
         smallestUnit: "seconds",
       });
       return (
-        <time dateTime={dur.toString()} className={props.className}>
+        <time dateTime={dur.toString()} class={className}>
           {durFmt.format(rounded)}
         </time>
       );
@@ -98,10 +107,17 @@ export function Measurement(
       break;
     }
     case Dimension.AstronomicalLength: {
-      const [mantissa, exponent] = n.toExponential(3).split(/e\+?/);
-      // milli-earths
+      // For these measurements:
+      // - Your katamari core is the Earth.
+      // - A save file's records[0] value measures YmCore.u32Diameter.
+      // - u32Diameter starts at 1000.
+      // - The Earth is assumed to be a sphere with a diameter of 12,742 kilometers.
+      // Thus, the value is treated as a "milli-earths" measurement.
+
+      const m = n * 12742; // Now it's in meters.
+      const [mantissa, exponent] = m.toExponential(3).split(/e\+?/);
       return (
-        <data value={n} data-unit="m♁" className={props.className}>
+        <data value={n} data-unit="m♁" class={className}>
           <math>
             <mrow>
               <mn>{mantissa}</mn>
@@ -130,9 +146,7 @@ export function Measurement(
     }
   }
 
-  return (
-    <data value={n} data-unit={unit} className={props.className}>{text}</data>
-  );
+  return <data value={n} data-unit={unit} class={className}>{text}</data>;
 }
 
 const durFmt = new Intl.DurationFormat(undefined, {

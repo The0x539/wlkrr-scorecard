@@ -1,0 +1,18 @@
+.collection-list {
+  display: flex;
+  flex-flow: column wrap;
+  max-height: 55lvh;
+
+  gap: 1rem;
+
+  & > li {
+    background: rgb(0, 0, 0, 0.5);
+    color: rgb(255, 255, 255, 0.8);
+    border-radius: 0.5rem;
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 500px;
+    padding: 0.5rem;
+    gap: 0.5rem;
+  }
+}

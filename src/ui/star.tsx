@@ -173,17 +173,12 @@ export function Star(
       );
       break;
     case Objective.Sun: {
-      // For this level:
-      // - Your katamari core is the Earth.
-      // - records[0] measures YmCore.u32Diameter.
-      // - u32Diameter starts at 1000.
-      // - The Earth is assumed to be a sphere with a diameter of 12,742 kilometers.
       gauges.push(
         <dl>
           <dt>Size</dt>
           <dd>
             <Measurement
-              value={records[0] * 12742}
+              value={records[0]}
               unit={Dimension.AstronomicalLength}
             />
           </dd>
