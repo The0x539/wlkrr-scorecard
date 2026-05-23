@@ -1,6 +1,6 @@
-import { effect, signal, useSignal } from "@preact/signals";
+import { effect, signal } from "@preact/signals";
 
-import SaveFile from "../save-file.ts";
+import SaveFile, { type SaveInfo } from "../save-file.ts";
 import decrypt from "../decrypt.ts";
 
 import type { JSX } from "preact";
@@ -13,34 +13,19 @@ import {
   recordCategoryId,
 } from "../game-data/fans.ts";
 import { missions } from "../game-data/missions.ts";
-import { DropYourSaveFile } from "./drop-your-save-file.tsx";
-import { SaveSelector } from "./save-selector.tsx";
 import { Fan } from "./fan.tsx";
 
-// TODO: expose a UI control to toggle this
-const useMeadowOrder = signal(false);
+export function Scorecard(
+  props: { save: SaveInfo; meadowOrder: boolean },
+): JSX.Element {
+  const game = props.save.game;
 
-export function Scorecard(): JSX.Element {
-  const save = fileState.save.value;
-  if (!save) {
-    return DropYourSaveFile();
-  }
-
-  const selectedSlot = useSignal(-1);
-  if (selectedSlot.value === -1) {
-    selectedSlot.value = save.indexOfNewestSave();
-  }
-
-  const slot = save.users[selectedSlot.value];
-  const game = slot.game;
-
-  const order = useMeadowOrder.value
+  const order = props.meadowOrder
     ? meadowOrder.flat().concat(memoryOrder).map((i) => gameFan2Mission[i])
     : gameFan2Mission;
 
   return (
     <>
-      {SaveSelector(selectedSlot)}
       <ol class="fans">
         {order.map((i) => (
           <li

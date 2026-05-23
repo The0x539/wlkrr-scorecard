@@ -68,6 +68,7 @@ const categories = [
   "general",
   "suffix",
   "special",
+  "category",
 ];
 
 for (const category of categories) {

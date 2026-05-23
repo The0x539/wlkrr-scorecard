@@ -1,15 +1,16 @@
 import { handleFolder, isDirectory } from "./filesystem-descent.ts";
-import { fileState, Scorecard } from "./ui/scorecard.tsx";
+import { fileState } from "./ui/scorecard.tsx";
 
 import { createElement, render } from "preact";
 
 import "./screen.css";
+import { Main } from "./ui/main.tsx";
 
 if (!window["Temporal"]) {
   await import("temporal-polyfill/global");
 }
 
-render(createElement(Scorecard, {}), document.body);
+render(createElement(Main, {}), document.body);
 
 document.addEventListener("dragover", (e: DragEvent) => {
   if (!e.dataTransfer) return;
