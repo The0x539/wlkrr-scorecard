@@ -56,6 +56,7 @@ export function Collection(props: { save: SaveInfo }): JSX.Element {
         data-index={i}
         data-id={things.ids[i]}
         data-category={category}
+        data-collected={collected ? "" : null}
       >
         {english.names.value[i]}
         {collected ? "✔️" : "❌"}
@@ -91,6 +92,11 @@ function CategoryPicker(
   },
 ): JSX.Element {
   const { currentCategory, overallCount, categoryCounts } = props;
+
+  const complete = ({ collected, total }: Counts) => ({
+    "data-complete": collected === total ? "" : null,
+  });
+
   return (
     <fieldset role="radiogroup" class="category-picker">
       <RadioButton
@@ -98,6 +104,7 @@ function CategoryPicker(
         id="category-everything"
         value={EVERYTHING}
         bind={currentCategory}
+        extra={complete(overallCount)}
         label="Everything"
       >
         <Measurement
@@ -112,6 +119,7 @@ function CategoryPicker(
         id="category-remaining"
         value={REMAINING}
         bind={currentCategory}
+        extra={complete(overallCount)}
         label="Remaining"
       >
         <Measurement
@@ -128,6 +136,7 @@ function CategoryPicker(
             id={`category-${i}`}
             value={i}
             bind={currentCategory}
+            extra={complete({ collected, total })}
             label={english.category.value[i] || "Dummy"}
           >
             <Measurement

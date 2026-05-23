@@ -14,7 +14,7 @@ export function RadioButton<T extends string | number>(
 ): JSX.Element {
   const { name, id, value } = props;
   return (
-    <label for={props.id}>
+    <label for={props.id} {...props.extra}>
       <input
         type="radio"
         checked={props.bind.value === props.value}
@@ -22,7 +22,6 @@ export function RadioButton<T extends string | number>(
           if (event.currentTarget.checked) props.bind.value = props.value;
         }}
         {...{ name, id, value }}
-        {...props.extra}
       />
       {props.label}
       {props.children}
