@@ -49,7 +49,10 @@ export default defineConfig({
     favicon: "./src/assets/prince.png",
     appIcon: {
       name: "We ❤️ Katamari Scorecard",
-      icons: [{ src: "./src/assets/king.png", size: 512 }],
+      icons: [
+        { src: "./src/assets/king.png", size: 192 },
+        { src: "./src/assets/king.png", size: 512 },
+      ],
     },
   },
   source: { assetsInclude: [/\.jxl$/] },
