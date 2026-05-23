@@ -6,6 +6,7 @@
     "jsr:@std/internal@^1.0.12": "1.0.12",
     "jsr:@std/path@^1.1.4": "1.1.4",
     "npm:@preact/signals@^2.9.0": "2.9.0_preact@10.29.2",
+    "npm:@rsbuild/core@*": "2.0.7",
     "npm:@rsbuild/core@^2.0.7": "2.0.7",
     "npm:@rsbuild/plugin-preact@^1.7.2": "1.7.2_@rsbuild+core@2.0.7_preact@10.29.2",
     "npm:@rsbuild/plugin-type-check@^1.3.4": "1.3.4_@rsbuild+core@2.0.7",

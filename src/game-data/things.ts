@@ -13,6 +13,6 @@ export default computed(() => {
   return ({
     sizes: new Uint32Array(sizeData.value),
     categories: new Uint8Array(categoryData.value),
-    names: nameData.value,
+    ids: nameData.value,
   });
 });

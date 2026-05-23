@@ -5,15 +5,16 @@ import { SaveSelector } from "./save-selector.tsx";
 export type Mode = "scorecard" | "collection";
 
 import "./menu.css";
+import { RadioButton } from "./radio-button.tsx";
 
 export function Menu(
   props: {
-    chosenMode: Signal<Mode | undefined>;
+    chosenMode: Signal<Mode>;
     chosenSlot: Signal<number>;
-    meadowOrder: Signal<boolean>;
+    fanOrder: Signal<"cosmos" | "meadow">;
   },
 ): JSX.Element {
-  const { chosenMode, chosenSlot, meadowOrder } = props;
+  const { chosenMode, chosenSlot, fanOrder } = props;
   return (
     <div role="menu">
       <SaveSelector chosenSlot={chosenSlot} />
@@ -21,57 +22,41 @@ export function Menu(
       <fieldset role="radiogroup">
         <legend>Mode</legend>
 
-        <input
+        <RadioButton
           name="mode"
           id="scorecard-mode"
-          type="radio"
           value="scorecard"
-          checked={chosenMode.value === "scorecard"}
-          onChange={(event) => {
-            if (event.currentTarget.checked) chosenMode.value = "scorecard";
-          }}
+          bind={chosenMode}
+          label="Scorecard"
         />
-        <label for="scorecard-mode">Scorecard</label>
 
-        <input
+        <RadioButton
           name="mode"
           id="collection-mode"
-          type="radio"
           value="collection"
-          checked={chosenMode.value === "collection"}
-          onChange={(event) => {
-            if (event.currentTarget.checked) chosenMode.value = "collection";
-          }}
+          bind={chosenMode}
+          label="Collection"
         />
-        <label for="collection-mode">Collection</label>
       </fieldset>
 
       <fieldset role="radiogroup">
         <legend>Fan Order</legend>
 
-        <input
+        <RadioButton
           name="fan-order"
           id="cosmos-order"
-          type="radio"
           value="cosmos"
-          checked={!meadowOrder.value}
-          onChange={(event) => {
-            if (event.currentTarget.checked) meadowOrder.value = false;
-          }}
+          bind={fanOrder}
+          label="Cosmos"
         />
-        <label for="cosmos-order">Cosmos</label>
 
-        <input
+        <RadioButton
           name="fan-order"
           id="meadow-order"
-          type="radio"
           value="meadow"
-          checked={meadowOrder.value}
-          onChange={(event) => {
-            if (event.currentTarget.checked) meadowOrder.value = true;
-          }}
+          bind={fanOrder}
+          label="Meadow"
         />
-        <label for="meadow-order">Meadow</label>
       </fieldset>
     </div>
   );

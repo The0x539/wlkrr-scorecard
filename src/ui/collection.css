@@ -4,6 +4,7 @@
   max-height: 55lvh;
 
   gap: 1rem;
+  padding: 1rem;
 
   & > li {
     background: rgb(0, 0, 0, 0.5);
@@ -11,8 +12,33 @@
     border-radius: 0.5rem;
     display: flex;
     flex-flow: row wrap;
-    max-width: 500px;
+    max-width: 20lvw;
     padding: 0.5rem;
     gap: 0.5rem;
+  }
+}
+
+fieldset.category-picker {
+  position: fixed;
+  bottom: 1rem;
+  width: 100lvw;
+  overflow-x: scroll;
+
+  display: flex;
+  flex-flow: column wrap;
+  max-height: 35lvh;
+  border: none;
+  gap: 0.5rem;
+  padding: 1rem;
+
+  & > label {
+    border-radius: 0.5rem;
+    background: black;
+    color: white;
+    padding: 0.5rem;
+
+    & > data {
+      display: block;
+    }
   }
 }

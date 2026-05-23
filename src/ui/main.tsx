@@ -14,7 +14,7 @@ export function Main(): JSX.Element {
 
   const chosenSlot = useSignal(-1);
   const chosenMode = useSignal<Mode>("scorecard");
-  const meadowOrder = useSignal(false);
+  const fanOrder = useSignal<"cosmos" | "meadow">("cosmos");
 
   if (chosenSlot.value === -1) {
     chosenSlot.value = save.indexOfNewestSave();
@@ -24,14 +24,10 @@ export function Main(): JSX.Element {
   return (
     <>
       {chosenMode.value === "scorecard" && (
-        <Scorecard save={slot} meadowOrder={meadowOrder.value} />
+        <Scorecard save={slot} meadowOrder={fanOrder.value === "meadow"} />
       )}
       {chosenMode.value === "collection" && <Collection save={slot} />}
-      <Menu
-        chosenMode={chosenMode}
-        chosenSlot={chosenSlot}
-        meadowOrder={meadowOrder}
-      />
+      <Menu {...{ chosenMode, chosenSlot, fanOrder }} />
     </>
   );
 }
