@@ -100,7 +100,7 @@ export function Fan(
             class="sticker-icon"
             data-id={id}
             data-collected={props.save.stamp_get[id] ? "" : null}
-            title={english.system.value[469 + id]}
+            title={english.system.value[440 + id]}
           >
             <img
               src={new URL(
