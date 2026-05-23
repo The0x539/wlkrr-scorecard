@@ -126,7 +126,7 @@ export function Measurement(
                 <mn>10</mn>
                 <mn>{exponent}</mn>
               </msup>
-              <mo rspace="thickmathspace">&#x2062;</mo>
+              <mo>&#x2062;</mo>
               <mi mathvariant="normal">m</mi>
             </mrow>
           </math>
