@@ -44,7 +44,14 @@ const pluginFixPrefresh = (name = "fix-prefresh"): RsbuildPlugin => ({
 });
 
 export default defineConfig({
-  html: { template: "./src/index.html" },
+  html: {
+    template: "./src/index.html",
+    favicon: "./src/assets/prince.png",
+    appIcon: {
+      name: "We ❤️ Katamari Scorecard",
+      icons: [{ src: "./src/assets/king.png", size: 512 }],
+    },
+  },
   source: { assetsInclude: [/\.jxl$/] },
   output: {
     cleanDistPath: true,
