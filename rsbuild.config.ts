@@ -1,13 +1,50 @@
 import { defineConfig } from "@rsbuild/core";
 import { pluginPreact } from "@rsbuild/plugin-preact";
 import { pluginTypeCheck } from "@rsbuild/plugin-type-check";
+import { Buffer } from "node:buffer";
+
+import type { RsbuildPlugin, RsbuildPluginAPI, Rspack } from "@rsbuild/core";
+
+// I shouldn't have needed to do any of this.
+const pluginFixPrefresh = (name = "fix-prefresh"): RsbuildPlugin => ({
+  name,
+  apply: "serve",
+  post: ["preact-refresh"],
+  setup(api: RsbuildPluginAPI) {
+    api.modifyBundlerChain((chain, { isDev }) => {
+      if (!isDev) {
+        return;
+      }
+
+      chain.plugin(name).use({
+        name,
+        apply(compiler: Rspack.Compiler) {
+          compiler.hooks.thisCompilation.tap(name, (compilation) => {
+            compilation.hooks.runtimeModule.tap(name, (runtimeModule) => {
+              const moduleName = runtimeModule.constructor.name;
+              if (!moduleName.includes("HotModule")) {
+                return;
+              }
+
+              const moduleSource = runtimeModule.source!;
+              let src: string = moduleSource.source.toString("utf-8");
+              for (const thing of ["RefreshReg", "RefreshSig"]) {
+                src = src.replaceAll(
+                  `self.$${thing}$ = prev${thing};`,
+                  `self.$${thing}$ = prev${thing} ?? self.$${thing}$;`,
+                );
+              }
+              moduleSource.source = Buffer.from(src, "utf-8");
+            });
+          });
+        },
+      });
+    });
+  },
+});
 
 export default defineConfig({
   html: { template: "./src/index.html" },
-  dev: {
-    // this seems to break the dynamic temporal-polyfill import
-    lazyCompilation: false,
-  },
   source: { assetsInclude: [/\.jxl$/] },
   output: {
     cleanDistPath: true,
@@ -29,8 +66,8 @@ export default defineConfig({
     },
   },
   plugins: [
-    // prefresh just seems to throw a weird error. not my problem.
-    pluginPreact({ prefreshEnabled: false }),
+    pluginPreact(),
+    pluginFixPrefresh(),
     pluginTypeCheck({
       tsCheckerOptions: {
         typescript: {

@@ -16,6 +16,7 @@
     "@rsbuild/plugin-preact": "npm:@rsbuild/plugin-preact@^1.7.2",
     "@rsbuild/plugin-type-check": "npm:@rsbuild/plugin-type-check@^1.3.4",
     "@std/fs": "jsr:@std/fs@^1.0.23",
+    "@types/node": "npm:@types/node@^25.9.1",
     "preact": "npm:preact@^10.29.2",
     "preact-transitioning": "npm:preact-transitioning@^1.5.3",
     "temporal-polyfill": "npm:temporal-polyfill@^0.3.2",
