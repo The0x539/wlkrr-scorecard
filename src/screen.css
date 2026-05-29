@@ -37,7 +37,7 @@ select-meadow {
   background-image: url('./assets/re-back.png'), url('./assets/sky.png'), url('./assets/sky2.png');
   background-size: auto 50%, auto 45%, auto 28%;
   background-repeat: repeat-x;
-  background-position-y: bottom 0, top 40%, top;
+  background-position-y: bottom, top 40%, top;
 }
 
 body {
