@@ -71,12 +71,16 @@ time:not(.no-icon)::before { content: "⏱️"; }
 
 [data-fan-id="5"] data:not(.no-icon):not([data-unit])::before { content: "🪐"; }
 [data-fan-id="7"] data:not(.no-icon):not([data-unit])::before { content: "🌼"; }
+[data-fan-id="8"] data:not(.no-icon):not([data-unit])::before { content: "🎓"; }
 [data-fan-id="10"] data:not(.no-icon):not([data-unit])::before { content: "🌧️"; }
 [data-fan-id="11"] data:not(.no-icon):not([data-unit])::before { content: "🐾"; }
 [data-fan-id="12"] data:not(.no-icon):not([data-unit])::before { content: "📃"; }
+[data-fan-id="16"] data:not(.no-icon):not([data-unit])::before { content: "🪀"; }
 [data-fan-id="18"] data:not(.no-icon):not([data-unit])::before { content: "🍬"; }
 [data-fan-id="24"] data:not(.no-icon):not([data-unit])::before { content: "🌹"; }
 [data-fan-id="26"] data:not(.no-icon):not([data-unit])::before { content: "🗾"; }
+[data-fan-id="31"] data:not(.no-icon):not([data-unit])::before { content: "🩰"; }
 [data-fan-id="32"] data:not(.no-icon):not([data-unit])::before { content: "🛞"; }
+[data-fan-id="33"] data:not(.no-icon):not([data-unit])::before { content: "🥊"; }
 [data-fan-id="34"] data:not(.no-icon):not([data-unit])::before { content: "🎵"; }
 

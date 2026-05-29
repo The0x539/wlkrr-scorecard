@@ -60,7 +60,7 @@ export function Fan(
           return name && !name.includes("Eternal") && (
             <li key={i}>
               <Star
-                name={english.select.value[nameId]}
+                name={name.replace(/^As /, "")}
                 data={props.stars[i]}
                 info={missions[props.missionIdx][i]}
               />

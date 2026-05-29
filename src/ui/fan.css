@@ -36,6 +36,11 @@ ol.stars > li {
   background: rgb(0, 0, 0, 0.5);
   padding: 0.5rem;
   border-radius: 0.5rem;
+
+  & > data,
+  & > time {
+    display: block;
+  }
 }
 
 dt::after {
@@ -144,6 +149,13 @@ ol.collectibles {
   &[data-id="10"],
   &[data-id="27"] {
     --aspect-ratio: 1.35;
+  }
+}
+
+.meteor-name {
+  float: right;
+  &::before {
+    content: "☄️";
   }
 }
 

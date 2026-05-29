@@ -9,6 +9,7 @@ export function Gauge(
     ranks?: number[];
     rankRanks?: number[];
     meteor?: number;
+    meteorName?: string;
     max?: number;
     unit: Dimension;
     markUnit?: Dimension;
@@ -76,6 +77,7 @@ export function Gauge(
         unit={props.unit}
         extra={labelExtra}
       />
+      {props.meteorName && <span class="meteor-name">{props.meteorName}</span>}
       <div role="presentation" class="meter-container">
         <meter
           min="0"

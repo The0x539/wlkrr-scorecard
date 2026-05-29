@@ -26,8 +26,16 @@ export function Star(
 
   const meteor = props.info.meteor > 0 ? props.info.meteor : undefined;
 
+  let meteorName: string | undefined = undefined;
+  if (props.data.shooting_star) {
+    const prefix = getStarName(props.data.shooting_star_name);
+    const suffix = english.suffixes.value[16];
+    meteorName = `${prefix} ${suffix}`;
+  }
+
   const gauges: JSX.Element[] = [];
-  switch (objectives.get(props.info.proc)) {
+  const objective = objectives.get(props.info.proc);
+  switch (objective) {
     case Objective.Size:
     case Objective.Campfire:
       gauges.push(
@@ -40,6 +48,7 @@ export function Star(
         <Gauge
           value={records[1]}
           meteor={meteor}
+          meteorName={meteorName}
           unit={Dimension.Time}
           max={props.info.time}
         />,
@@ -72,6 +81,9 @@ export function Star(
     case Objective.Many:
     case Objective.Sweets:
     case Objective.Countries:
+      if (records[0] !== 0) {
+        gauges.push(<Measurement value={records[0]} unit={Dimension.Length} />);
+      }
       gauges.push(
         <Gauge
           value={records[2]}
@@ -85,11 +97,21 @@ export function Star(
     case Objective.FastSize:
     case Objective.FastMany:
     case Objective.Every:
+      if (records[0] !== 0) {
+        const unit = objective === Objective.FastSize
+          ? Dimension.ConciseLength
+          : Dimension.Length;
+        gauges.push(<Measurement value={records[0]} unit={unit} />);
+      }
+      if (records[2] > 0) {
+        gauges.push(<Measurement value={records[2]} unit={Dimension.Count} />);
+      }
       gauges.push(
         <Gauge
           value={records[1]}
           ranks={ranks}
           unit={Dimension.Time}
+          meteorName={meteorName}
         />,
       );
       break;
@@ -132,6 +154,7 @@ export function Star(
         }
       }
       gauges.push(
+        <Measurement value={records[0]} unit={Dimension.Length} />,
         <Gauge
           value={records[2]}
           ranks={amounts}
@@ -144,59 +167,28 @@ export function Star(
           unit={Dimension.Time}
           max={props.info.time}
         />,
-        <Measurement value={records[0]} unit={Dimension.Length} />,
       );
       break;
     }
     case Objective.Tutorial:
       gauges.push(
-        <dl>
-          <dt>Size</dt>
-          <dd>
-            <Measurement value={records[0]} unit={Dimension.Length} />
-          </dd>
-          <dt>Time</dt>
-          <dd>
-            <Measurement value={records[1]} unit={Dimension.Time} />
-          </dd>
-        </dl>,
+        <Measurement value={records[0]} unit={Dimension.Length} />,
+        <Measurement value={records[1]} unit={Dimension.Time} />,
       );
       break;
     case Objective.Snowman:
-      gauges.push(
-        <dl>
-          <dt>Size</dt>
-          <dd>
-            <Measurement value={records[2]} unit={Dimension.Length} />
-          </dd>
-        </dl>,
-      );
+      gauges.push(<Measurement value={records[2]} unit={Dimension.Length} />);
       break;
     case Objective.Sun: {
       gauges.push(
-        <dl>
-          <dt>Size</dt>
-          <dd>
-            <Measurement
-              value={records[0]}
-              unit={Dimension.AstronomicalLength}
-            />
-          </dd>
-          <dt>Time</dt>
-          <dd>
-            <Measurement value={records[1]} unit={Dimension.Time} />
-          </dd>
-          <dt>Objects</dt>
-
-          <dd>
-            {/*Due to stardust, it's normal for this to exceed 100%.*/}
-            <Measurement
-              value={records[2]}
-              unit={Dimension.Count}
-              extra={records[3]}
-            />
-          </dd>
-        </dl>,
+        <Measurement value={records[0]} unit={Dimension.AstronomicalLength} />,
+        <Measurement value={records[1]} unit={Dimension.Time} />,
+        // Due to stardust, it's normal for this to exceed 100%.
+        <Measurement
+          value={records[2]}
+          unit={Dimension.Count}
+          extra={records[3]}
+        />,
       );
       break;
     }
@@ -225,12 +217,6 @@ export function Star(
           )}
         </dl>,
       );
-  }
-
-  if (props.data.shooting_star) {
-    const prefix = getStarName(props.data.shooting_star_name);
-    const suffix = english.suffixes.value[16];
-    gauges.push(<>{`${prefix} ${suffix}`}</>);
   }
 
   return (
