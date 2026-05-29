@@ -21,10 +21,6 @@ ol.fans > li {
   }
 }
 
-li.fan[data-memory] h3 {
-  display: none;
-}
-
 ol.stars {
   display: flex;
   gap: 0.5rem;

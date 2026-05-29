@@ -19,9 +19,10 @@ export function Fan(
   },
 ): JSX.Element {
   let imgUrl: URL | null = null;
-  let name = "";
+  let fanName = english.names.value[2800 + props.fanIdx];
+
+  let rrName = "";
   try {
-    name = english.names.value[2800 + props.fanIdx];
     imgUrl = new URL(`../assets/fans/${props.fanIdx + 1}.png`, import.meta.url);
   } catch {
     try {
@@ -30,7 +31,9 @@ export function Fan(
         `../assets/fans/k${props.fanIdx - 29}.png`,
         import.meta.url,
       );
-      name = english.select.value[233 + props.fanIdx - 30];
+      const memoryProps = [1724, 176, 952, 1989, 1127];
+      fanName = english.names.value[memoryProps[props.fanIdx - 30]];
+      rrName = english.select.value[233 + props.fanIdx - 30];
     } catch {
       // whatever. Michiru and "Earth" are still acting weird.
     }
@@ -53,10 +56,10 @@ export function Fan(
 
   return (
     <>
-      <h2>{name}</h2>
+      <h2>{fanName}</h2>
       <ol class="stars">
         {props.starNames.map((nameId, i) => {
-          const name = english.select.value[nameId];
+          const name = rrName || english.select.value[nameId];
           return name && !name.includes("Eternal") && (
             <li key={i}>
               <Star
