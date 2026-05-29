@@ -1,6 +1,8 @@
 import type { JSX } from "preact/jsx-runtime";
 import type { SaveInfo } from "../save-file.ts";
 import type { Signal } from "@preact/signals";
+import type { RefObject } from "preact";
+import type { Inputs } from "preact/hooks";
 
 import thingsData from "../game-data/things.ts";
 import { english } from "../game-data/locale.ts";
@@ -9,6 +11,7 @@ import { useSignal } from "@preact/signals";
 import { RadioButton } from "./radio-button.tsx";
 
 import "./collection.css";
+import { useLayoutEffect, useRef } from "preact/hooks";
 
 const EVERYTHING = -1, REMAINING = -2;
 
@@ -73,16 +76,25 @@ export function Collection(props: { save: SaveInfo }): JSX.Element {
     );
   }
 
+  const hackRef = useRef<HTMLUListElement>(null);
+  useWidthHack(hackRef, [thingList]);
+
   return (
     <>
-      <ul class="collection-list">
+      <ul class="collection-list width-hack" ref={hackRef}>
         {thingList}
       </ul>
 
-      <CategoryPicker {...{ currentCategory, overallCount, categoryCounts }} />
+      <div role="presentation" class="category-picker-container">
+        <CategoryPicker
+          {...{ currentCategory, overallCount, categoryCounts }}
+        />
+      </div>
     </>
   );
 }
+
+type Counts = { collected: number; total: number };
 
 function CategoryPicker(
   props: {
@@ -97,8 +109,15 @@ function CategoryPicker(
     "data-complete": collected === total ? "" : null,
   });
 
+  const hackRef = useRef<HTMLFieldSetElement>(null);
+  useWidthHack(hackRef, []);
+
   return (
-    <fieldset role="radiogroup" class="category-picker">
+    <fieldset
+      role="radiogroup"
+      class="category-picker width-hack"
+      ref={hackRef}
+    >
       <RadioButton
         name="category"
         id="category-everything"
@@ -151,4 +170,30 @@ function CategoryPicker(
   );
 }
 
-type Counts = { collected: number; total: number };
+// https://bugzilla.mozilla.org/show_bug.cgi?id=995020
+function useWidthHack(elemRef: RefObject<HTMLElement>, inputs: Inputs): void {
+  useLayoutEffect(() => {
+    const elem = elemRef.current!;
+    elem.style.width = "";
+    if (!requiresWidthHack(elem)) return;
+
+    performWidthHack(elem);
+
+    const handler = () => performWidthHack(elem);
+    addEventListener("resize", handler);
+    return () => removeEventListener("resize", handler);
+  }, inputs);
+}
+
+function requiresWidthHack(elem: HTMLElement): boolean {
+  const outer = elem.getBoundingClientRect();
+  const last = elem.lastElementChild!.getBoundingClientRect();
+  return outer.right < last.right;
+}
+
+function performWidthHack(elem: HTMLElement): void {
+  const first = elem.firstElementChild!.getBoundingClientRect();
+  const last = elem.lastElementChild!.getBoundingClientRect();
+  const newWidth = last.right - first.left;
+  elem.style.width = newWidth + "px";
+}

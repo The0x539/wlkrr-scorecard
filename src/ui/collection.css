@@ -22,11 +22,20 @@
   }
 }
 
-fieldset.category-picker {
+.width-hack {
+  align-content: start;
+  box-sizing: content-box;
+}
+
+div.category-picker-container {
+  max-width: 100lvw;
+  overflow-x: auto;
   position: fixed;
   bottom: 1rem;
-  width: 100lvw;
-  overflow-x: scroll;
+}
+
+fieldset.category-picker {
+  margin-inline-end: 60px; /* for the menu */
 
   display: flex;
   flex-flow: column wrap;
