@@ -60,27 +60,34 @@ ol.fans {
   align-items: stretch;
 }
 
-data:not(.no-icon) {
-  &[data-unit="mm"]::before { content: "📏"; }
-  &[data-unit="m♁"]::before { content: "🔭"; }
-  &[data-unit="kg"]::before { content: "💪"; }
-  &[data-unit="$"]::before { content: "💰"; }
-  &[data-unit="light"]::before { content: "🔆"; }
+:is(data, time):not(.no-icon)::before {
+  content: var(--icon);
 }
-time:not(.no-icon)::before { content: "⏱️"; }
 
-[data-fan-id="5"] data:not(.no-icon):not([data-unit])::before { content: "🪐"; }
-[data-fan-id="7"] data:not(.no-icon):not([data-unit])::before { content: "🌼"; }
-[data-fan-id="8"] data:not(.no-icon):not([data-unit])::before { content: "🎓"; }
-[data-fan-id="10"] data:not(.no-icon):not([data-unit])::before { content: "🌧️"; }
-[data-fan-id="11"] data:not(.no-icon):not([data-unit])::before { content: "🐾"; }
-[data-fan-id="12"] data:not(.no-icon):not([data-unit])::before { content: "📃"; }
-[data-fan-id="16"] data:not(.no-icon):not([data-unit])::before { content: "🪀"; }
-[data-fan-id="18"] data:not(.no-icon):not([data-unit])::before { content: "🍬"; }
-[data-fan-id="24"] data:not(.no-icon):not([data-unit])::before { content: "🌹"; }
-[data-fan-id="26"] data:not(.no-icon):not([data-unit])::before { content: "🗾"; }
-[data-fan-id="31"] data:not(.no-icon):not([data-unit])::before { content: "🩰"; }
-[data-fan-id="32"] data:not(.no-icon):not([data-unit])::before { content: "🛞"; }
-[data-fan-id="33"] data:not(.no-icon):not([data-unit])::before { content: "🥊"; }
-[data-fan-id="34"] data:not(.no-icon):not([data-unit])::before { content: "🎵"; }
+[data-fan-id="5"]  { --icon: "🪐"; }
+[data-fan-id="7"]  { --icon: "🌼"; }
+[data-fan-id="8"]  { --icon: "🎓"; }
+[data-fan-id="10"] { --icon: "🌧️"; }
+[data-fan-id="11"] { --icon: "🐾"; }
+[data-fan-id="12"] { --icon: "📃"; }
+[data-fan-id="13"] { --icon: "🎯"; }
+[data-fan-id="16"] { --icon: "🪀"; }
+[data-fan-id="18"] { --icon: "🍬"; }
+[data-fan-id="24"] { --icon: "🌹"; }
+[data-fan-id="26"] { --icon: "🗾"; }
+[data-fan-id="31"] { --icon: "🩰"; }
+[data-fan-id="32"] { --icon: "🛞"; }
+[data-fan-id="33"] { --icon: "🥊"; }
+[data-fan-id="34"] { --icon: "🎵"; }
+
+data[data-unit="mm"]    { --icon: "📏"; }
+data[data-unit="m♁"]    { --icon: "🔭"; }
+data[data-unit="kg"]    { --icon: "💪"; }
+data[data-unit="$"]     { --icon: "💰"; }
+data[data-unit="light"] { --icon: "🔆"; }
+time                    { --icon: "⏱️"; }
+
+[data-fan-id="13"] data:not(figure data) {
+  --icon: inherit;
+}
 

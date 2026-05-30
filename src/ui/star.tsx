@@ -138,6 +138,7 @@ export function Star(
     }
     case Objective.JustRight:
       gauges.push(
+        <Measurement value={records[3]} unit={Dimension.ConciseLength} />,
         <SaturnGauge value={records[0]} target={records[3]} ranks={ranks} />,
       );
       break;
